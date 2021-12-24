@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Co je UTXO.22?](README.md)
+* [Co je to UTXO.22?](README.md)
 * [Místo konání](misto-konani/README.md)
   * [Přehled sálů](misto-konani/prehled-salu/README.md)
     * [Rajská zahrada](misto-konani/prehled-salu/rajska-zahrada.md)
