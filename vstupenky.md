@@ -6,6 +6,14 @@ Konečné informace o tom jak budou vstupenky distribuovány a jaká bude jejich
 
 Vstupné bude placené - k dispozici budou 2-denní vstupenky ve 3 vlnách s možností upgradu na VIP.&#x20;
 
+## Jak to bude fungovat?
+
+Vstupenky budou k zakoupení na našem webu prostřednictvím kryptoměn, nebo platební kartou. Přihlášení bude možné přes Web3 peněženku nebo email.
+
+Každá zakoupená vstupenka bude mít ekvivalent QR kódu, který bude stačit ukázat v jakékoliv formě u vstupu.
+
+Nechceme uchovávat vaše osobní údaje, a tudíž bude proces nákupu plně anonymní. Všechny doplňující informace (jako například údaje na jmenovku) budou nepovinné.
+
 ## Distribuční fáze
 
 Vstupenky budou vypouštěny do oběhu ve třech vlnách:
