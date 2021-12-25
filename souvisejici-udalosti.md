@@ -4,7 +4,9 @@ description: Seznam souvisejících událostí
 
 # Související události
 
+Přehled všech větších krypto události v ČR/SK.
 
+## Květen - Červen 2022
 
 | Datum         | Název                                                          | Místo                      |
 | ------------- | -------------------------------------------------------------- | -------------------------- |
