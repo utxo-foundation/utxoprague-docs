@@ -55,12 +55,3 @@ Kromě citlivých dokumentů a interní komunikace se snažíme maximum informac
 ## Současný stav
 
 Máme rezervované místo konání a potvrzené první [sponzory](sponzori.md) a [přednášející](prednasejici.md). Ve výrobě jsou také  [stránky konference](propagace/webove-stranky.md), které by měli být v základní verzi hotové s oficiálním oznámení konference na začátku ledna. První vlna vstupenek je očekávána během února. Více informací naleznete na stránce [Roadmap](roadmap.md).
-
-## Základní fakta
-
-* Termín: **4.-5. červen 2022** (sobota-neděle)
-* Místo: [**Gabriel Loci, Praha**](misto-konani/) **** :flag\_cz:****
-* Kapacita: **1000 lidí** (max 1200)
-* Vstupné: [Ano](vstupenky.md)
-* Jazyk: čeština / slovenština :flag\_cz:, část anglicky :flag\_gb:
-* Online stream: ANO, ze všech přednáškových sálů (3 sály)
