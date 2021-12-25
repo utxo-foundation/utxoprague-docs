@@ -31,4 +31,7 @@
 ## Crypto Days
 
 * [Prague Crypto Days '22](crypto-days/prague-crypto-days-22.md)
-* [Související události](crypto-days/souvisejici-udalosti.md)
+
+***
+
+* [Související události](souvisejici-udalosti.md)

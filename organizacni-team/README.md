@@ -2,6 +2,10 @@
 
 Jsme nezávislý spolek složený ze zástupců několika českých kryptokomunit, které se věnují vzdělávání v oblasti kryptoměn nebo blockchainu.
 
+{% hint style="success" %}
+Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEtVhnv) vytvořený jen pro účely této konference, kde máme místo jak pro přednášející a organizátory, tak pro návštěvníky. Budeme velmi rádi za vaši zpětnou vazbu a pomoc!
+{% endhint %}
+
 ## Core team
 
 ### ![](../.gitbook/assets/tereza-circle.png) Tereza

@@ -46,9 +46,11 @@ Jsme spolek sdružující několik českých kryptokomunit, které se věnují v
 
 V letošním roce jsme mimo jiné uspořádali největší venkovní [Krypto meetup v Brně](https://www.facebook.com/events/moravsk%C3%A9-n%C3%A1m%C4%9Bst%C3%AD-602-00-brno-%C4%8Desk%C3%A1-republika/krypto-meetup-v-brn%C4%9B/735915783871565/) (22.6.2021) s více než 600 návštěvníky a konferenci [ETHBrno](https://ethbrno.gwei.cz/predchozi-rocniky/2021) (9.10.2021) s 200 návštěvníky. Obě akce byly zdarma.
 
-{% hint style="success" %}
-Připojte se na náš [komunitní Discord server](https://discord.gg/5k9dEtVhnv) vytvořený jen pro účely této konference, kde máme místo jak pro přednášející a organizátory, tak pro návštěvníky. Budeme velmi rádi za vaši zpětnou vazbu a pomoc!
-{% endhint %}
+## Otevřenost a transparentnost
+
+Tvrdíme o sobě, že jsme **otevřená komunitní konference** a proto je pro nás důležité, aby každý měl možnost říci svoje připomínky nebo nápady - třeba k plánování samotné akce, programu nebo čemukoliv jinému. Vytvořili jsme pro to speciální [UTXO Discord server](https://discord.gg/5k9dEtVhnv) (chatovací platforma), který je zaměřený jen na tuto konferenci. Budeme rádi pokud se zapojíte se do naší komunity.
+
+Kromě citlivých dokumentů a interní komunikace jsou všechny informace o plánování konference veřejné v rámci [Dokumentace](https://app.gitbook.com/o/-MX51JfmlnAQkYbTRI4J/s/ksSw74pkYApxPGDhzkzg/), do které přes ["utxo22-docs" GitHub repozitář](https://github.com/gweicz/utxo22-docs) může přispět kdokoliv.
 
 ## Současný stav
 
