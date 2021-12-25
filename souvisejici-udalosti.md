@@ -21,4 +21,4 @@ Přehled všech větších krypto události v ČR/SK.
 
 ## Další zdroje
 
-* [Ethereum události v roce 2022 ](https://docs.google.com/spreadsheets/d/1NEu\_FCc1hnGAuRgPmbXXpf0h2lCrCOlMKbbFEqgkVDQ/edit#gid=0)
+* [Ethereum události v roce 2022 (global)](https://docs.google.com/spreadsheets/d/1NEu\_FCc1hnGAuRgPmbXXpf0h2lCrCOlMKbbFEqgkVDQ/edit#gid=0)
