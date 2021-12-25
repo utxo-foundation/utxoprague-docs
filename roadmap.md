@@ -10,13 +10,14 @@
 * [ ] Finální název
 * [ ] Dočasná webová prezentace (landing)
 * [ ] Profily na [sociálních sítích](propagace/)
-* [ ] Oficiální oznámení konference
+* [ ] Zveřejnění konference (_soft-launch_)
 * [ ] Logo a vizuální identita konference
 * [ ] [Webová prezentace](propagace/webove-stranky.md) (V1)
+* [ ] Oficiální oznámení konference (_hard-launch)_
 
 ### Únor 2022
 
-* [ ] Webová prezentace - základní ticketing (V2)
+* [ ] Webová prezentace (V2) - základní ticketing
 * [ ] Konečné informace o vstupném a distribuci vstupenek
 * [ ] První vlna [vstupenek](vstupenky.md)
 
