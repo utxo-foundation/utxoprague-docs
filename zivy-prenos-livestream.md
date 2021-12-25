@@ -11,6 +11,7 @@ Jako streamovací platformu použijeme klasický [YouTube](https://www.youtube.c
 * [ ] Znělka konference
 * [ ] Zajištění technického vybavení salů (kamery, mikrofony atp.)
 * [ ] Zajištění režie a obsluhy
+* [ ] Založení YouTube kanálu
 
 ### Nápady
 
