@@ -1,0 +1,17 @@
+# Živý přenos (livestream)
+
+Obecný plán je že budeme livestreamovat všechno v přednáškových sálech (3 sály). Workshopy se livestreamovat nebudou.&#x20;
+
+Jako streamovací platformu použijeme klasický [YouTube Live](https://www.youtube.com/howyoutubeworks/product-features/live/#youtube-live).
+
+Živý přenos bude dostupný zdarma pro všechny - odkazy zveřejníme krátce před začátkem konference na našich webových stránkách a sociálních sítích.
+
+### TODO
+
+* [ ] Znělka konference
+* [ ] Zajištění technického vybavení salů (kamery, mikrofony atp.)
+* [ ] Zajištění režie a obsluhy
+
+### Nápady
+
+* V delších mezičasech mezi přednáškami můžeme vysílat doplňkový obsah, například pohled do zákulisí, rozhovory s hosty atp.
