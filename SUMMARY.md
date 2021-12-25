@@ -22,7 +22,7 @@
 * [Propagace](propagace/README.md)
   * [Webové stránky](propagace/webove-stranky.md)
 * [Organizační team](organizacni-team/README.md)
-  * [Koho hledáme](organizacni-team/koho-hledame.md)
+  * [Koho hledáme](koho-hledame.md)
   * [Legální entita](organizacni-team/legalni-entita.md)
   * [Organizační nástroje](organizacni-team/organizacni-nastroje.md)
 * [Kodex konference](kodex-konference.md)

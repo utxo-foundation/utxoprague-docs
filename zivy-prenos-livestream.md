@@ -2,7 +2,7 @@
 
 Obecný plán je že budeme livestreamovat všechno v přednáškových sálech (3 sály). Workshopy se livestreamovat nebudou.&#x20;
 
-Jako streamovací platformu použijeme klasický [YouTube Live](https://www.youtube.com/howyoutubeworks/product-features/live/#youtube-live).
+Jako streamovací platformu použijeme klasický [YouTube](https://www.youtube.com/howyoutubeworks/product-features/live/#youtube-live) (Live), kde vytvoříme kanál pro tuto konferenci.
 
 Živý přenos bude dostupný zdarma pro všechny - odkazy zveřejníme krátce před začátkem konference na našich webových stránkách a sociálních sítích.
 
