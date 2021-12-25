@@ -36,16 +36,17 @@ Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEt
 | ****[**coinmandeer**](https://twitter.com/KeenOfCoin)****        | **vizuální identita**        | Gwei.cz                                            |
 | [**Klein Petr**](https://twitter.com/kleinpetr\_com)****         | **technologie**              | Gwei.cz                                            |
 | ****[**m0xt**](https://twitter.com/m0xt)****                     | **sponzoři**                 | Gwei.cz                                            |
-| [**KryptoVláďa**](https://twitter.com/KryptoVlada)****           | moderátor                    | [KryptoVláďa komunita](https://discord.gg/RHmhNGN) |
+| [**KryptoVláďa**](https://twitter.com/KryptoVlada)****           | **moderátor**                | [KryptoVláďa komunita](https://discord.gg/RHmhNGN) |
 | ****[**damsky**](https://twitter.com/CryptoDamSky)****           | ..                           | Gwei.cz                                            |
 | [**rixcian**](https://twitter.com/rixcian)****                   | ..                           | Bankless.cz, Gwei.cz                               |
 
 ## Externí spolupráce
 
-| Kdo                                                             | Co                  | Za koho                            |
-| --------------------------------------------------------------- | ------------------- | ---------------------------------- |
-| ****[**Soňa Parke**](https://cz.linkedin.com/in/sona-parke)**** | mentoring           | Holky v kryptu                     |
-| **František Vinopal**                                           | obecná spolupráce   | [ČKMA](https://www.ckma.cz/cs/)    |
-| [**Josef Je**](https://twitter.com/JosefJ\_)****                | koordinace událostí | [ETHPrague](https://ethprague.com) |
-| ****[**Martin Kuchař**](https://twitter.com/owletek)****        | mentoring           | [ChainCamp](https://chaincamp.cz)  |
+| Kdo                                                 | Co                  | Za koho                                      |
+| --------------------------------------------------- | ------------------- | -------------------------------------------- |
+| [Soňa Parke](https://cz.linkedin.com/in/sona-parke) | mentoring           | [Holky v kryptu](https://holkyvkryptu.cz)    |
+| František Vinopal                                   | legální entita      | [ČKMA](https://www.ckma.cz/cs/)              |
+| [Josef Je](https://twitter.com/JosefJ\_)            | související událost | [ETHPrague](https://ethprague.com)           |
+| [Tomáš Zdražil](https://twitter.com/investree\_cz)  | související událost | [Cashflow summer](https://cashflowsummer.cz) |
+| [Martin Kuchař](https://twitter.com/owletek)        | konzultace          | [ChainCamp](https://chaincamp.cz)            |
 
