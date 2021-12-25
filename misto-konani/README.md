@@ -7,7 +7,7 @@ Hlavní program se uskuteční v budově bývalého kláštera v centru Prahy na
 Adresa: **Holečkova 106/10, 150 00 Praha 5-Smíchov** ([Google Maps](https://goo.gl/maps/QWhJaGuZGsJS2S749))\
 Webové stránky: [https://www.gabrielloci.com/](https://www.gabrielloci.com)
 
-![](../.gitbook/assets/gabriel\_loci-meatspace-\_xz.jpeg)
+![](../.gitbook/assets/gabriel\_loci-meatspace-\_xz.jpeg) ![](../.gitbook/assets/gabriel-loci-outside.jpeg)
 
 ## Dostupné prostory
 

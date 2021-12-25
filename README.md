@@ -2,7 +2,7 @@
 description: 4.-5. červen 2022, Praha 🇨🇿 - Otevřená kryptoměnová komunitní konference
 ---
 
-# UTXO.22
+# Co je to UTXO.22?
 
 {% hint style="danger" %}
 Název "UTXO" je jen pracovní, finální název bude s nějvětší pravděpodobností jiný.
@@ -52,7 +52,7 @@ Připojte se na náš [komunitní Discord server](https://discord.gg/5k9dEtVhnv)
 
 ## Současný stav
 
-Máme rezervované místo konání a potvrzené první [sponzory](sponzori.md) a [přednášející](prednasejici.md). Ve výrobě jsou také základní [stránky konference](propagace/webove-stranky.md), které by měli být v základní verzi hotové s oficiálním oznámení konference na začátku ledna. První vlna vstupenek je očekávána během února. Více informací naleznete na stránce [Roadmap](roadmap.md).
+Máme rezervované místo konání a potvrzené první [sponzory](sponzori.md) a [přednášející](prednasejici.md). Ve výrobě jsou také  [stránky konference](propagace/webove-stranky.md), které by měli být v základní verzi hotové s oficiálním oznámení konference na začátku ledna. První vlna vstupenek je očekávána během února. Více informací naleznete na stránce [Roadmap](roadmap.md).
 
 ## Základní fakta
 
