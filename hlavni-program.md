@@ -13,7 +13,7 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 * principy otevřených projektů (blockchainů)
 * základy bezpečnosti a soukromí
 * peněženky - SW, HW
-* DCA
+* základy obchodování - DCA
 * odluka peněz od státu
 
 ### Bitcoin
@@ -47,7 +47,8 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 ### NFTs & Metaverse
 
 * NFT umění
-* NFT collectibles, gaming
+* NFT collectibles
+* gaming
 * Metaverse
 
 ### Next-gen blockchainy & další altcoiny
@@ -63,12 +64,13 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 * legislativa
 * směnárny a burzy
-* darovací smlouva
-* český stablecoin
+* darování kryptoměn
+* insitucionální peníze v kryptoměnách
 
-### Krypto komunity
+### Krypto-společnost
 
-* představení jednotlivých komunit
+* představení lokálních krypto-komunit
+* fenomén maximalismu
 
 ## Časová osa
 
