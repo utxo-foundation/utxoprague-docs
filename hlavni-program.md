@@ -1,6 +1,6 @@
 # Hlavní program
 
-Připravujeme pro vás obsáhlý program s více než **100 hodinami přednášek a workshopů.** Chceme nabídnout obsah jak široké veřejnosti a úplným začátečníkům, tak pokročilým uživatelům.
+Připravujeme pro vás obsáhlý program s více než **100 hodinami přednášek a workshopů.** Chceme nabídnout obsah jak široké veřejnosti a úplným začátečníkům, tak pokročilým uživatelům. Kombinujeme aktuální krypto témata, aniž bychom se zaměřovali na jeden konkrétní blockchain.
 
 > Naším cílem je představit a vzdělávat širokou veřejnost v oblasti otevřených blockchainů, jejich základních principů, jako je **decentralizace, neutralita, otevřenost, spolupráce** a souvisejících témat. Ukázat výhody, představit případy použití a zároveň prohloubit důvěru v jejich používání s důrazem na bezpečnost. ([Hlavní stránka](./))
 

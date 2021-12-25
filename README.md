@@ -20,11 +20,13 @@ Naším cílem je představit a vzdělávat širokou veřejnost v oblasti otevř
 
 Velkým přínosem konference bude **propojení veřejnosti s širší kryptoměnovou komunitou** a zároveň **propojení jednotlivých komunit mezi sebou**, protože ty mají často tendenci mít oddělený obsah, akce a také publikum.
 
-V neposlední řadě je program cíleně naplánován tak, aby navazoval na další významné krypto a související akce v regionu, a nabízí tak vhodnou zastávku jak pro přednášející, tak pro posluchače. **Konference je jednou z hlavních součástí iniciativy** [**Prague Crypto Days**](crypto-days/prague-crypto-days-22.md), která se bude konat v Praze 3.-12. června - její součástí bude například i mezinárodní hackathon [ETHPrague](https://ethprague.com) (10-12. červen 2022).&#x20;
+V neposlední řadě je program cíleně naplánován tak, aby navazoval na další významné krypto a související akce v regionu, a nabízí tak vhodnou zastávku jak pro přednášející, tak pro posluchače. **Konference je jednou z hlavních součástí iniciativy** [**Prague Crypto Days**](crypto-days/prague-crypto-days-22.md), která se bude konat v Praze 3.-12. června - její součástí bude například i mezinárodní hackathon [ETHPrague](https://ethprague.com) (10-12. červen 2022).
+
+![Gabriel Loci - místo konání konference](.gitbook/assets/gabriel-loci-outside.jpeg) ![Rajská zahrada - hlavní přednáškový sál](.gitbook/assets/gabriel-loci-rajska-zahrada.jpeg)
 
 ## Koncept konference
 
-[Hlavní program](hlavni-program.md) se uskuteční o víkendu **4. a 5. června 2022** v budově bývalého kláštera v centru Prahy ([Gabriel Loci](misto-konani/)). **Optimální kapacita bude 1000 hostů** (maximum 1200) a zároveň plánujeme nabídnout konferenci online (live streaming), což by mělo znásobit její dopad.
+[Hlavní program](hlavni-program.md) se uskuteční o víkendu **4. a 5. června 2022** v unikátním komplexu bývalého kláštera v centru Prahy ([Gabriel Loci](misto-konani/)). **Optimální kapacita bude 1000 hostů** (maximum 1200) a zároveň plánujeme nabídnout konferenci online (live streaming), což by mělo znásobit její dopad.
 
 K dispozici bude [hlavní přednáškový sál](misto-konani/prehled-salu/rajska-zahrada.md) s kapacitou 350 osob, dva středně velké přednáškové sály s celkovou kapacitou 320 osob a 4 menší sály pro workshopy s celkovou kapacitou 200 osob. Obsah v nich bude probíhat současně.&#x20;
 
@@ -48,10 +50,10 @@ V letošním roce jsme mimo jiné uspořádali největší venkovní [Krypto mee
 
 ## Otevřenost a transparentnost
 
-Jsme _otevřená komunitní konference_ a proto je pro nás důležité, aby každý měl možnost říci svoje připomínky nebo nápady - třeba k plánování samotné akce, programu nebo čemukoliv jinému. Vytvořili jsme pro to speciální [**UTXO Discord server**](https://discord.gg/5k9dEtVhnv) (chatovací platforma), který je zaměřený jen na tuto konferenci. Budeme rádi pokud se zapojíte se do naší komunity.
+Je pro nás důležité, aby každý měl možnost říci svoje připomínky nebo nápady. Vytvořili jsme pro to speciální [**UTXO Discord server**](https://discord.gg/5k9dEtVhnv) (chatovací platforma), který je zaměřený jen na tuto událost. Budeme rádi pokud se zapojíte se do naší komunity.
 
-Kromě citlivých dokumentů a interní komunikace se snažíme maximum informací o plánování konference publikovat veřejně v rámci [Dokumentace](https://app.gitbook.com/o/-MX51JfmlnAQkYbTRI4J/s/ksSw74pkYApxPGDhzkzg/), do které přes GitHub může přispět kdokoliv (["utxo22-docs" repozitář](https://github.com/gweicz/utxo22-docs)). Součástí této dokumentace budou postupně všechny důležité informace, například lidé, kteří se podílejí na organizaci ([Organizační team](organizacni-team/)), seznam subdodavatelů, nebo detailní rozpočet.
+Veškeré informace o konferenci se snažíme transparentně publikovat v rámci [Dokumentace](https://app.gitbook.com/o/-MX51JfmlnAQkYbTRI4J/s/ksSw74pkYApxPGDhzkzg/). Její součástí budou postupně všechny klíčové informace - například lidé, kteří se podílejí na organizaci ([Organizační team](organizacni-team/)), seznam subdodavatelů, nebo detailní rozpočet. Dokumentace je dostupná jako open-source na [GitHubu](https://github.com/gweicz/utxo22-docs), kde ji může kdokoliv pomoci doplnit, nebo opravit.
 
 ## Současný stav
 
-Máme rezervované místo konání a potvrzené první [sponzory](sponzori.md) a [přednášející](prednasejici.md). Ve výrobě jsou také  [stránky konference](propagace/webove-stranky.md), které by měli být v základní verzi hotové s oficiálním oznámení konference na začátku ledna. První vlna vstupenek je očekávána během února. Více informací naleznete na stránce [Roadmap](roadmap.md).
+Máme rezervované místo konání a potvrzené první [sponzory](sponzori.md) a [přednášející](prednasejici.md). Ve výrobě jsou také  [stránky konference](propagace/webove-stranky.md), které by měli být v základní verzi hotové s oficiálním oznámení konference na začátku ledna. První vlna vstupenek je očekávána během února. Další zásadní milníky, které nás čekají, naleznete na stránce [Roadmap](roadmap.md).
