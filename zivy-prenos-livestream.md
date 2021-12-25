@@ -4,7 +4,7 @@ Obecný plán je že budeme livestreamovat všechno v přednáškových sálech 
 
 Jako streamovací platformu použijeme klasický [YouTube](https://www.youtube.com/howyoutubeworks/product-features/live/#youtube-live) (Live), kde vytvoříme kanál pro tuto konferenci.
 
-Živý přenos bude dostupný zdarma pro všechny - odkazy zveřejníme krátce před začátkem konference na našich webových stránkách a sociálních sítích.
+Živý přenos bude dostupný zdarma pro všechny - odkazy zveřejníme krátce před začátkem konference na našich webových stránkách a sociálních sítích. Jednotlivé záznamy přednášek (zpracované) budou uveřejněny pár dnů po konferenci.
 
 ### TODO
 

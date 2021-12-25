@@ -3,14 +3,16 @@
 ### Prosinec 2021
 
 * [x] Stanovení termínu - 4.-5. červen 2022
-* [x] Potvrzená rezervace  [místa konání](misto-konani/)
+* [x] Závazná rezervace místa konání - [Gabriel Loci](misto-konani/)
 
 ### Leden 2022
 
 * [ ] Finální název
+* [ ] Dočasná webová prezentace (landing)
 * [ ] Profily na [sociálních sítích](propagace/)
-* [ ] [Webová prezentace](propagace/webove-stranky.md) (V1)
 * [ ] Oficiální oznámení konference
+* [ ] Logo a vizuální identita konference
+* [ ] [Webová prezentace](propagace/webove-stranky.md) (V1)
 
 ### Únor 2022
 
@@ -20,6 +22,7 @@
 
 ### Březen 2022
 
+* [ ] Spuštění marketingové kampaně
 * [ ] Druhá vlna vstupenek
 
 ### Duben 2022
