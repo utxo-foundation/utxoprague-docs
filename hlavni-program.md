@@ -8,7 +8,9 @@ Připravujeme pro vás obsáhlý program s více než **100 hodinami přednáše
 
 Přednášky a workshopy budou rozděleny do **9 tématických programových sekcí**. Níže naleznete jejich přehled a relevantní příklady.
 
-### Základy kryptoměn
+<details>
+
+<summary>Základy kryptoměn</summary>
 
 * principy otevřených projektů (blockchainů)
 * základy bezpečnosti a soukromí
@@ -16,7 +18,11 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 * základy obchodování - DCA
 * odluka peněz od státu
 
-### Bitcoin
+</details>
+
+<details>
+
+<summary>Bitcoin</summary>
 
 * Bitcoin jako peníze
 * Lightning Network - adopce, implementace
@@ -24,7 +30,11 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 * Bitcoin mining
 * smart-kontrakty na bitcoinu (RGB)
 
-### Ethereum & smart-kontrakty obecně
+</details>
+
+<details>
+
+<summary>Ethereum &#x26; smart-kontrakty obecně</summary>
 
 * Ethereum 2.0
 * Layer2 - rollups
@@ -32,12 +42,20 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 * vývoj smart-kontraktů (solidity)
 * MEV - Miner Extractable Value
 
-### DeFi  (decentralizované finance)
+</details>
+
+<details>
+
+<summary>DeFi (decentralizované finance)</summary>
 
 * stablecoiny
 * lending protokoly
 * DEX - decentralizované burzy
 * predikční trhy
+
+</details>
+
+
 
 ### DAOs (decentralizované organizace)
 
