@@ -18,7 +18,7 @@ UTXO je jediný způsob, jakým váš bitcoin skutečně "existuje". Každá tra
 
 <summary>Jak získám vstupenku?</summary>
 
-Vstupenky budou k dispozici k zakoupení v průběhu února 2022.
+[Vstupenky](vstupenky.md) budou k dispozici k zakoupení v průběhu února 2022.
 
 </details>
 
@@ -26,7 +26,7 @@ Vstupenky budou k dispozici k zakoupení v průběhu února 2022.
 
 <summary>Budou přednášky vysílané živě?</summary>
 
-Ano, plánujeme livestreamovat všechny 3 přednáškové sály prostřednictvím YouTube. Workshopy streamované ani nahrávané nebudou.
+Ano, [plánujeme livestreamovat](zivy-prenos-livestream.md) všechny 3 přednáškové sály prostřednictvím YouTube. Workshopy streamované ani nahrávané nebudou.
 
 </details>
 
