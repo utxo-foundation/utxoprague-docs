@@ -12,7 +12,7 @@ Název "UTXO" je jen pracovní, finální název bude s nějvětší pravděpodo
 🚧 Toto je pracovní dokumentace. Konference a její jméno zatím nebylo oficiálně oznámeno. Berte veškeré zde uvedené informace s rezervou.
 {% endhint %}
 
-[UTXO.22](http://utxo.cz) (/juː-tiː-ɛks-əʊ.22/) je otevřená komunitní konference zaměřená na kryptoměny a blockchain, která má ambice stát se **největší  akcí svého druhu v České republice**. **** Jedná se o dvoudenní akci, která kombinuje aktuální krypto témata, aniž by se zaměřovala na jeden konkrétní blockchain.
+[UTXO.22](http://utxo.cz) (/juː-tiː-ɛks-əʊ.22/) je otevřená komunitní konference zaměřená na kryptoměny a blockchain, která má ambice stát se **největší akcí svého druhu v České republice**. **** Jedná se o dvoudenní akci, která kombinuje aktuální krypto témata, aniž by se zaměřovala na jeden konkrétní blockchain.
 
 Díky rozsáhlému programu, který obsahuje více než **100 hodin přednášek a workshopů**, můžeme nabídnout obsah jak široké veřejnosti, tak pokročilým uživatelům.
 
@@ -57,3 +57,10 @@ Veškeré informace o konferenci se snažíme transparentně publikovat v rámci
 ## Současný stav
 
 Máme rezervované místo konání a potvrzené první [sponzory](sponzori.md) a [přednášející](prednasejici.md). Ve výrobě jsou také  [stránky konference](propagace/webove-stranky.md), které by měli být v základní verzi hotové s oficiálním oznámení konference na začátku ledna. První vlna vstupenek je očekávána během února. Další zásadní milníky, které nás čekají, naleznete na stránce [Roadmap](roadmap.md).
+
+## Kde nás najdete
+
+* Web: [utxo.cz](https://utxo.cz)
+* Twitter: [@utxocz](https://twitter.com/utxocz)
+* Discord: [discord.gg/5k9dEtVhnv](https://discord.gg/5k9dEtVhnv)
+* Telegram skupina: [t.me/utxocz](https://t.me/utxocz)
