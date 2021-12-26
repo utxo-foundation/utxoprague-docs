@@ -11,6 +11,7 @@ _(abecedně)_
 | Jméno                                                            | Organizace                                                                         |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | **Adam Kracík**                                                  |                                                                                    |
+| ****[**Adam Studenik**](https://twitter.com/adamstudenik)****    |                                                                                    |
 | ****[**Anett Rohlikova**](https://twitter.com/anettrolikova)**** | [Ethereum Magicians](https://ethereum-magicians.org)                               |
 | ****[**damsky**](https://twitter.com/CryptoDamSky)****           |                                                                                    |
 | [**Honza Dvořák**](https://twitter.com/\_Honza\_Dvorak)****      | [btcplatby.cz](https://btcplatby.cz)                                               |
