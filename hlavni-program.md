@@ -37,8 +37,8 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 <summary>Ethereum &#x26; smart-kontrakty obecně</summary>
 
 * Ethereum 2.0
-* Layer2 - rollups
-* Sidechainy
+* Layer2 - rollupy
+* (EVM) Sidechainy
 * vývoj smart-kontraktů (solidity)
 * MEV - Miner Extractable Value
 
@@ -52,6 +52,8 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 * lending protokoly
 * DEX - decentralizované burzy
 * predikční trhy
+* futures/options kontrakty
+* tokenizace
 
 </details>
 
@@ -77,7 +79,7 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 <details>
 
-<summary>Next-gen blockchainy &#x26; další altcoiny</summary>
+<summary>Experimentální blockchainy &#x26; další altcoiny</summary>
 
 * Polkadot
 * Cardano
@@ -104,8 +106,8 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 <summary>Krypto-společnost</summary>
 
 * představení lokálních krypto-komunit
-* fenomén maximalismu
 * kryptoanarchismus, anarchokapitalismus, meritokracie
+* fenomén maximalismu
 
 </details>
 
