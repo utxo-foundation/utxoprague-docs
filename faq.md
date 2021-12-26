@@ -6,7 +6,7 @@ description: Často kladené otázky
 
 ### Co to znamená "UTXO"?
 
-"UTXO" znamená "Unspent transaction output", což by se dalo přeložit jako "neutracený výstup transakce". Jedná se o [základní mechanismus fungování bitcoinu](https://www.alza.cz/transakcni-poplatky-a-minimalni-velikost-utxo#co-je-utxo).
+"UTXO" znamená "_Unspent transaction output_", což by se dalo přeložit jako "_neutracený výstup transakce_". Jedná se o [základní mechanismus fungování bitcoinu](https://www.alza.cz/transakcni-poplatky-a-minimalni-velikost-utxo#co-je-utxo).
 
 > UTXO je jediný způsob, jakým váš bitcoin skutečně "existuje". Každá transakce bere předchozí neutracené výstupy, používá je jako vstupy a ve výsledku vytváří nové výstupy. Každý konec je novým začátkem. Bitcoin je krásný. - [@SatsJoseph](https://twitter.com/SatsJoseph/status/1370329486059843588)
 
