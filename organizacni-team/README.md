@@ -37,6 +37,7 @@ Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEt
 | **exez**                                                         | **audiovizuální tvorba**     | Gwei.cz / Bankless.cz |
 | [**Klein Petr**](https://twitter.com/kleinpetr\_com)****         | **technologie**              | Gwei.cz               |
 | ****[**m0xt**](https://twitter.com/m0xt)****                     | **sponzoři**                 | Gwei.cz               |
+| ****[**bohus.eth**](https://twitter.com/bohuskrypto)****         | **sociální sítě**            | Gwei.cz               |
 | [**KryptoVláďa**](https://twitter.com/KryptoVlada)****           | **moderátor**                | KryptoVláďa komunita  |
 | ****[**damsky**](https://twitter.com/CryptoDamSky)****           | ..                           | Gwei.cz               |
 | [**rixcian**](https://twitter.com/rixcian)****                   | ..                           | Bankless.cz / Gwei.cz |
