@@ -1,10 +1,16 @@
 # Catering
 
-Rádi bychom v co největší míře dali prostor kvalitním lokálním pražským podnikům.
+V ceně vstupenky nebude obsaženo žádné jídlo ani pití, zdarma bude jen [pitná voda](catering.md#pitna-voda).&#x20;
 
-**V ceně vstupenky nebude žádné jídlo ani pití. Pitná voda bude zdarma.**
+Veškeré občerstvení bude k zakoupení - buď přes systém objednávek ([oběd a večeře](catering.md#obed-vecere)) nebo k zakoupení přímo na místě. Venku budou food-trucky a uvnitř stánky s drobným občerstvením.&#x20;
 
 ## Oběd/večeře
+
+{% hint style="warning" %}
+Toto je jen velmi hrubá návrh toho jak by obědy a večeře mohly probíhat, nakonec vše může být úplně jinak.
+{% endhint %}
+
+Rádi bychom v co největší míře dali prostor kvalitním lokálním pražským podnikům.
 
 Nasmlouváme cca 5-10 restaurací, kterým dáme možnost nabídnout svoje menu návštěvníkům hromadným svozem (doručení). Lidé budou menu objednávat (a platit) přímo na našem webu, případně na místě.
 
