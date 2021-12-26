@@ -14,10 +14,10 @@ _(abecedně)_
 | ****[**Adam Studenik**](https://twitter.com/adamstudenik)****    |                                                                                    |
 | ****[**Anett Rohlikova**](https://twitter.com/anettrolikova)**** | [Ethereum Magicians](https://ethereum-magicians.org)                               |
 | ****[**damsky**](https://twitter.com/CryptoDamSky)****           |                                                                                    |
-| [**Honza Dvořák**](https://twitter.com/\_Honza\_Dvorak)****      | [btcplatby.cz](https://btcplatby.cz)                                               |
+| [**Honza Dvořák**](https://twitter.com/\_Honza\_Dvorak) (Gorrdy) | [btcplatby.cz](https://btcplatby.cz)                                               |
 | ****[**Jiří Čepelka**](https://twitter.com/JiriCepelka)****      |                                                                                    |
 | ****[**Juraj Bednár**](https://twitter.com/jurbed)****           | [Hacktrophy](https://hacktrophy.com), [Paralelná Polis](https://paralelnapolis.sk) |
-| [**KryptoVláďa**](https://twitter.com/KryptoVlada)****           |                                                                                    |
+| [**Vladimír Pinker**](https://twitter.com/KryptoVlada)           | [KryptoVláďa](https://www.kryptovlada.win)                                         |
 | ****[**Mario Havel**](https://twitter.com/TMIYChao)****          | [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/)                          |
 | ****[**m0xt**](https://twitter.com/m0xt\_)****                   |                                                                                    |
 | ****[**Petr Klein**](https://twitter.com/kleinpetr\_com)****     |                                                                                    |
