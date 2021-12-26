@@ -12,7 +12,7 @@ Název "UTXO" je jen pracovní, finální název bude s nějvětší pravděpodo
 🚧 Toto je pracovní dokumentace. Konference a její jméno zatím nebylo oficiálně oznámeno. Berte veškeré zde uvedené informace s rezervou.
 {% endhint %}
 
-[UTXO.22](http://utxo.cz) je otevřená komunitní konference zaměřená na kryptoměny a blockchain, která má ambice stát se **největší  akcí svého druhu v České republice**. **** Jedná se o dvoudenní akci, která kombinuje aktuální krypto témata, aniž by se zaměřovala na jeden konkrétní blockchain.
+[UTXO.22](http://utxo.cz) (/juː-tiː-ɛks-əʊ.22/) je otevřená komunitní konference zaměřená na kryptoměny a blockchain, která má ambice stát se **největší  akcí svého druhu v České republice**. **** Jedná se o dvoudenní akci, která kombinuje aktuální krypto témata, aniž by se zaměřovala na jeden konkrétní blockchain.
 
 Díky rozsáhlému programu, který obsahuje více než **100 hodin přednášek a workshopů**, můžeme nabídnout obsah jak široké veřejnosti, tak pokročilým uživatelům.
 
