@@ -7,7 +7,7 @@ Veškeré občerstvení bude k zakoupení - buď přes systém objednávek ([ob�
 ## Oběd/večeře
 
 {% hint style="warning" %}
-Toto je jen velmi hrubá návrh toho jak by obědy a večeře mohly probíhat, nakonec vše může být úplně jinak.
+Toto je jen velmi hrubý návrh toho, jak by obědy a večeře mohly probíhat, nakonec vše může být úplně jinak.
 {% endhint %}
 
 Rádi bychom v co největší míře dali prostor kvalitním lokálním pražským podnikům.
