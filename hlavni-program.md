@@ -46,7 +46,7 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 <details>
 
-<summary>DeFi (decentralizované finance)</summary>
+<summary>DeFi - decentralizované finance</summary>
 
 * stablecoiny
 * lending protokoly
@@ -59,7 +59,7 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 <details>
 
-<summary>DAOs (decentralizované organizace)</summary>
+<summary>DAOs - decentralizované organizace</summary>
 
 * budoucnost organizací
 * showcase jednotlivých DAOs
