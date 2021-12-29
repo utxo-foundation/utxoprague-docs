@@ -24,16 +24,16 @@ UTXO tokeny se dají vytěžit za různé aktivity, ať už přímo na místě, 
 
 ### On-chain operace
 
-| Aktivita                                              | Odměna    |
-| ----------------------------------------------------- | --------- |
-| Zastakování (UTXO Staking)- jednorázově               | 1000 UTXO |
-| Swap na DEX (Honeyswap) - jednorázově                 | 1000 UTXO |
-| Hlasování v rámci governance (Snapshot) - jednorázově | 1000 UTXO |
+| Aktivita                                                    | Odměna    |
+| ----------------------------------------------------------- | --------- |
+| Zastakování (UTXO Staking)- jednorázově                     | 1000 UTXO |
+| Swap na DEX (Honeyswap) - jednorázově                       | 1000 UTXO |
+| Hlasování v rámci governance (Snapshot) - jednorázově       | 1000 UTXO |
+| Vytvoření NFT ([NiftyInk](https://nifty.ink)) - jednorázově | 2000 UTXO |
 
 ## Burzy a směnárny
 
 * Na [Honeyswap](https://honeyswap.org) bude založen liqudity pool UTXO/XDAI.
-* Na místě bude "směnárna", kde si budete moci koupit UTXO za tržní cenu.
 * P2P vexl povolen!
 
 ## Co lze s tokeny dělat
