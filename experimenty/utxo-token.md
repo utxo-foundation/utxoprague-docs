@@ -1,6 +1,6 @@
 # UTXO token
 
-Experimentální ukázka využití DAO a ERC-20 tokenů v rámci uzavřeného a velmi specifického ekosystému.
+Experimentální ukázka využití DAO a ERC-20 tokenů v rámci uzavřeného a velmi specifického ekosystému. Experiment nabídne návštěvníkům hřiště, kde si budou moci vyzkoušet a vzdělat v technologiích jako Web3, na konkrétních příkladech.
 
 * Blockchain: Gnosis Chain / Polygon
 
