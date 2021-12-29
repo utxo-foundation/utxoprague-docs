@@ -6,10 +6,12 @@ Je někdo, koho byste na naši konferenci rádi slyšeli? Nebo snad sami chcete 
 
 ## Hlavní přednášející
 
+_(abecedně)_
+
 ### ![](.gitbook/assets/juraj-bednar.png) Juraj Bednár
 
 * Podnikatel, hacker a milovník svobody
-* Spoluzakladatel [Hacktrophy](https://hacktrophy.com),  člen [Paralelné Polis](https://paralelnapolis.sk)
+* Spoluzakladatel [Hacktrophy](https://hacktrophy.com), člen [Paralelné Polis](https://paralelnapolis.sk)
 * Twitter: [@jurbed](https://twitter.com/jurbed), Web: [Juraj Bednár](https://juraj.bednar.io)
 
 ### ![](.gitbook/assets/mario-havel.png) Mario Havel
