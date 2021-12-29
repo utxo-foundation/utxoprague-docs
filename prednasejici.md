@@ -17,10 +17,11 @@ _(abecedně)_
 | [**Honza Dvořák**](https://twitter.com/\_Honza\_Dvorak) (Gorrdy)     | [btcplatby.cz](https://btcplatby.cz)                                               |
 | ****[**Jiří Čepelka**](https://twitter.com/JiriCepelka)****          |                                                                                    |
 | ****[**Juraj Bednár**](https://twitter.com/jurbed)****               | [Hacktrophy](https://hacktrophy.com), [Paralelná Polis](https://paralelnapolis.sk) |
-| [**Vladimír Pinker**](https://twitter.com/KryptoVlada) (KryptoVláďa) | [KryptoVláďa](https://www.kryptovlada.win)                                         |
+| [**Vladimír Pinker**](https://twitter.com/KryptoVlada) (KryptoVláďa) | [KryptoVláďa YT](https://www.kryptovlada.win)                                      |
 | ****[**Mario Havel**](https://twitter.com/TMIYChao)****              | [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/)                          |
 | ****[**m0xt**](https://twitter.com/m0xt\_)****                       |                                                                                    |
 | ****[**Petr Klein**](https://twitter.com/kleinpetr\_com)****         |                                                                                    |
+| ****[**Petr Mára**](https://twitter.com/petrmara)****                | [Petr Mára YT](https://www.youtube.com/channel/UCSgFxc7dM\_mjQIC0zxn1zqw)          |
 | ****[**Petr Menšík**](https://twitter.com/petr\_mensik)****          | [Polkadotters](https://twitter.com/polkadotterss)                                  |
 | ****[**Tomáš Zdražil**](https://twitter.com/investree\_cz)****       | [Investree](https://investree.cz)                                                  |
 | **Tomáš**                                                            | [KryptoVláďa komunita](https://www.kryptovlada.win)                                |
