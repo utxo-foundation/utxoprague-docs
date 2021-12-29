@@ -4,7 +4,26 @@
 Je někdo, koho byste na naši konferenci rádi slyšeli? Nebo snad sami chcete přednášet? Budeme rádi, pokud nám o tom přijdete říci na náš [Discord server](https://discord.gg/5k9dEtVhnv).
 {% endhint %}
 
-## Potvrzení přednášející
+## Hlavní přednášející
+
+### ![](.gitbook/assets/juraj-bednar.png) Juraj Bednár
+
+* Podnikatel, hacker a milovník svobody
+* Spoluzakladatel [Hacktrophy](https://hacktrophy.com),  člen [Paralelné Polis](https://paralelnapolis.sk)
+* Twitter: [@jurbed](https://twitter.com/jurbed), Web: [Juraj Bednár](https://juraj.bednar.io)
+
+### ![](.gitbook/assets/mario-havel.png) Mario Havel
+
+* Kryptoanarchista, libertarián a hacker
+* Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz)
+* Twitter: [@TMIYChao](https://twitter.com/TMIYChao)
+
+### ![](.gitbook/assets/petr-mara.png) Petr Mára
+
+* Technologický evangelista
+* Twitter: [@petrmara](https://twitter.com/petrmara), Web: [Petr Mára](https://www.petrmara.com)
+
+## Seznam všech potvrzených přednášejících
 
 _(abecedně)_
 
