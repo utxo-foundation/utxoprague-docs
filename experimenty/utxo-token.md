@@ -1,47 +1,61 @@
 # UTXO token
 
-UTXO token je ERC-20 token reprezentující virtuální hodnotu využitelnou v rámci UTXO konference. Návštěvníci získávají tokeny za různé aktivity, můžou s nimi provádět základní DeFi operace, směňují je mezi sebou a nakonec je můžou vyměnit za různé upomínkové předměty.
+Experimentální ukázka využití ERC-20 tokenů v rámci uzavřeného a velmi specifického ekosystému.
 
-Jedná se o experimentální ukázku využití ERC-20 tokenu v rámci uzavřeného a velmi specifického ekosystému.
+* Blockchain: Gnosis Chain / Polygon
+
+## $UTXO token
+
+UTXO token je ERC-20 governance token. Návštěvníci získávají UTXO za [různé aktivity](utxo-token.md#hlavni-odmeny), můžou s nimi provádět základní DeFi operace, směňují je mezi sebou, případně pomocí nich získávají [SWAG token](utxo-token.md#usdswag-token), který můžou směnit za merch.
 
 * Symbol: **UTXO**
-* Blockchain: [Gnosis Chain](https://www.xdaichain.com)
-* Max. supply: ?
+* Max. supply: TBD
+* Adresa kontraktu: TBD
 
-## Airdrop
+### Airdrop
 
 Každý návštěvník dostane 1000 UTXO na začátek. VIP návštěvník 5000 UTXO.
 
+### UTXO staking
+
+UTXO token bude možné stakovat v rámci naší dApp a dostávat odměny ve formě [$SWAG tokenu](utxo-token.md#usdswag-token).
+
+## $SWAG token
+
+Sekundární token, který je přímo směnitelný za [upomínkové předměty](utxo-token.md#cenik-upominkovych-predmetu), v našem merch shopu. SWAG token se dá získat [stakingem UTXO](utxo-token.md#utxo-staking), nebo těžbou za provedení [různých aktivit](utxo-token.md#hlavni-odmeny).
+
+* Symbol: **SWAG**
+* Max. supply: TBD
+* Adresa kontraktu: TBD
+
 ## Těžba
 
-UTXO tokeny se dají vytěžit za různé aktivity, ať už přímo na místě, nebo online.
+UTXO nebo SWAG tokeny se dají vytěžit za různé aktivity, ať už přímo na místě, nebo online.
 
-### Hlavní aktivity
+### Hlavní odměny
 
-| Aktivita                                                                      | Odměna    |
-| ----------------------------------------------------------------------------- | --------- |
-| Nejlepší otázka z publika - přednáška, workshop (3-5x, rozdělí přednášející)  | 2500 UTXO |
+| Aktivita                                                                      | Odměna               |
+| ----------------------------------------------------------------------------- | -------------------- |
+| Nejlepší otázka z publika - přednáška, workshop (3-5x, rozdělí přednášející)  | 1000 UTXO + 250 SWAG |
+| Vyplnění dotazníku po přednášce nebo workshopu                                | 100 UTXO + 10 SWAG   |
 
-### On-chain operace
+### Odměny za on-chain operace
 
-| Aktivita                                                    | Odměna    |
-| ----------------------------------------------------------- | --------- |
-| Zastakování (UTXO Staking)- jednorázově                     | 1000 UTXO |
-| Swap na DEX (Honeyswap) - jednorázově                       | 1000 UTXO |
-| Hlasování v rámci governance (Snapshot) - jednorázově       | 1000 UTXO |
-| Vytvoření NFT ([NiftyInk](https://nifty.ink)) - jednorázově | 2000 UTXO |
+| Aktivita                                                    | Odměna               |
+| ----------------------------------------------------------- | -------------------- |
+| Zastakování (UTXO Staking)- jednorázově                     | 50 SWAG              |
+| Vytvoření DEX poolu UTXO/SWAG - jednorázově (první pool)    | 5000 UTXO + 400 SWAG |
+| Swap na DEX (Honeyswap) - jednorázově                       | 50 SWAG              |
+| Hlasování v rámci governance (Snapshot) - jednorázově       | 50 SWAG              |
+| Vytvoření NFT ([NiftyInk](https://nifty.ink)) - jednorázově | 100 SWAG             |
 
-## Burzy a směnárny
+## Ceník upomínkových předmětů
 
-* Na [Honeyswap](https://honeyswap.org) bude založen liqudity pool UTXO/XDAI.
-* P2P vexl povolen!
+| Produkt        | Cena     |
+| -------------- | -------- |
+| Tričko         | 400 SWAG |
+| Sada samolepek | 75 SWAG  |
+| Hrneček        | 200 SWAG |
+| ...            |          |
 
-## Co lze s tokeny dělat
-
-* Staking - možnost zastakování UTXO s velkým % APY
-  * Staking kontakt poběží 4.6. 09:15 - 5.6. 16:00
-* Nákup swagu:
-  * tričko - 4000 UTXO
-  * sada samolepek - 750 UTXO
-  * hrneček - 2500 UTXO
-  * ....
+##
