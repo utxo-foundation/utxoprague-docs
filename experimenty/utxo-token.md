@@ -6,7 +6,7 @@ Experimentální ukázka využití DAO a ERC-20 tokenů v rámci uzavřeného a 
 
 ## $UTXO token
 
-UTXO token je ERC-20 token, reprezentující "základní podíl" návštěvníka UTXO konference. Každý návštěvník získá na začátku konference základní emisi tokenů prostřednictvím [airdropu](utxo-token.md#airdrop). Další tokeny lidé získávají  za [různé smysluplné aktivity](utxo-token.md#hlavni-odmeny). S tokeny návštěvníci můžou hlasovat v rámci DAO, prodávat a nakupovat, provádět základní DeFi operace, směňovat je mezi sebou, případně pomocí nich získávají [SWAG token](utxo-token.md#usdswag-token), který můžou směnit za merch.
+UTXO token je ERC-20 token, reprezentující "základní podíl" návštěvníka UTXO konference. Každý návštěvník získá na začátku konference základní emisi tokenů prostřednictvím [airdropu](utxo-token.md#airdrop). Další tokeny lidé získávají  za [různé smysluplné aktivity](utxo-token.md#hlavni-odmeny). S tokeny návštěvníci můžou hlasovat v rámci DAO, prodávat a nakupovat, provádět základní DeFi operace, směňovat je mezi sebou, případně je stakovat a získavat jako odměnu [SWAG token](utxo-token.md#usdswag-token), který můžou směnit za merch.
 
 * Symbol: **UTXO**
 * Max. supply: TBD
