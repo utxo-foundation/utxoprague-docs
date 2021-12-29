@@ -1,12 +1,12 @@
 # UTXO token
 
-Experimentální ukázka využití ERC-20 tokenů v rámci uzavřeného a velmi specifického ekosystému.
+Experimentální ukázka využití DAO a ERC-20 tokenů v rámci uzavřeného a velmi specifického ekosystému.
 
 * Blockchain: Gnosis Chain / Polygon
 
 ## $UTXO token
 
-UTXO token je ERC-20 governance token. Každá návštěník získá na začátku konference emisi tokenů prostřednictvím [airdropu](utxo-token.md#airdrop). Další tokeny lidé získávají  za [různé smysluplné aktivity](utxo-token.md#hlavni-odmeny), které posouvají konferenci dál. S tokeny návštěvníci můžou provádět základní DeFi operace, směňovat je mezi sebou, případně pomocí nich získávají [SWAG token](utxo-token.md#usdswag-token), který můžou směnit za merch.
+UTXO token je ERC-20 token, reprezentující návštěvníka UTXO konference. Každá návštěník získá na začátku konference základní emisi tokenů prostřednictvím [airdropu](utxo-token.md#airdrop). Další tokeny lidé získávají  za [různé smysluplné aktivity](utxo-token.md#hlavni-odmeny). S tokeny návštěvníci můžou hlasovat v rámci DAO, provádět základní DeFi operace, směňovat je mezi sebou, případně pomocí nich získávají [SWAG token](utxo-token.md#usdswag-token), který můžou směnit za merch.
 
 * Symbol: **UTXO**
 * Max. supply: TBD
