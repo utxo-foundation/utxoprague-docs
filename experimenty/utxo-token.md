@@ -12,11 +12,9 @@ UTXO token je ERC-20 governance token. Každá návštěník získá na začátk
 * Max. supply: TBD
 * Adresa kontraktu: TBD
 
-### Airdrop
+### Airdrop & prvotní distribuce&#x20;
 
 Základní emise UTXO tokenů, kterou účastníci dostanou na začátku konference.
-
-### Distribuce
 
 ![Ukázkové rozložení distribuce UTXO](<../.gitbook/assets/navrh-distribuce-utxo (1).png>)
 
