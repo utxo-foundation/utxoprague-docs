@@ -16,6 +16,8 @@
 * [Doprovodný program](doprovodny-program/README.md)
   * [Společenský večer](doprovodny-program/spolecensky-vecer.md)
   * [Party](doprovodny-program/party.md)
+* [Experimenty](experimenty/README.md)
+  * [UTXO token](experimenty/utxo-token.md)
 * [Živý přenos (livestream)](zivy-prenos-livestream.md)
 * [Catering](catering.md)
 * [Vstupenky](vstupenky.md)
