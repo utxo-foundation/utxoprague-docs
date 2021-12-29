@@ -4,6 +4,8 @@
 Je někdo, koho byste na naši konferenci rádi slyšeli? Nebo snad sami chcete přednášet? Budeme rádi, pokud nám o tom přijdete říci na náš [Discord server](https://discord.gg/5k9dEtVhnv).
 {% endhint %}
 
+Na této stránce naleznete přehled všech přednášejících, kteří předběžně potvrdili účast. Seznam pravidelně aktualizujeme.
+
 ## Hlavní přednášející
 
 _(abecedně)_
@@ -25,7 +27,7 @@ _(abecedně)_
 * Technologický evangelista
 * Twitter: [@petrmara](https://twitter.com/petrmara), Web: [Petr Mára](https://www.petrmara.com)
 
-## Seznam všech potvrzených přednášejících
+## Seznam všech přednášejících
 
 _(abecedně)_
 
