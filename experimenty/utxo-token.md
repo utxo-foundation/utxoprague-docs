@@ -52,13 +52,14 @@ UTXO nebo SWAG tokeny se dají vytěžit za různé aktivity, ať už přímo na
 
 ### Odměny za on-chain operace
 
-| Aktivita                                                    | Odměna               |
-| ----------------------------------------------------------- | -------------------- |
-| Zastakování (UTXO Staking)- jednorázově                     | 50 SWAG              |
-| Vytvoření DEX poolu UTXO/SWAG - jednorázově (první pool)    | 1000 UTXO + 400 SWAG |
-| Swap na DEX (Honeyswap) - jednorázově                       | 50 SWAG              |
-| Hlasování v rámci governance (Snapshot) - jednorázově       | 50 SWAG              |
-| Vytvoření NFT ([NiftyInk](https://nifty.ink)) - jednorázově | 100 SWAG             |
+| Aktivita                                                         | Odměna               |
+| ---------------------------------------------------------------- | -------------------- |
+| Zastakování (UTXO Staking)- jednorázově                          | 50 SWAG              |
+| Vytvoření DEX poolu UTXO/SWAG - jednorázově (první pool)         | 1000 UTXO + 400 SWAG |
+| Swap na UTXO na SWAG (Honeyswap) - jednorázově                   | 50 SWAG              |
+| Poskytnutí likvidity do UTXO/SWAG poolu (Honeswap) - jednorázově | 50 SWAG              |
+| Hlasování v rámci governance (Snapshot) - jednorázově            | 50 SWAG              |
+| Vytvoření NFT ([NiftyInk](https://nifty.ink)) - jednorázově      | 100 SWAG             |
 
 ## Ceník upomínkových předmětů
 
