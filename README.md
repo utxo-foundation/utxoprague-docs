@@ -16,7 +16,7 @@ Díky rozsáhlému programu, který obsahuje více než **100 hodin přednášek
 V současnosti máme potvrzených [15+ přednášejících](prednasejici.md), mezi ty nejvýznamnější patří, např. **Juraj Bednár**, **Mario Havel** nebo **Petr Mára**.
 {% endhint %}
 
-Naším cílem je představit a vzdělávat širokou veřejnost v oblasti otevřených blockchainů, jejich základních principů, jako je **decentralizace, neutralita, otevřenost, spolupráce** a souvisejících témat. Ukázat výhody, představit případy použití a zároveň prohloubit důvěru v jejich používání s důrazem na bezpečnost.
+Naším cílem je představit a vzdělávat širokou krypto-veřejnost v oblasti otevřených blockchainů, jejich základních principů, jako je **decentralizace, neutralita, otevřenost, spolupráce** a souvisejících témat. Ukázat výhody, představit případy použití a zároveň prohloubit důvěru v jejich používání s důrazem na bezpečnost.
 
 Velkým přínosem konference bude **propojení veřejnosti s širší kryptoměnovou komunitou** a zároveň **propojení jednotlivých komunit mezi sebou**, protože ty mají často tendenci mít oddělený obsah, akce a také publikum.
 
