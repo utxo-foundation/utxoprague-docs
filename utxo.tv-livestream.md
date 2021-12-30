@@ -6,13 +6,17 @@ Jako streamovací platformu použijeme klasický [YouTube](https://www.youtube.c
 
 Živý přenos bude dostupný zdarma pro všechny - odkazy zveřejníme krátce před začátkem konference na našich webových stránkách a sociálních sítích. Jednotlivé záznamy přednášek (zpracované) budou uveřejněny pár dnů po konferenci.
 
-### TODO
+## Moderátoři
+
+* KryptoVláďa
+
+## TODO
 
 * [ ] Znělka konference
 * [ ] Zajištění technického vybavení salů (kamery, mikrofony atp.)
 * [ ] Zajištění režie a obsluhy
 * [ ] Založení YouTube kanálu
 
-### Nápady
+## Nápady
 
 * V delších mezičasech mezi přednáškami můžeme vysílat doplňkový obsah, například pohled do zákulisí, rozhovory s hosty atp.
