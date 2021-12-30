@@ -23,7 +23,7 @@
 * [Experimenty](experimenty/README.md)
   * [UTXO token](experimenty/utxo-token.md)
   * [Predikční trhy](experimenty/predikcni-trhy.md)
-* [Živý přenos (livestream)](zivy-prenos-livestream.md)
+* [UTXO.TV (livestream)](utxo.tv-livestream.md)
 * [Catering](catering.md)
 * [Propagace](propagace/README.md)
   * [Webové stránky](propagace/webove-stranky.md)

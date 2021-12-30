@@ -26,7 +26,7 @@ description: Často kladené otázky
 
 <summary>Budou přednášky vysílané živě?</summary>
 
-Ano, [plánujeme livestreamovat](zivy-prenos-livestream.md) všechny 3 přednáškové sály prostřednictvím YouTube. Workshopy streamované ani nahrávané nebudou.
+Ano, [plánujeme livestreamovat](utxo.tv-livestream.md) všechny 3 přednáškové sály prostřednictvím YouTube. Workshopy streamované ani nahrávané nebudou.
 
 </details>
 
