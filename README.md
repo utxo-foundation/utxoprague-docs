@@ -4,10 +4,6 @@ description: 4.-5. červen 2022, Praha 🇨🇿 - Otevřená kryptoměnová komu
 
 # Co je to UTXO.22?
 
-{% hint style="danger" %}
-Název "UTXO" je jen pracovní, finální název bude s nějvětší pravděpodobností jiný.
-{% endhint %}
-
 {% hint style="warning" %}
 🚧 Toto je pracovní dokumentace. Konference a její jméno zatím nebylo oficiálně oznámeno. Berte veškeré zde uvedené informace s rezervou.
 {% endhint %}
