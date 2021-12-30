@@ -12,15 +12,10 @@ TBA
 
 První den [hlavního programu](../hlavni-program.md) v [Gabriel Loci](../misto-konani/).
 
-### 20:00 - 22:00 | [Kulturní večer](kulturni-vecer.md)
-
-Uskuteční se v hlavním sále Rajská zahrada.
-
-### 22:00 - 02:00 | [UTXO.Party](utxo.party.md)
-
-Živá hudba a bary - chutné koktejly :cocktail: a možnost tance :man\_dancing:.
-
-:point\_right: Více o party se dozvíte na stránce [UTXO.Party](utxo.party.md).
+| Čas           | Událost                                         | Kde          |
+| ------------- | ----------------------------------------------- | ------------ |
+| 20:00 - 22:00 | ****[**Kulturní večer**](kulturni-vecer.md)**** | Gabriel Loci |
+| 22:00 - 02:00 | ****[**UTXO.Party**](utxo.party.md)****         | Gabriel Loci |
 
 ## Neděle 5. června
 
