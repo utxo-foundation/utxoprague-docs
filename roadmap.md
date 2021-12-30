@@ -19,7 +19,7 @@
 
 * [ ] Webová prezentace (V2) - základní ticketing
 * [ ] Konečné informace o vstupném a distribuci vstupenek
-* [ ] První vlna [vstupenek](vstupenky.md)
+* [ ] První vlna [vstupenek](navstevnici/vstupenky.md)
 
 ### Březen 2022
 

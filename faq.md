@@ -18,7 +18,7 @@ description: Často kladené otázky
 
 <summary>Jak získám vstupenku?</summary>
 
-[Vstupenky](vstupenky.md) budou k dispozici k zakoupení v průběhu února 2022.
+[Vstupenky](navstevnici/vstupenky.md) budou k dispozici k zakoupení v průběhu února 2022.
 
 </details>
 

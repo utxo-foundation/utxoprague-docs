@@ -34,7 +34,7 @@ V budově nabídneme také několik dalších prostor pro výstavu a charitativn
 
 Venkovní část budovy poskytne přibližně 150 míst k sezení a širší prostor pro networking s možností využití několika food trucků. Večer po prvním dni konference bude následovat [společenský večer](doprovodny-program/spolecensky-vecer.md) se zábavným programem a charitativní aukcí, na kterou plynule naváže [hudební a taneční párty](doprovodny-program/party.md) v několika sálech a různými žánry.
 
-Vstupné nebude zdarma, ale chceme ho držet [velmi nízko](vstupenky.md#distribucni-faze). Na celou dvoudenní konferenci by vstupenka měla stát okolo $25 (cca 560 Kč).
+Vstupné nebude zdarma, ale chceme ho držet [velmi nízko](navstevnici/vstupenky.md#distribucni-faze). Na celou dvoudenní konferenci by vstupenka měla stát okolo $25 (cca 560 Kč).
 
 Konference plánována jako čistě nezisková událost, která bude financovaná především sponzorskými dary. V současné době probíhá proces založení [nezávislého neziskového subjektu](organizacni-team/legalni-entita.md), který bude konferenci zaštiťovat.
 

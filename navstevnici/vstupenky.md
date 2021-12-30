@@ -1,7 +1,7 @@
 # Vstupenky
 
 {% hint style="warning" %}
-Konečné informace o tom jak budou vstupenky distribuovány a jaká bude jejich cena, zveřejníme v průběhu [února 2022](roadmap.md#unor-2022).
+Konečné informace o tom jak budou vstupenky distribuovány a jaká bude jejich cena, zveřejníme v průběhu [února 2022](../roadmap.md#unor-2022).
 {% endhint %}
 
 Vstupné bude placené - k dispozici budou 2-denní vstupenky ve 3 vlnách s možností upgradu na VIP.&#x20;
