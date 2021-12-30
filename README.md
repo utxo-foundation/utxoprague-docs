@@ -32,7 +32,7 @@ K dispozici bude [hlavní přednáškový sál](misto-konani/prehled-salu/rajska
 
 V budově nabídneme také několik dalších prostor pro výstavu a charitativní aukci uměleckých děl NFT, prostory s výukovými materiály a praktickými ukázkami, bitcoinové bankomaty a samozřejmě občerstvení a prostory pro networking a odpočinek.
 
-Venkovní část budovy poskytne přibližně 150 míst k sezení a širší prostor pro networking s možností využití několika food trucků. Večer po prvním dni konference bude následovat [společenský večer](doprovodny-program/spolecensky-vecer.md) se zábavným programem a charitativní aukcí, na kterou plynule naváže [hudební a taneční párty](doprovodny-program/party.md) v několika sálech a různými žánry.
+Venkovní část budovy poskytne přibližně 150 míst k sezení a širší prostor pro networking s možností využití několika food trucků. Večer po prvním dni konference bude následovat [společenský večer](doprovodny-program/kulturni-vecer.md) se zábavným programem a charitativní aukcí, na kterou plynule naváže [hudební a taneční párty](doprovodny-program/utxo.party.md) v několika sálech a různými žánry.
 
 Vstupné nebude zdarma, ale chceme ho držet [velmi nízko](navstevnici/vstupenky.md#distribucni-faze). Na celou dvoudenní konferenci by vstupenka měla stát okolo $25 (cca 560 Kč).
 
