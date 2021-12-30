@@ -20,6 +20,7 @@
   * [Party](doprovodny-program/party.md)
 * [Experimenty](experimenty/README.md)
   * [UTXO token](experimenty/utxo-token.md)
+  * [Predikční trhy](experimenty/predikcni-trhy.md)
 * [Živý přenos (livestream)](zivy-prenos-livestream.md)
 * [Catering](catering.md)
 * [Propagace](propagace/README.md)
