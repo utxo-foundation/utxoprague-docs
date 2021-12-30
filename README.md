@@ -48,7 +48,7 @@ Jsme spolek sdružující několik českých kryptokomunit, které se věnují v
 
 V letošním roce jsme mimo jiné uspořádali největší venkovní [Krypto meetup v Brně](https://www.facebook.com/events/moravsk%C3%A9-n%C3%A1m%C4%9Bst%C3%AD-602-00-brno-%C4%8Desk%C3%A1-republika/krypto-meetup-v-brn%C4%9B/735915783871565/) (22.6.2021) s více než 600 návštěvníky a konferenci [ETHBrno](https://ethbrno.gwei.cz/predchozi-rocniky/2021) (9.10.2021) s 200 návštěvníky. Obě akce byly zdarma.
 
-![](.gitbook/assets/gweicz-logo-square.png) ![](.gitbook/assets/holky-v-kryptu-logo-square.png) ![](.gitbook/assets/banklesscz-logo.png)
+![](.gitbook/assets/gweicz-logo-square.png) ![](.gitbook/assets/holky-v-kryptu-logo-square.png) ![](.gitbook/assets/banklesscz-logo-invert-square.png)
 
 ## Otevřenost a transparentnost
 
