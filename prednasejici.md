@@ -24,7 +24,7 @@ _(abecedně)_
 
 ### ![](.gitbook/assets/petr-mara.png) Petr Mára
 
-* Technologický evangelista
+* Technologický optimista, sběratel NFT
 * Twitter: [@petrmara](https://twitter.com/petrmara), Web: [Petr Mára](https://www.petrmara.com)
 
 ## Seznam všech přednášejících
