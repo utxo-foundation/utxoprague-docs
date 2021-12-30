@@ -1,4 +1,4 @@
-# Experimenty
+# 🌱 Experimenty
 
 V této sekci naleznete experimentální návrhy, jak konferenci udělat více interaktivní.
 

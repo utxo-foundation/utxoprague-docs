@@ -2,7 +2,7 @@
 description: Sobota 4. června 21:00 - 2:00, Gabriel Loci
 ---
 
-# UTXO.Party
+# 🎉 UTXO.Party
 
 Živá hudba a bary - chutné koktejly :cocktail: a možnost tance :man\_dancing:.
 

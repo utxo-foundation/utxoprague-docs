@@ -1,4 +1,4 @@
-# Doprovodný program
+# 🧩 Doprovodný program
 
 {% hint style="warning" %}
 🚧 Toto je pracovní verze doprovodného programu, konečný doprovodný program bude zveřejněn pár týdnů před konferencí.

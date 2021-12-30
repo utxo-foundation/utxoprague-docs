@@ -1,4 +1,4 @@
-# Sponzoři
+# 🎁 Sponzoři
 
 {% hint style="success" %}
 Chcete akci sponzorovat? Děláte něco zajímavého, co by se dalo s naší konferencí spojit?\

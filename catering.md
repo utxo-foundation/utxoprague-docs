@@ -1,4 +1,4 @@
-# Catering
+# 🍳 Catering
 
 V ceně vstupenky nebude obsaženo žádné jídlo ani pití, zdarma bude jen [pitná voda](catering.md#pitna-voda).&#x20;
 

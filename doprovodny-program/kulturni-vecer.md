@@ -1,3 +1,3 @@
-# Společenský večer
+# 🎭 Kulturní večer
 
 TBA

@@ -2,7 +2,7 @@
 description: Pátek, 3. června 2022 19:00, Místo TBD
 ---
 
-# UTXO.Kino
+# 🍿 UTXO.Kino
 
 {% hint style="warning" %}
 🚧 Nápad na UTXO.Kino je zatím úplně na začátku. Je možné, že se vůbec neuskuteční. Stay tuned.&#x20;

@@ -1,4 +1,4 @@
-# Organizační team
+# 🥷 Organizační team
 
 Jsme nezávislý spolek složený ze zástupců několika českých kryptokomunit, které se věnují vzdělávání v oblasti kryptoměn nebo blockchainu.
 
