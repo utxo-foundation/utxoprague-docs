@@ -1,4 +1,4 @@
-# 📺 UTXO.TV (livestream)
+# UTXO.TV (livestream)
 
 Obecný plán je že budeme livestreamovat všechno v přednáškových sálech (3 sály). Workshopy se livestreamovat nebudou.&#x20;
 

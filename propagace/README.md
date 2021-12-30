@@ -1,4 +1,4 @@
-# 🚩 Propagace
+# Propagace
 
 ## Sociální sítě
 

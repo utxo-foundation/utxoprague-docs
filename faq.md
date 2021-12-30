@@ -2,7 +2,7 @@
 description: Často kladené otázky
 ---
 
-# ❓ FAQ
+# FAQ
 
 <details>
 

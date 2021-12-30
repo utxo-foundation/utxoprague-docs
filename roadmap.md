@@ -1,4 +1,4 @@
-# ☑ Roadmap
+# Roadmap
 
 ### Prosinec 2021
 

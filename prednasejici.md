@@ -1,4 +1,4 @@
-# 🎤 Přednášející
+# Přednášející
 
 
 

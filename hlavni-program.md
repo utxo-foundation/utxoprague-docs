@@ -1,4 +1,4 @@
-# 🗓 Hlavní program
+# Hlavní program
 
 Připravujeme pro vás obsáhlý program s více než **100 hodinami přednášek a workshopů.** Chceme nabídnout obsah jak široké veřejnosti a úplným začátečníkům, tak pokročilým uživatelům. Kombinujeme aktuální krypto témata, aniž bychom se zaměřovali na jeden konkrétní blockchain.
 

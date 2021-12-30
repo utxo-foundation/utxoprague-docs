@@ -1,4 +1,4 @@
-# 🎟 Vstupenky
+# Vstupenky
 
 {% hint style="warning" %}
 Konečné informace o tom jak budou vstupenky distribuovány a jaká bude jejich cena, zveřejníme v průběhu [února 2022](../roadmap.md#unor-2022).
