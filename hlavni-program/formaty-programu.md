@@ -22,6 +22,14 @@ Plánujeme uspořádat 6 panelových debat, 3 v sobotu a 3 v neděli, vždy več
 
 * Délka: 90 - 120 min
 
+## Fireside chat
+
+Forma, kdy moderátor a hostující řečník vedou rozhovor. "Fireside chat" je neformální rozhovor, který osvětluje odborné znalosti hosta, bez formalit. Uvolněnou atmosféru akce umocníme tím, že na pódium přidáme pohodlná křesla nebo pohovky.
+
+Fireside chat formát použijeme především u významných hostů, třeba i zahraničních.
+
+* Délka: 25 - 55 min
+
 ## Lightning talk
 
 Speciální druh prezentace. Řečníci mají velmi omezený čas na svojí přednášku - maximálně 10 minut. Řečnící můžou mít powerpoint prezentaci, ale ta se musí automaticky posouvat dopředu, aby řečník neztrácel čas.
