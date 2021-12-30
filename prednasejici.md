@@ -8,7 +8,7 @@ Je někdo, koho byste na naši konferenci rádi slyšeli? Nebo snad sami chcete 
 
 Na této stránce naleznete přehled všech přednášejících, kteří předběžně potvrdili účast. Seznam pravidelně aktualizujeme.
 
-## Hlavní přednášející
+## Významní hosté
 
 _(abecedně)_
 
