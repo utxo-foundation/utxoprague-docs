@@ -61,3 +61,5 @@ Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEt
 * [KryptoVláďa komunita](https://www.kryptovlada.win) - komunita zabývající se DeFi, Ethereem, Polkadot nebo NEAR
 * [Polkadotters CZ/SK](https://polkadotters.medium.com) - komunita pro Polkadot nadšence
 * [CZ/SK NFT Community](https://discord.gg/X4MV9Pn5P8) (od RΞSISTANCΞ) - komunita okolo NFT
+
+![](../.gitbook/assets/gweicz-logo-square-2.png) ![](../.gitbook/assets/holky-v-kryptu-logo-square.png) ![](../.gitbook/assets/banklesscz-logo-invert-square.png)
