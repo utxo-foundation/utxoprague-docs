@@ -26,7 +26,7 @@ V neposlední řadě je program cíleně naplánován tak, aby navazoval na dal�
 
 ## Koncept konference
 
-[Hlavní program](hlavni-program.md) se uskuteční o víkendu **4. a 5. června 2022** v unikátním komplexu bývalého kláštera v centru Prahy ([Gabriel Loci](misto-konani/)). **Optimální kapacita bude 1000 hostů** (maximum 1200) a zároveň plánujeme nabídnout konferenci online (live streaming), což by mělo znásobit její dopad.
+[Hlavní program](hlavni-program/) se uskuteční o víkendu **4. a 5. června 2022** v unikátním komplexu bývalého kláštera v centru Prahy ([Gabriel Loci](misto-konani/)). **Optimální kapacita bude 1000 hostů** (maximum 1200) a zároveň plánujeme nabídnout konferenci online (live streaming), což by mělo znásobit její dopad.
 
 K dispozici bude [hlavní přednáškový sál](misto-konani/prehled-salu/rajska-zahrada.md) s kapacitou 350 osob, dva středně velké přednáškové sály s celkovou kapacitou 320 osob a 4 menší sály pro workshopy s celkovou kapacitou 200 osob. Obsah v nich bude probíhat současně.&#x20;
 
