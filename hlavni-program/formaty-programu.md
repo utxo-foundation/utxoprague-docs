@@ -1,6 +1,6 @@
 # Formáty programu
 
-Zde je přehled všech formátů, které lze na naší konferenci využít pro váš obsah.
+Zde je přehled všech formátů, které na naší konferenci vyžíváme.
 
 ## Přednáška
 

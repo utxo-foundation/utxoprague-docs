@@ -14,7 +14,7 @@
 * [Přednášející](prednasejici.md)
 * [Návštěvníci](navstevnici/README.md)
   * [Vstupenky](navstevnici/vstupenky.md)
-* [Hlavní program](hlavni-program/README.md)
+* [Hlavní program](hlavni-program.md)
   * [Formáty programu](hlavni-program/formaty-programu.md)
 * [Doprovodný program](doprovodny-program/README.md)
   * [UTXO.Kino](doprovodny-program/utxo.kino.md)
