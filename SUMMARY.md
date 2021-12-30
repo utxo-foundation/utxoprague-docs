@@ -16,6 +16,7 @@
   * [Vstupenky](navstevnici/vstupenky.md)
 * [Hlavní program](hlavni-program.md)
 * [Doprovodný program](doprovodny-program/README.md)
+  * [UTXO.Kino](doprovodny-program/utxo.kino.md)
   * [Kulturní večer](doprovodny-program/kulturni-vecer.md)
   * [UTXO.Party](doprovodny-program/utxo.party.md)
 * [Experimenty](experimenty/README.md)

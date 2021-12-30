@@ -6,7 +6,9 @@ Toto je pracovní verze doprovodného programu, konečný doprovodný program bu
 
 ## Pátek 3. června
 
-TBA
+| Čas           | Událost                               | Kde |
+| ------------- | ------------------------------------- | --- |
+| 19:00 - 22:00 | ****[**UTXO.Kino**](utxo.kino.md)**** | TBD |
 
 ## Sobota 4. června
 
