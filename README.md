@@ -13,7 +13,7 @@ description: 4.-5. červen 2022, Praha 🇨🇿 - Otevřená kryptoměnová komu
 Díky rozsáhlému programu, který obsahuje více než **100 hodin přednášek a workshopů**, můžeme nabídnout obsah jak široké veřejnosti, tak pokročilým uživatelům.
 
 {% hint style="success" %}
-V současnosti máme potvrzených [15+ přednášejících](prednasejici.md), mezi ty nejvýznamnější patří, např. Juraj Bednár, Mario Havel nebo Petr Mára.
+V současnosti máme potvrzených [15+ přednášejících](prednasejici.md), mezi ty nejvýznamnější patří, např. **Juraj Bednár**, **Mario Havel** nebo **Petr Mára**.
 {% endhint %}
 
 Naším cílem je představit a vzdělávat širokou veřejnost v oblasti otevřených blockchainů, jejich základních principů, jako je **decentralizace, neutralita, otevřenost, spolupráce** a souvisejících témat. Ukázat výhody, představit případy použití a zároveň prohloubit důvěru v jejich používání s důrazem na bezpečnost.
@@ -47,6 +47,8 @@ Jsme spolek sdružující několik českých kryptokomunit, které se věnují v
 Česko-slovenskou komunitu okolo Etherea a DeFi [**Gwei.cz**](https://gwei.cz) & [**BohemianDAO**](http://bohemiandao.cz), **** místní pobočku [**Bankless Czech**](https://bankless.cz) **** a organizace [**Holky v Kryptu**](https://holkyvkryptu.cz)**,** podporující a pořádající akce a aktivity zaměřené na oslovení začínajících a mírně pokročilých uživatelů.
 
 V letošním roce jsme mimo jiné uspořádali největší venkovní [Krypto meetup v Brně](https://www.facebook.com/events/moravsk%C3%A9-n%C3%A1m%C4%9Bst%C3%AD-602-00-brno-%C4%8Desk%C3%A1-republika/krypto-meetup-v-brn%C4%9B/735915783871565/) (22.6.2021) s více než 600 návštěvníky a konferenci [ETHBrno](https://ethbrno.gwei.cz/predchozi-rocniky/2021) (9.10.2021) s 200 návštěvníky. Obě akce byly zdarma.
+
+![](.gitbook/assets/gweicz-logo-square.png) ![](.gitbook/assets/holky-v-kryptu-logo-square.png) ![](.gitbook/assets/banklesscz-logo.png)
 
 ## Otevřenost a transparentnost
 
