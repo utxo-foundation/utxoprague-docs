@@ -5,7 +5,7 @@ description: Pátek, 3. června 2022 19:00, Místo TBD
 # UTXO.Kino
 
 {% hint style="warning" %}
-Nápad na UTXO.Kino je zatím úplně na začátku. Je možné, že se vůbec neuskuteční. Stay tuned.&#x20;
+🚧 Nápad na UTXO.Kino je zatím úplně na začátku. Je možné, že se vůbec neuskuteční. Stay tuned.&#x20;
 {% endhint %}
 
 Promítání filmů s kryptoměnovou tématikou v jednom z pražských kin. Půjde o kratší akci na cca 2-3h s promítáním 1-2 filmů. Kinosál a kapacitu zvolíme podle zájmu. Začátek bude v 19:00.
