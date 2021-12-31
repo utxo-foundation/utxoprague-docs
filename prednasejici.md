@@ -3,7 +3,7 @@
 Na této stránce naleznete přehled všech přednášejících, kteří předběžně potvrdili účast. Seznam pravidelně aktualizujeme.
 
 {% hint style="success" %}
-Je někdo, koho byste na naši konferenci rádi slyšeli? Nebo snad sami chcete přednášet? Budeme rádi, pokud nám o tom přijdete říci na náš [Discord server](https://discord.gg/5k9dEtVhnv).
+Je někdo, koho byste na naši konferenci rádi slyšeli? Nebo snad sami chcete přednášet? Budeme rádi, pokud nám o tom přijdete říci na náš [Discord](https://discord.gg/5k9dEtVhnv) nebo [Telegram](https://t.me/utxocz).
 {% endhint %}
 
 ## Významní hosté

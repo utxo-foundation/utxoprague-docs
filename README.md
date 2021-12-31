@@ -52,7 +52,7 @@ V letošním roce jsme mimo jiné uspořádali největší venkovní [Krypto mee
 
 ## Otevřenost a transparentnost
 
-Je pro nás důležité, aby každý měl možnost říci svoje připomínky nebo nápady. Vytvořili jsme pro to speciální [**UTXO Discord server**](https://discord.gg/5k9dEtVhnv) (chatovací platforma), který je zaměřený jen na tuto událost. Budeme rádi pokud se zapojíte se do naší komunity.
+Je pro nás důležité, aby každý měl možnost říci svoje připomínky nebo nápady. Vytvořili jsme pro to vlastní [**Discord server**](https://discord.gg/5k9dEtVhnv) a veřejnou [**Telegram skupinu**](https://t.me/utxocz)**.** Budeme rádi pokud se zapojíte se do naší komunity.
 
 Veškeré informace o konferenci se snažíme transparentně publikovat v rámci [Dokumentace](https://app.gitbook.com/o/-MX51JfmlnAQkYbTRI4J/s/ksSw74pkYApxPGDhzkzg/). Její součástí budou postupně všechny klíčové informace - například lidé, kteří se podílejí na organizaci ([Organizační team](organizacni-team/)), seznam subdodavatelů, nebo detailní rozpočet. Dokumentace je dostupná jako open-source na [GitHubu](https://github.com/gweicz/utxo22-docs), kde ji může kdokoliv pomoci doplnit, nebo opravit.
 
@@ -65,4 +65,4 @@ Máme rezervované místo konání a potvrzené první [sponzory](sponzori.md) a
 * Web: [utxo.cz](https://utxo.cz)
 * Twitter: [@utxocz](https://twitter.com/utxocz)
 * Discord: [discord.gg/5k9dEtVhnv](https://discord.gg/5k9dEtVhnv)
-* Telegram skupina: [t.me/utxocz](https://t.me/utxocz)
+* Telegram: [t.me/utxocz](https://t.me/utxocz)

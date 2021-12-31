@@ -4,11 +4,15 @@
 
 ### Twitter
 
-Účet na Twitteru Bude založen. **Primární komunikační kanál.**
+* Účet: [@utxocz](https://twitter.com/utxocz)
+
+### **Telegram**
+
+* Odkaz: [t.me/utxocz](https://t.me/utxocz)
 
 ### Facebook
 
-Událost bude založena. **Sekundární komunikační kanál.**
+Událost bude založena.
 
 ## **Web**
 
