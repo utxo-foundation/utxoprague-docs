@@ -34,7 +34,7 @@ Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEt
 | [**JiriCepelka**](https://twitter.com/JiriCepelka)****           | **sociální sítě, marketing** | Gwei.cz               |
 | **​**[**DavidBankless**](https://twitter.com/davidbankless)**​** | **sponzoři**                 | Bankless.cz           |
 | ****[**coinmandeer**](https://twitter.com/KeenOfCoin)****        | **vizuální identita**        | Gwei.cz               |
-| **exez**                                                         | **audiovizuální tvorba**     | Gwei.cz / Bankless.cz |
+| ****[**Exez**](https://twitter.com/OndraPulc)****                | **audiovizuální tvorba**     | Gwei.cz / Bankless.cz |
 | [**Klein Petr**](https://twitter.com/kleinpetr\_com)****         | **technologie**              | Gwei.cz               |
 | ****[**m0xt**](https://twitter.com/m0xt)****                     | **sponzoři**                 | Gwei.cz               |
 | ****[**bohus.eth**](https://twitter.com/bohuskrypto)****         | **sociální sítě**            | Gwei.cz               |
