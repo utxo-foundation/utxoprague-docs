@@ -6,13 +6,13 @@ Zde je přehled všech formátů, které na naší konferenci využíváme.
 
 Klasická forma prezentace - samozřejmostí je projekce powerpoint prezentace (slidů) a QA na konci. Je jen na přednášejícím, jak svůj čas využije, mělo by to být ale k tématu :)
 
-* Délka: 25 - 55 min
+* Délka: 25 min, 55 min
 
 ## Workshop
 
 Workshopy se budou konat v místnostech, kde budou mít lidé k dispozici stoly a možnost používat notebooky. Jsou tedy ideální na prohloubení znalostí o nějakém komplikovaném tématu s praktickou ukázkou a zapojením publika.
 
-* Délka: 55 - 115 min
+* Délka: 55 min, 115 min
 
 ## Panelová debata
 
@@ -20,7 +20,7 @@ Panelová diskuse představuje specifický druh mítinku před publikem. Základ
 
 Plánujeme uspořádat 6 panelových debat, 3 v sobotu a 3 v neděli, vždy večer mezi hlavním programem a doprovodným programem.
 
-* Délka: 90 - 120 min
+* Délka: 90 min, 120 min
 
 ## Fireside chat
 
@@ -28,7 +28,7 @@ Forma, kdy moderátor a hostující řečník vedou rozhovor. "Fireside chat" je
 
 Fireside chat formát použijeme především u významných hostů, třeba i zahraničních.
 
-* Délka: 25 - 55 min
+* Délka: 25 min, 55 min
 
 ## Lightning talk
 
