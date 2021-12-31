@@ -31,7 +31,7 @@ _(abecedně)_
 
 * Autor knihy [Pokrok bez povolenia](https://libinst.cz/produkt/pokrok-bez-povolenia/)
 * Analytik v [INESS](https://www.iness.sk), pedagog na [CEVRO Institutu](https://www.cevroinstitut.cz/cs/pedagog/ing-robert-chovanculiak-ph-d/)
-* Twitter: [@RChovanculiak](https://twitter.com/RChovanculiak)
+* Twitter: [@RChovanculiak](https://twitter.com/RChovanculiak), Web: [Pokrok bez povolenia (newsletter)](https://robertchovanculiak.substack.com)
 
 ## Seznam všech přednášejících
 
