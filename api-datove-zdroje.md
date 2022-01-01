@@ -11,7 +11,7 @@ Základní informace o konferenci a datové sady ve formátu JSON (read-only).
 | Endpoint                                            |                                                       |
 | --------------------------------------------------- | ----------------------------------------------------- |
 | [index.json](https://spec.utxo.cz/index.json)       | Základní informace o konferenci                       |
-| [speakers.json](http://spec.utxo.cz/speakers.json)' | Seznam přednášejících                                 |
+| [speakers.json](https://spec.utxo.cz/speakers.json) | Seznam přednášejících                                 |
 | [events.json](https://spec.utxo.cz/events.json)     | Seznam událostí - hlavní program a doprovodný program |
 
 ## Real-time API
