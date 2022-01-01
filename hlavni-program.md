@@ -8,7 +8,109 @@ Připravujeme pro vás obsáhlý program s více než **100 hodinami přednáše
 
 Přednášky a workshopy budou rozděleny do **9 tématických programových sekcí**. Níže naleznete jejich přehled a relevantní příklady.
 
+<details>
 
+<summary>Základy kryptoměn</summary>
+
+* principy otevřených projektů (blockchainů)
+* základy bezpečnosti a soukromí
+* peněženky - SW, HW
+* základy obchodování - DCA
+
+</details>
+
+<details>
+
+<summary>Bitcoin</summary>
+
+* Bitcoin jako peníze
+* Lightning Network - adopce, implementace
+* Taproot
+* Bitcoin mining
+* smart-kontrakty na bitcoinu (RGB)
+
+</details>
+
+<details>
+
+<summary>Ethereum &#x26; smart-kontrakty obecně</summary>
+
+* Ethereum 2.0
+* Layer2 - rollupy
+* (EVM) Sidechainy
+* vývoj smart-kontraktů (solidity)
+* MEV - Miner Extractable Value
+
+</details>
+
+<details>
+
+<summary>DeFi - decentralizované finance</summary>
+
+* stablecoiny
+* lending protokoly
+* DEX - decentralizované burzy
+* predikční trhy
+* futures/options kontrakty
+* tokenizace
+
+</details>
+
+<details>
+
+<summary>DAOs - decentralizované organizace</summary>
+
+* budoucnost organizací
+* showcase jednotlivých DAOs
+
+</details>
+
+<details>
+
+<summary>NFTs &#x26; Metaverse</summary>
+
+* NFT umění
+* NFT collectibles
+* gaming
+* Metaverse
+
+</details>
+
+<details>
+
+<summary>Experimentální blockchainy &#x26; další altcoiny</summary>
+
+* Polkadot
+* Cardano
+* Cosmos (Secret Network..)
+* Solana
+* NEAR
+* Monero
+* ...
+
+</details>
+
+<details>
+
+<summary>Regulace &#x26; fiat rampy</summary>
+
+* legislativa
+* směnárny a burzy
+* darování kryptoměn
+* insitucionální peníze v kryptoměnách
+
+</details>
+
+<details>
+
+<summary>Krypto-společnost</summary>
+
+* odluka peněz od státu
+* kryptoanarchismus, anarchokapitalismus, meritokracie
+* představení lokálních krypto-komunit
+* fenomén maximalismu
+
+</details>
 
 ## Časová osa
 
