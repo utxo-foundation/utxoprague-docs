@@ -31,6 +31,7 @@
   * [Koho hledáme](koho-hledame.md)
   * [Legální entita](organizacni-team/legalni-entita.md)
   * [Organizační nástroje](organizacni-team/organizacni-nastroje.md)
+* [API (datové zdroje)](api-datove-zdroje.md)
 * [Kodex konference](kodex-konference.md)
 * [Sponzoři](sponzori.md)
 * [FAQ](faq.md)
