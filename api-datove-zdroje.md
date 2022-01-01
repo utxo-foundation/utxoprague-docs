@@ -6,14 +6,14 @@ Dáváme k dispozici různé datové zdroje k experimentům.
 
 Základní informace o konferenci a datové sady ve formátu JSON (read-only).
 
-* Root URL: [https://spec.utxo.cz/](https://spec.utxo.cz)
+* Root URL: [https://spec.utxo.cz/22/](https://spec.utxo.cz/22/)
 
 | Endpoint                                            |                                        |
 | --------------------------------------------------- | -------------------------------------- |
-| [index.json](https://spec.utxo.cz/index.json)       | Základní informace o konferenci        |
-| [speakers.json](https://spec.utxo.cz/speakers.json) | Přednášející                           |
-| [tracks.json](https://spec.utxo.cz/tracks.json)     | Programové sekce                       |
-| [events.json](https://spec.utxo.cz/events.json)     | Události - hlavní a doprovodný program |
+| [index.json](https://spec.utxo.cz/22/index.json)       | Základní informace o konferenci        |
+| [speakers.json](https://spec.utxo.cz/22/speakers.json) | Přednášející                           |
+| [tracks.json](https://spec.utxo.cz/22/tracks.json)     | Programové sekce                       |
+| [events.json](https://spec.utxo.cz/22/events.json)     | Události - hlavní a doprovodný program |
 
 ## Real-time API
 
