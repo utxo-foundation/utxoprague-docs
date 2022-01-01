@@ -58,7 +58,7 @@ _(abecedně)_
 | [**Pavel Přecechtěl**](https://twitter.com/homershillson) (HomΞr Shillson) | [VR Education](https://vreducation.cz)                                                                                                        |
 | [**Róbert Chovanculiak**](https://twitter.com/RChovanculiak)               | Analytik v [INESS](https://www.iness.sk), pedagog na [CEVRO Institutu](https://www.cevroinstitut.cz/cs/pedagog/ing-robert-chovanculiak-ph-d/) |
 | [**Tomáš Zdražil**](https://twitter.com/investree_cz)                      | [Investree](https://investree.cz)                                                                                                             |
-| **Tomáš**                                                                  | [KryptoVláďa komunita](https://www.kryptovlada.win)                                                                                           |
+| **Tomáš**                                                                  | Člen [KryptoVláďa komunity](https://www.kryptovlada.win)                                                                                      |
 
 ### Datový zdroj
 
