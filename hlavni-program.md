@@ -111,6 +111,7 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 * fenomén maximalismu
 
 </details>
+
 ## Časová osa
 
 V následující tabulce naleznete obecnou představu, jak by mohl vypadat harmonogram celé akce v [Gabriel Loci](misto-konani/).
