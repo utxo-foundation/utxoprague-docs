@@ -10,28 +10,28 @@ Je někdo, koho byste na naši konferenci rádi slyšeli? Nebo snad sami chcete 
 
 _(abecedně)_
 
-### ![](.gitbook/assets/juraj-bednar.png) Juraj Bednár
+### ![](https://spec.utxo.cz/src/photos/speakers/juraj-bednar.png) Juraj Bednár
 
 * Podnikatel, hacker a milovník svobody
-* Spoluzakladatel [Hacktrophy](https://hacktrophy.com), člen [Paralelné Polis](https://paralelnapolis.sk)
-* Twitter: [@jurbed](https://twitter.com/jurbed), Web: [Juraj Bednár](https://juraj.bednar.io)
+* Spoluzakladatel [Hacktrophy](https://hacktrophy.com/sk/), člen [Paralelné Polis](https://paralelnapolis.sk/)
+* Twitter: [@jurbed](https://twitter.com/jurbed), Web: [Juraj Bednár](https://juraj.bednar.io/)
 
-### ![](.gitbook/assets/mario-havel.png) Mario Havel
+### ![](https://spec.utxo.cz/src/photos/speakers/mario-havel.png) Mario Havel
 
 * Kryptoanarchista, libertarián a hacker
-* Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz)
+* Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)
 * Twitter: [@TMIYChao](https://twitter.com/TMIYChao)
 
-### ![](.gitbook/assets/petr-mara.png) Petr Mára
+### ![](https://spec.utxo.cz/src/photos/speakers/petr-mara.png) Petr Mára
 
 * Technologický optimista, sběratel NFT
-* Twitter: [@petrmara](https://twitter.com/petrmara), Web: [Petr Mára](https://www.petrmara.com)
+* Twitter: [@petrmara](https://twitter.com/petrmara), Web: [Petr Mára](https://www.petrmara.com/)
 
-### ![](.gitbook/assets/robert-chovanculiak.png) Róbert Chovanculiak
+### ![](https://spec.utxo.cz/src/photos/speakers/robert-chovanculiak.png) Róbert Chovanculiak
 
 * Autor knihy [Pokrok bez povolenia](https://libinst.cz/produkt/pokrok-bez-povolenia/)
 * Analytik v [INESS](https://www.iness.sk), pedagog na [CEVRO Institutu](https://www.cevroinstitut.cz/cs/pedagog/ing-robert-chovanculiak-ph-d/)
-* Twitter: [@RChovanculiak](https://twitter.com/RChovanculiak), Web: [Pokrok bez povolenia (newsletter)](https://robertchovanculiak.substack.com)
+* Twitter: [@RChovanculiak](https://twitter.com/RChovanculiak), Web: [Pokrok bez povolenia (newsletter)](https://robertchovanculiak.substack.com/)
 
 ## Seznam všech přednášejících
 
