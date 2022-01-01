@@ -10,7 +10,7 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 <details>
 
-<summary>Základy kryptoměnx</summary>
+<summary>Základy kryptoměn</summary>
 
 * principy otevřených projektů (blockchainů)
 * základy bezpečnosti a soukromí
