@@ -16,7 +16,6 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 * základy bezpečnosti a soukromí
 * peněženky - SW, HW
 * základy obchodování - DCA
-* odluka peněz od státu
 
 </details>
 
@@ -34,7 +33,7 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 <details>
 
-<summary>Ethereum &#x26; smart-kontrakty obecně</summary>
+<summary>Ethereum a smart-kontrakty obecně</summary>
 
 * Ethereum 2.0
 * Layer2 - rollupy
@@ -68,7 +67,7 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 <details>
 
-<summary>NFTs &#x26; Metaverse</summary>
+<summary>NFTs a Metaverse</summary>
 
 * NFT umění
 * NFT collectibles
@@ -79,7 +78,7 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 <details>
 
-<summary>Experimentální blockchainy &#x26; další altcoiny</summary>
+<summary>Experimentální blockchainy a další altcoiny</summary>
 
 * Polkadot
 * Cardano
@@ -93,7 +92,7 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 <details>
 
-<summary>Regulace &#x26; fiat rampy</summary>
+<summary>Regulace a fiat rampy</summary>
 
 * legislativa
 * směnárny a burzy
@@ -106,8 +105,9 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 <summary>Krypto-společnost</summary>
 
-* představení lokálních krypto-komunit
+* odluka peněz od státu
 * kryptoanarchismus, anarchokapitalismus, meritokracie
+* představení lokálních krypto-komunit
 * fenomén maximalismu
 
 </details>
