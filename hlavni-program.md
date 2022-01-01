@@ -34,7 +34,7 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 <details>
 
-<summary>Ethereum & smart-kontrakty obecně</summary>
+<summary>Ethereum &#x26; smart-kontrakty obecně</summary>
 
 * Ethereum 2.0
 * Layer2 - rollupy
@@ -68,7 +68,7 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 <details>
 
-<summary>NFTs & Metaverse</summary>
+<summary>NFTs &#x26; Metaverse</summary>
 
 * NFT umění
 * NFT collectibles
@@ -79,7 +79,7 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 <details>
 
-<summary>Experimentální blockchainy & další altcoiny</summary>
+<summary>Experimentální blockchainy &#x26; další altcoiny</summary>
 
 * Polkadot
 * Cardano
@@ -93,7 +93,7 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 <details>
 
-<summary>Regulace & fiat rampy</summary>
+<summary>Regulace &#x26; fiat rampy</summary>
 
 * legislativa
 * směnárny a burzy
