@@ -35,6 +35,8 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
+Celkem přednášejících: **18**
+
 _(abecedně)_
 
 | Jméno                                                                      | Organizace                                                                                                                                    |
