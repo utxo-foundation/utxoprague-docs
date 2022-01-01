@@ -78,39 +78,6 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 <details>
 
-<summary>Experimentální blockchainy &#x26; další altcoiny</summary>
-
-* Polkadot
-* Cardano
-* Cosmos (Secret Network..)
-* Solana
-* NEAR
-* Monero
-* ...
-
-</details>
-
-<details>
-
-<summary>Regulace &#x26; fiat rampy</summary>
-
-* legislativa
-* směnárny a burzy
-* darování kryptoměn
-* insitucionální peníze v kryptoměnách
-
-</details>
-
-<details>
-
-<summary>Krypto-společnost</summary>
-
-* odluka peněz od státu
-* kryptoanarchismus, anarchokapitalismus, meritokracie
-* představení lokálních krypto-komunit
-* fenomén maximalismu
-
-</details>
 
 ## Časová osa
 
