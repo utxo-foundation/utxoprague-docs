@@ -19,62 +19,7 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 </details>
 
-<details>
 
-<summary>Bitcoin</summary>
-
-* Bitcoin jako peníze
-* Lightning Network - adopce, implementace
-* Taproot
-* Bitcoin mining
-* smart-kontrakty na bitcoinu (RGB)
-
-</details>
-
-<details>
-
-<summary>Ethereum &#x26; smart-kontrakty obecně</summary>
-
-* Ethereum 2.0
-* Layer2 - rollupy
-* (EVM) Sidechainy
-* vývoj smart-kontraktů (solidity)
-* MEV - Miner Extractable Value
-
-</details>
-
-<details>
-
-<summary>DeFi - decentralizované finance</summary>
-
-* stablecoiny
-* lending protokoly
-* DEX - decentralizované burzy
-* predikční trhy
-* futures/options kontrakty
-* tokenizace
-
-</details>
-
-<details>
-
-<summary>DAOs - decentralizované organizace</summary>
-
-* budoucnost organizací
-* showcase jednotlivých DAOs
-
-</details>
-
-<details>
-
-<summary>NFTs &#x26; Metaverse</summary>
-
-* NFT umění
-* NFT collectibles
-* gaming
-* Metaverse
-
-</details>
 
 
 ## Časová osa
