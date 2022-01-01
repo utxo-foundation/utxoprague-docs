@@ -76,8 +76,6 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 </details>
 
-<details>
-
 
 ## Časová osa
 
