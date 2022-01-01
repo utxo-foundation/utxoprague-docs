@@ -16,12 +16,25 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 * základy bezpečnosti a soukromí
 * peněženky - SW, HW
 * základy obchodování - DCA
+* odluka peněz od státu
 
 </details>
 
 <details>
 
-<summary>Ethereum a smart-kontrakty obecně</summary>
+<summary>Bitcoin</summary>
+
+* Bitcoin jako peníze
+* Lightning Network - adopce, implementace
+* Taproot
+* Bitcoin mining
+* smart-kontrakty na bitcoinu (RGB)
+
+</details>
+
+<details>
+
+<summary>Ethereum &#x26; smart-kontrakty obecně</summary>
 
 * Ethereum 2.0
 * Layer2 - rollupy
@@ -31,9 +44,73 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 </details>
 
+<details>
 
+<summary>DeFi - decentralizované finance</summary>
 
+* stablecoiny
+* lending protokoly
+* DEX - decentralizované burzy
+* predikční trhy
+* futures/options kontrakty
+* tokenizace
 
+</details>
+
+<details>
+
+<summary>DAOs - decentralizované organizace</summary>
+
+* budoucnost organizací
+* showcase jednotlivých DAOs
+
+</details>
+
+<details>
+
+<summary>NFTs &#x26; Metaverse</summary>
+
+* NFT umění
+* NFT collectibles
+* gaming
+* Metaverse
+
+</details>
+
+<details>
+
+<summary>Experimentální blockchainy &#x26; další altcoiny</summary>
+
+* Polkadot
+* Cardano
+* Cosmos (Secret Network..)
+* Solana
+* NEAR
+* Monero
+* ...
+
+</details>
+
+<details>
+
+<summary>Regulace &#x26; fiat rampy</summary>
+
+* legislativa
+* směnárny a burzy
+* darování kryptoměn
+* insitucionální peníze v kryptoměnách
+
+</details>
+
+<details>
+
+<summary>Krypto-společnost</summary>
+
+* představení lokálních krypto-komunit
+* kryptoanarchismus, anarchokapitalismus, meritokracie
+* fenomén maximalismu
+
+</details>
 ## Časová osa
 
 V následující tabulce naleznete obecnou představu, jak by mohl vypadat harmonogram celé akce v [Gabriel Loci](misto-konani/).
