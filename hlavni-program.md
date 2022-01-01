@@ -19,6 +19,18 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 </details>
 
+<details>
+
+<summary>Bitcoin</summary>
+
+* Bitcoin jako peníze
+* Lightning Network - adopce, implementace
+* Taproot
+* Bitcoin mining
+* smart-kontrakty na bitcoinu (RGB)
+
+</details>
+
 
 
 ## Časová osa
