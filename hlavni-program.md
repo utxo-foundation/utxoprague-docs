@@ -16,7 +16,6 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 * základy bezpečnosti a soukromí
 * peněženky - SW, HW
 * základy obchodování - DCA
-* odluka peněz od státu
 
 </details>
 
@@ -106,8 +105,9 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 <summary>Krypto-společnost</summary>
 
-* představení lokálních krypto-komunit
+* odluka peněz od státu
 * kryptoanarchismus, anarchokapitalismus, meritokracie
+* představení lokálních krypto-komunit
 * fenomén maximalismu
 
 </details>
