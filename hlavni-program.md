@@ -19,6 +19,30 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 </details>
 
+<details>
+
+<summary>Bitcoin</summary>
+
+* Bitcoin jako peníze
+* Lightning Network - adopce, implementace
+* Taproot
+* Bitcoin mining
+* smart-kontrakty na bitcoinu (RGB)
+
+</details>
+
+<details>
+
+<summary>Ethereum &#x26; smart-kontrakty obecně</summary>
+
+* Ethereum 2.0
+* Layer2 - rollupy
+* (EVM) Sidechainy
+* vývoj smart-kontraktů (solidity)
+* MEV - Miner Extractable Value
+
+</details>
+
 
 
 
