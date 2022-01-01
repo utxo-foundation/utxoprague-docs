@@ -33,7 +33,7 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 <details>
 
-<summary>Ethereum & smart-kontrakty obecně</summary>
+<summary>Ethereum a smart-kontrakty obecně</summary>
 
 * Ethereum 2.0
 * Layer2 - rollupy
@@ -43,8 +43,74 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 </details>
 
+<details>
 
+<summary>DeFi - decentralizované finance</summary>
 
+* stablecoiny
+* lending protokoly
+* DEX - decentralizované burzy
+* predikční trhy
+* futures/options kontrakty
+* tokenizace
+
+</details>
+
+<details>
+
+<summary>DAOs - decentralizované organizace</summary>
+
+* budoucnost organizací
+* showcase jednotlivých DAOs
+
+</details>
+
+<details>
+
+<summary>NFTs a Metaverse</summary>
+
+* NFT umění
+* NFT collectibles
+* gaming
+* Metaverse
+
+</details>
+
+<details>
+
+<summary>Experimentální blockchainy a další altcoiny</summary>
+
+* Polkadot
+* Cardano
+* Cosmos (Secret Network..)
+* Solana
+* NEAR
+* Monero
+* ...
+
+</details>
+
+<details>
+
+<summary>Regulace a fiat rampy</summary>
+
+* legislativa
+* směnárny a burzy
+* darování kryptoměn
+* insitucionální peníze v kryptoměnách
+
+</details>
+
+<details>
+
+<summary>Krypto-společnost</summary>
+
+* odluka peněz od státu
+* kryptoanarchismus, anarchokapitalismus, meritokracie
+* představení lokálních krypto-komunit
+* fenomén maximalismu
+
+</details>
 
 ## Časová osa
 
