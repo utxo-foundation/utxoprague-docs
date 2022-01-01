@@ -12,6 +12,7 @@ Přehled všech větších krypto události v ČR/SK.
 | ------------- | -------------------------- | ----- | ------------------------------------------------------------------------------------------- |
 | 7.5.          | Zlín, UTB                  | ?     | ?                                                                                           |
 | 7.5.          | Liberec                    | 550   | CryptoByte 2022                                                                             |
+| 28.5.         | Praha, CEVRO               | ?     | Konference Svobodného Přístavu                                                              |
 | **4.-5.6.**   | **Praha, Gabriel Loci**    | 1000  | **UTXO.22**                                                                                 |
 | **10.-12.6.** | **Praha, Paralelní Polis** | ?     | ****[**ETHPrague 2022**](https://twitter.com/EthPrague) **🤝**                              |
 | 15.6.         | Praha                      | ?     | [Bitcoin Mining Conference 2022 ](https://cs.braiins.com/bitcoin-mining-conference-2022) ✉️ |
