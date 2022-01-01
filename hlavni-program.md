@@ -33,7 +33,7 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 <details>
 
-<summary>Ethereum &#x26; smart-kontrakty obecně</summary>
+<summary>Ethereum & smart-kontrakty obecně</summary>
 
 * Ethereum 2.0
 * Layer2 - rollupy
