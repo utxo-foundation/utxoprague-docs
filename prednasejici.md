@@ -41,7 +41,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **23**
+Celkem přednášejících: **24**
 
 _(abecedně)_
 
@@ -54,6 +54,7 @@ _(abecedně)_
 | [**David Antoš**](https://twitter.com/jilm) (jilm)                         | Spoluzakladatel spolku [Pro euro](https://proeuro.cz)                                                                                                                           |
 | [**DavidBankless**](https://twitter.com/davidbankless)                     | [Flipper.Zone](https://twitter.com/flipperzonenft), [BanklessDAO](https://www.bankless.community)                                                                               |
 | [**Honza Dvořák**](https://twitter.com/_Honza_Dvorak) (Gorrdy)             | [btcplatby.cz](https://btcplatby.cz)                                                                                                                                            |
+| **Jan Černý** (-HoNY-)                                                     | Člen [Bitcoinovej kanál](https://bitcoinovejkanal.cz/) komunity                                                                                                                 |
 | [**Jaromír Tesař**](https://twitter.com/JaromirTesar)                      | [Cardanians](https://cardanians.io/cs)                                                                                                                                          |
 | [**Jiří Čepelka**](https://twitter.com/JiriCepelka)                        |                                                                                                                                                                                 |
 | [**Juraj Bednár**](https://twitter.com/jurbed)                             | Spoluzakladatel [Hacktrophy](https://hacktrophy.com/sk/), člen [Paralelné Polis](https://paralelnapolis.sk)                                                                     |
