@@ -33,32 +33,39 @@ _(abecedně)_
 * Analytik v [INESS](https://www.iness.sk), pedagog na [CEVRO Institutu](https://www.cevroinstitut.cz/cs/pedagog/ing-robert-chovanculiak-ph-d/)
 * Twitter: [@RChovanculiak](https://twitter.com/RChovanculiak), Web: [Pokrok bez povolenia (newsletter)](https://robertchovanculiak.substack.com)
 
+### ![](https://spec.utxo.cz/22/photos/speakers/urza-sm.png) Urza
+
+* Anarchokapitalista, autor knihy [Anarchokapitalismus](https://kniha.urza.cz/)
+* Zakladatel [Svobodného přístavu](https://pristav.urza.cz/), vedoucí [CZ/SK Mises Institutu](https://www.mises.cz/), člen projektu [Svoboda učení](https://www.svobodauceni.cz/)
+* Twitter: [@urzanarchy](https://twitter.com/urzanarchy), Web: [Urza.cz](https://urza.cz)
+
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **18**
+Celkem přednášejících: **19**
 
 _(abecedně)_
 
-| Jméno                                                                      | Organizace                                                                                                                                    |
-| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Adam Kracík**                                                            |                                                                                                                                               |
-| [**Adam Studeník**](https://twitter.com/adamstudenik)                      |                                                                                                                                               |
-| [**Anett Rohlikova**](https://twitter.com/anettrolikova)                   | [Ethereum Magicians](https://ethereum-magicians.org/)                                                                                         |
-| [**damsky**](https://twitter.com/CryptoDamSky)                             |                                                                                                                                               |
-| [**DavidBankless**](https://twitter.com/davidbankless)                     | [Flipper.Zone](https://twitter.com/flipperzonenft), [BanklessDAO](https://www.bankless.community)                                             |
-| [**Honza Dvořák**](https://twitter.com/_Honza_Dvorak) (Gorrdy)             | [btcplatby.cz](https://btcplatby.cz)                                                                                                          |
-| [**Jiří Čepelka**](https://twitter.com/JiriCepelka)                        |                                                                                                                                               |
-| [**Juraj Bednár**](https://twitter.com/jurbed)                             | Spoluzakladatel [Hacktrophy](https://hacktrophy.com/sk/), člen [Paralelné Polis](https://paralelnapolis.sk)                                   |
-| [**Vladimír Pinker**](https://twitter.com/KryptoVlada) (KryptoVláďa)       | [KryptoVláďa](https://www.kryptovlada.win)                                                                                                    |
-| [**Mario Havel**](https://twitter.com/TMIYChao)                            | Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)                  |
-| [**m0xt**](https://twitter.com/m0xt_)                                      |                                                                                                                                               |
-| [**Petr Klein**](https://twitter.com/kleinpetr_com)                        |                                                                                                                                               |
-| [**Petr Mára**](https://twitter.com/petrmara)                              |                                                                                                                                               |
-| [**Petr Menšík**](https://twitter.com/petr_mensik)                         | [Polkadotters](https://twitter.com/polkadotterss)                                                                                             |
-| [**Pavel Přecechtěl**](https://twitter.com/homershillson) (HomΞr Shillson) | [VR Education](https://vreducation.cz)                                                                                                        |
-| [**Róbert Chovanculiak**](https://twitter.com/RChovanculiak)               | Analytik v [INESS](https://www.iness.sk), pedagog na [CEVRO Institutu](https://www.cevroinstitut.cz/cs/pedagog/ing-robert-chovanculiak-ph-d/) |
-| [**Tomáš Zdražil**](https://twitter.com/investree_cz)                      | [Investree](https://investree.cz)                                                                                                             |
-| **Tomáš**                                                                  | Člen [KryptoVláďa komunity](https://www.kryptovlada.win)                                                                                      |
+| Jméno                                                                      | Organizace                                                                                                                                                                      |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Adam Kracík**                                                            |                                                                                                                                                                                 |
+| [**Adam Studeník**](https://twitter.com/adamstudenik)                      |                                                                                                                                                                                 |
+| [**Anett Rohlikova**](https://twitter.com/anettrolikova)                   | [Ethereum Magicians](https://ethereum-magicians.org/)                                                                                                                           |
+| [**damsky**](https://twitter.com/CryptoDamSky)                             |                                                                                                                                                                                 |
+| [**DavidBankless**](https://twitter.com/davidbankless)                     | [Flipper.Zone](https://twitter.com/flipperzonenft), [BanklessDAO](https://www.bankless.community)                                                                               |
+| [**Honza Dvořák**](https://twitter.com/_Honza_Dvorak) (Gorrdy)             | [btcplatby.cz](https://btcplatby.cz)                                                                                                                                            |
+| [**Jiří Čepelka**](https://twitter.com/JiriCepelka)                        |                                                                                                                                                                                 |
+| [**Juraj Bednár**](https://twitter.com/jurbed)                             | Spoluzakladatel [Hacktrophy](https://hacktrophy.com/sk/), člen [Paralelné Polis](https://paralelnapolis.sk)                                                                     |
+| [**Vladimír Pinker**](https://twitter.com/KryptoVlada) (KryptoVláďa)       | [KryptoVláďa](https://www.kryptovlada.win)                                                                                                                                      |
+| [**Mario Havel**](https://twitter.com/TMIYChao)                            | Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)                                                    |
+| [**m0xt**](https://twitter.com/m0xt_)                                      |                                                                                                                                                                                 |
+| [**Petr Klein**](https://twitter.com/kleinpetr_com)                        |                                                                                                                                                                                 |
+| [**Petr Mára**](https://twitter.com/petrmara)                              |                                                                                                                                                                                 |
+| [**Petr Menšík**](https://twitter.com/petr_mensik)                         | [Polkadotters](https://twitter.com/polkadotterss)                                                                                                                               |
+| [**Pavel Přecechtěl**](https://twitter.com/homershillson) (HomΞr Shillson) | [VR Education](https://vreducation.cz)                                                                                                                                          |
+| [**Róbert Chovanculiak**](https://twitter.com/RChovanculiak)               | Analytik v [INESS](https://www.iness.sk), pedagog na [CEVRO Institutu](https://www.cevroinstitut.cz/cs/pedagog/ing-robert-chovanculiak-ph-d/)                                   |
+| [**Tomáš Zdražil**](https://twitter.com/investree_cz)                      | [Investree](https://investree.cz)                                                                                                                                               |
+| **Tomáš**                                                                  | Člen [KryptoVláďa komunity](https://www.kryptovlada.win)                                                                                                                        |
+| [**Urza**](https://twitter.com/urzanarchy)                                 | Zakladatel [Svobodného přístavu](https://pristav.urza.cz/), vedoucí [CZ/SK Mises Institutu](https://www.mises.cz/), člen projektu [Svoboda učení](https://www.svobodauceni.cz/) |
 
 ### Datový zdroj
 
