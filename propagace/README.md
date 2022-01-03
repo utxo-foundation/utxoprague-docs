@@ -12,7 +12,7 @@
 
 ### Facebook
 
-Událost bude založena.
+* FB událost: [https://www.facebook.com/events/276727151106692](https://www.facebook.com/events/276727151106692)
 
 ## **Web**
 

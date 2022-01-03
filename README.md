@@ -66,3 +66,4 @@ Máme rezervované místo konání a potvrzené první [sponzory](sponzori.md) a
 * Twitter: [@utxocz](https://twitter.com/utxocz)
 * Discord: [discord.gg/5k9dEtVhnv](https://discord.gg/5k9dEtVhnv)
 * Telegram: [t.me/utxocz](https://t.me/utxocz)
+* Facebook: [Facebook událost](https://www.facebook.com/events/276727151106692)
