@@ -41,7 +41,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **19**
+Celkem přednášejících: **20**
 
 _(abecedně)_
 
@@ -55,17 +55,18 @@ _(abecedně)_
 | [**Honza Dvořák**](https://twitter.com/_Honza_Dvorak) (Gorrdy)             | [btcplatby.cz](https://btcplatby.cz)                                                                                                                                            |
 | [**Jiří Čepelka**](https://twitter.com/JiriCepelka)                        |                                                                                                                                                                                 |
 | [**Juraj Bednár**](https://twitter.com/jurbed)                             | Spoluzakladatel [Hacktrophy](https://hacktrophy.com/sk/), člen [Paralelné Polis](https://paralelnapolis.sk)                                                                     |
-| [**Vladimír Pinker**](https://twitter.com/KryptoVlada) (KryptoVláďa)       | [KryptoVláďa](https://www.kryptovlada.win)                                                                                                                                      |
-| [**Mario Havel**](https://twitter.com/TMIYChao)                            | Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)                                                    |
 | [**m0xt**](https://twitter.com/m0xt_)                                      |                                                                                                                                                                                 |
+| [**Mario Havel**](https://twitter.com/TMIYChao)                            | Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)                                                    |
+| [**Martin Gregor**](https://twitter.com/ZaujaloMa)                         | YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)                                                                                |
+| [**Pavel Přecechtěl**](https://twitter.com/homershillson) (HomΞr Shillson) | [VR Education](https://vreducation.cz)                                                                                                                                          |
 | [**Petr Klein**](https://twitter.com/kleinpetr_com)                        |                                                                                                                                                                                 |
 | [**Petr Mára**](https://twitter.com/petrmara)                              |                                                                                                                                                                                 |
 | [**Petr Menšík**](https://twitter.com/petr_mensik)                         | [Polkadotters](https://twitter.com/polkadotterss)                                                                                                                               |
-| [**Pavel Přecechtěl**](https://twitter.com/homershillson) (HomΞr Shillson) | [VR Education](https://vreducation.cz)                                                                                                                                          |
 | [**Róbert Chovanculiak**](https://twitter.com/RChovanculiak)               | Analytik v [INESS](https://www.iness.sk), pedagog na [CEVRO Institutu](https://www.cevroinstitut.cz/cs/pedagog/ing-robert-chovanculiak-ph-d/)                                   |
-| [**Tomáš Zdražil**](https://twitter.com/investree_cz)                      | [Investree](https://investree.cz)                                                                                                                                               |
 | **Tomáš**                                                                  | Člen [KryptoVláďa komunity](https://www.kryptovlada.win)                                                                                                                        |
+| [**Tomáš Zdražil**](https://twitter.com/investree_cz)                      | [Investree](https://investree.cz)                                                                                                                                               |
 | [**Urza**](https://twitter.com/urzanarchy)                                 | Zakladatel [Svobodného přístavu](https://pristav.urza.cz/), vedoucí [CZ/SK Mises Institutu](https://www.mises.cz/), člen projektu [Svoboda učení](https://www.svobodauceni.cz/) |
+| [**Vladimír Pinker**](https://twitter.com/KryptoVlada) (KryptoVláďa)       | YT kanál [KryptoVláďa](https://www.kryptovlada.win)                                                                                                                             |
 
 ### Datový zdroj
 
