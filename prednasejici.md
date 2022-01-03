@@ -41,7 +41,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **22**
+Celkem přednášejících: **23**
 
 _(abecedně)_
 
@@ -60,6 +60,7 @@ _(abecedně)_
 | [**m0xt**](https://twitter.com/m0xt_)                                      |                                                                                                                                                                                 |
 | [**Mario Havel**](https://twitter.com/TMIYChao)                            | Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)                                                    |
 | [**Martin Gregor**](https://twitter.com/ZaujaloMa)                         | YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)                                                                                |
+| [**Michael Repetný**](https://twitter.com/repetny)                         | [Marinade.finance](https://marinade.finance/)                                                                                                                                   |
 | [**Pavel Přecechtěl**](https://twitter.com/homershillson) (HomΞr Shillson) | [VR Education](https://vreducation.cz)                                                                                                                                          |
 | [**Petr Klein**](https://twitter.com/kleinpetr_com)                        |                                                                                                                                                                                 |
 | [**Petr Mára**](https://twitter.com/petrmara)                              |                                                                                                                                                                                 |
