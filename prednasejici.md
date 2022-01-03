@@ -41,7 +41,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **20**
+Celkem přednášejících: **21**
 
 _(abecedně)_
 
@@ -51,6 +51,7 @@ _(abecedně)_
 | [**Adam Studeník**](https://twitter.com/adamstudenik)                      |                                                                                                                                                                                 |
 | [**Anett Rohlikova**](https://twitter.com/anettrolikova)                   | [Ethereum Magicians](https://ethereum-magicians.org/)                                                                                                                           |
 | [**damsky**](https://twitter.com/CryptoDamSky)                             |                                                                                                                                                                                 |
+| [**David Antoš**](https://twitter.com/jilm)                                | Spoluzakladatel spolku (Pro euro)[https://proeuro.cz/o-nas]                                                                                                                     |
 | [**DavidBankless**](https://twitter.com/davidbankless)                     | [Flipper.Zone](https://twitter.com/flipperzonenft), [BanklessDAO](https://www.bankless.community)                                                                               |
 | [**Honza Dvořák**](https://twitter.com/_Honza_Dvorak) (Gorrdy)             | [btcplatby.cz](https://btcplatby.cz)                                                                                                                                            |
 | [**Jiří Čepelka**](https://twitter.com/JiriCepelka)                        |                                                                                                                                                                                 |
