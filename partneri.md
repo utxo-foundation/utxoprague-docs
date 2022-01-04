@@ -22,8 +22,9 @@ Hledáme každého, kdo může dát o UTXO.22 vědět svým divákům, poslucha�
 
 ## Mediální partneři
 
-| Mediální partner                                                              | Popis                               |
-| ----------------------------------------------------------------------------- | ----------------------------------- |
-| [Krypto Insider (Hospodářské noviny)](https://podcasty.hn.cz/krypto-insider/) | Podcast o kryptoměnách (Petr Lukáč) |
-| [Investree.cz](https://investree.cz)                                          | (Tomáš Zdražil)                     |
+| Mediální partner                                                              | Popis                                         |
+| ----------------------------------------------------------------------------- | --------------------------------------------- |
+| [Krypto Insider (Hospodářské noviny)](https://podcasty.hn.cz/krypto-insider/) | Podcast o kryptoměnách (Petr Lukáč)           |
+| [Investree.cz](https://investree.cz)                                          | (Tomáš Zdražil)                               |
+| [KryptoPlatby](https://www.facebook.com/kryptoplatby/)                        | YouTube kanál a komunita lidí okolo kryptoměn |
 
