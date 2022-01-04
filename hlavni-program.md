@@ -116,6 +116,6 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 V následující tabulce naleznete obecnou představu, jak by mohl vypadat harmonogram celé akce v [Gabriel Loci](misto-konani/).
 
-{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vTRiqPU6n--fv1fzLM5CsNp2hKnH7wqj8wxdkYfxZ2lvRrFw6k_I_attvrJMNKsRjd64puorJcr2qUL/pubhtml" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1MCsYNXwSZgO0aOGDnN0zpRA4UceZbVYKVXzNTX-tnjQ/edit?usp=sharing" %}
 
-[Odkaz na Google Sheets](https://docs.google.com/spreadsheets/d/1cvDNzQ3fGsnnRtpAZL64YfdemM0FxXl42NeaCc0YHzY/edit#gid=0)
+[Odkaz na Google Sheets](https://docs.google.com/spreadsheets/d/1MCsYNXwSZgO0aOGDnN0zpRA4UceZbVYKVXzNTX-tnjQ/edit?usp=sharing)
