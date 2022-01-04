@@ -18,8 +18,3 @@
 
 Viz. stránka [Webové stránky](webove-stranky.md).
 
-## Mediální spolupráce
-
-* [Bankless.cz](https://bankless.cz)
-* [Investree.cz](https://investree.cz)
-

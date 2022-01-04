@@ -33,6 +33,7 @@
   * [Predikční trhy](experimenty/predikcni-trhy.md)
 * [API (datové zdroje)](api-datove-zdroje.md)
 * [Kodex konference](kodex-konference.md)
+* [Partneři](partneri.md)
 * [Sponzoři](sponzori.md)
 * [FAQ](faq.md)
 

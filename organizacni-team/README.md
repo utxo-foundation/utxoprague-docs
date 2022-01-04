@@ -52,15 +52,3 @@ Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEt
 | [Josef Je](https://twitter.com/JosefJ\_)            | kooperující událost | [ETHPrague](https://ethprague.com)           |
 | [Tomáš Zdražil](https://twitter.com/investree\_cz)  | kooperující událost | [Cashflow summer](https://cashflowsummer.cz) |
 | [Martin Kuchař](https://twitter.com/owletek)        | konzultace          | [ChainCamp](https://chaincamp.cz)            |
-
-## Spolupracující komunity
-
-* [Holky v kryptu](https://holkyvkryptu.cz) - komunita pro začínající a mírně pokročilé uživatele
-* [Gwei.cz](http://gwei.cz) - komunita pro Ethereum/DeFi nadšence
-* [Bankless Czech](https://bankless.cz) - novinkový a vzdělávací web o kryptoměnách
-* [KryptoVláďa komunita](https://www.kryptovlada.win) - komunita zabývající se DeFi, Ethereem, Polkadot nebo NEAR
-* [Polkadotters CZ/SK](https://polkadotters.medium.com) - komunita pro Polkadot nadšence
-* [CZ/SK NFT Community](https://discord.gg/X4MV9Pn5P8) (od RΞSISTANCΞ) - komunita okolo NFT
-* [Cardano \[ADA\] CZ/SK](https://www.facebook.com/groups/cardanoczsk/) - Cardano FB skupina
-
-![](../.gitbook/assets/gweicz-logo-square-2.png) ![](../.gitbook/assets/holky-v-kryptu-logo-square.png) ![](../.gitbook/assets/banklesscz-logo-invert-square.png)
