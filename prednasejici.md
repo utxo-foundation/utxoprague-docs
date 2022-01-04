@@ -41,7 +41,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **24**
+Celkem přednášejících: **25**
 
 _(abecedně)_
 
@@ -62,12 +62,13 @@ _(abecedně)_
 | [**Mario Havel**](https://twitter.com/TMIYChao)                            | Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)                                                    |
 | [**Martin Gregor**](https://twitter.com/ZaujaloMa)                         | YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)                                                                                |
 | [**Michael Repetný**](https://twitter.com/repetny)                         | [Marinade.finance](https://marinade.finance/)                                                                                                                                   |
+| **Mirek H**                                                                | Člen [KryptoVláďa](https://www.kryptovlada.win) komunity                                                                                                                        |
 | [**Pavel Přecechtěl**](https://twitter.com/homershillson) (HomΞr Shillson) | [VR Education](https://vreducation.cz)                                                                                                                                          |
 | [**Petr Klein**](https://twitter.com/kleinpetr_com)                        |                                                                                                                                                                                 |
 | [**Petr Mára**](https://twitter.com/petrmara)                              |                                                                                                                                                                                 |
 | [**Petr Menšík**](https://twitter.com/petr_mensik)                         | [Polkadotters](https://twitter.com/polkadotterss)                                                                                                                               |
 | [**Róbert Chovanculiak**](https://twitter.com/RChovanculiak)               | Analytik v [INESS](https://www.iness.sk), pedagog na [CEVRO Institutu](https://www.cevroinstitut.cz/cs/pedagog/ing-robert-chovanculiak-ph-d/)                                   |
-| **Tomáš**                                                                  | Člen [KryptoVláďa komunity](https://www.kryptovlada.win)                                                                                                                        |
+| **Tomáš**                                                                  | Člen [KryptoVláďa](https://www.kryptovlada.win) komunity                                                                                                                        |
 | [**Tomáš Zdražil**](https://twitter.com/investree_cz)                      | [Investree](https://investree.cz)                                                                                                                                               |
 | [**Urza**](https://twitter.com/urzanarchy)                                 | Zakladatel [Svobodného přístavu](https://pristav.urza.cz/), vedoucí [CZ/SK Mises Institutu](https://www.mises.cz/), člen projektu [Svoboda učení](https://www.svobodauceni.cz/) |
 | [**Vladimír Pinker**](https://twitter.com/KryptoVlada) (KryptoVláďa)       | YT kanál [KryptoVláďa](https://www.kryptovlada.win)                                                                                                                             |
