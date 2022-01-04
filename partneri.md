@@ -10,7 +10,7 @@ Hledáme každého, kdo může dát o UTXO.22 vědět svým divákům, poslucha�
 
 ![](.gitbook/assets/trilogo.png)
 
-| Komunita                                                              |                                                           |
+| Komunita                                                              | Popis                                                     |
 | --------------------------------------------------------------------- | --------------------------------------------------------- |
 | ****[**Holky v kryptu**](https://holkyvkryptu.cz) ****                | komunita pro začínající a mírně pokročilé uživatele       |
 | [**Gwei.cz**](http://gwei.cz)****                                     | komunita pro Ethereum/DeFi nadšence                       |
@@ -22,9 +22,8 @@ Hledáme každého, kdo může dát o UTXO.22 vědět svým divákům, poslucha�
 
 ## Mediální partneři
 
-| Mediální partner                                                              |                                           |
-| ----------------------------------------------------------------------------- | ----------------------------------------- |
-| [Krypto Insider (Hospodářské noviny)](https://podcasty.hn.cz/krypto-insider/) | Podcast o kryptoměnách (Petr Lukáč)       |
-| [Bankless Czech](https://bankless.cz)                                         | Novinkový a vzdělávací web o kryptoměnách |
-| [Investree.cz](https://investree.cz)                                          | (Tomáš Zdražil)                           |
+| Mediální partner                                                              | Popis                               |
+| ----------------------------------------------------------------------------- | ----------------------------------- |
+| [Krypto Insider (Hospodářské noviny)](https://podcasty.hn.cz/krypto-insider/) | Podcast o kryptoměnách (Petr Lukáč) |
+| [Investree.cz](https://investree.cz)                                          | (Tomáš Zdražil)                     |
 

@@ -52,3 +52,9 @@ Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEt
 | [Josef Je](https://twitter.com/JosefJ\_)            | kooperující událost | [ETHPrague](https://ethprague.com)           |
 | [Tomáš Zdražil](https://twitter.com/investree\_cz)  | kooperující událost | [Cashflow summer](https://cashflowsummer.cz) |
 | [Martin Kuchař](https://twitter.com/owletek)        | konzultace          | [ChainCamp](https://chaincamp.cz)            |
+
+## Další partneři
+
+* [Spolupracující komunity](../partneri.md#spolupracujici-komunity)
+* [Mediální partneři](../partneri.md#medialni-partneri)
+* [Sponzoři](../sponzori.md)
