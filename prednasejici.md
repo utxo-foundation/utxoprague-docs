@@ -41,13 +41,14 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **25**
+Celkem přednášejících: **26**
 
 _(abecedně)_
 
 | Jméno                                                                      | Organizace                                                                                                                                                                      |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Adam Kracík**                                                            |                                                                                                                                                                                 |
+| **Adam Lokaj**                                                             | [adopcebtc.cz](https://www.adopcebtc.cz/)                                                                                                                                       |
 | [**Adam Studeník**](https://twitter.com/adamstudenik)                      |                                                                                                                                                                                 |
 | [**Anett Rohlikova**](https://twitter.com/anettrolikova)                   | [Ethereum Magicians](https://ethereum-magicians.org/)                                                                                                                           |
 | [**damsky**](https://twitter.com/CryptoDamSky)                             |                                                                                                                                                                                 |
