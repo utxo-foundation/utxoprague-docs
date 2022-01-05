@@ -1,6 +1,6 @@
 # UTXO.Shop
 
-Obchod v rámci konference, kde si návštěvníci budou moci zakoupit (nebo vyměnit za nasbírané tokeny) široký sortiment upomínkových předměty s motivy UTXO konference, našich sponzorů či partnerů (jako například trička, hrnečky, samolepky..) nebo od široké komunity tvůrců (viz. [Tržiště (Marketplace)](utxo.shop.md#trziste-marketplace)).
+Obchod v rámci konference, kde si návštěvníci budou moci zakoupit (nebo vyměnit za nasbírané tokeny) široký sortiment upomínkových předmětů s motivy UTXO konference, našich sponzorů či partnerů (jako například trička, hrnečky, samolepky..) nebo od široké komunity tvůrců (viz. [Tržiště (Marketplace)](utxo.shop.md#trziste-marketplace)).
 
 Samozřejmostí bude možnost platby kryptoměnami.
 
