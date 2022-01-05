@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Co je to UTXO.22?](README.md)
+* [Roadmap](roadmap.md)
 * [Místo konání](misto-konani/README.md)
   * [Přehled sálů](misto-konani/prehled-salu/README.md)
     * [Rajská zahrada](misto-konani/prehled-salu/rajska-zahrada.md)
@@ -10,7 +11,6 @@
     * [Knihovna](misto-konani/prehled-salu/knihovna.md)
     * [Koupelnový sál](misto-konani/prehled-salu/koupelnovy-sal.md)
     * [Ošklivý sál](misto-konani/prehled-salu/osklivy-sal.md)
-* [Roadmap](roadmap.md)
 * [Přednášející](prednasejici.md)
 * [Návštěvníci](navstevnici/README.md)
   * [Vstupenky](navstevnici/vstupenky.md)
@@ -20,8 +20,11 @@
   * [UTXO.Kino](doprovodny-program/utxo.kino.md)
   * [Kulturní večer](doprovodny-program/kulturni-vecer.md)
   * [UTXO.Party](doprovodny-program/utxo.party.md)
-* [UTXO.TV (livestream)](utxo.tv-livestream.md)
+* [Untitled](untitled/README.md)
+  * [Chillout zóna](untitled/chillout-zona.md)
+  * [Merch shop](untitled/merch-shop.md)
 * [Catering](catering.md)
+* [UTXO.TV (livestream)](utxo.tv-livestream.md)
 * [Propagace](propagace/README.md)
   * [Webové stránky](propagace/webove-stranky.md)
 * [Experimenty](experimenty/README.md)
