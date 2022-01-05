@@ -6,6 +6,10 @@ Experimentální ukázka využití DAO a ERC-20 tokenů v rámci uzavřeného a 
 
 * Blockchain: Gnosis Chain / Polygon
 
+{% hint style="info" %}
+První návrh - verze 0.1
+{% endhint %}
+
 ## $UTXO token
 
 UTXO token je ERC-20 token, reprezentující "základní podíl" návštěvníka UTXO konference. Každý návštěvník získá na začátku konference základní emisi tokenů prostřednictvím [airdropu](utxo-token.md#airdrop). Další tokeny lidé získávají  za [různé smysluplné aktivity](utxo-token.md#hlavni-odmeny). S tokeny návštěvníci můžou hlasovat v rámci DAO, prodávat a nakupovat, provádět základní DeFi operace, směňovat je mezi sebou, případně je [stakovat](utxo-token.md#utxo-staking) a získavat jako odměnu [SWAG token](utxo-token.md#usdswag-token), který můžou směnit za merch.
