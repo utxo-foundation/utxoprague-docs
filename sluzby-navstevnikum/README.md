@@ -7,7 +7,7 @@ Zde naleznete seznam dalších míst (mimo program), které pro vás v rámci ar
 | Název                                                                        | Popis                                                                                        | Otevřeno                                    |
 | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | ****[**Chillout zóna**](chillout-zona.md)****                                | Jste přehlceni informacemi? Chcete trošku zpomalit? Chillout zóna je to pravé místo pro vás. | nonstop                                     |
-| ****[**Merch shop**](merch-shop.md)****                                      | Obchod s předměty s kryptoměnovou tématikou (trička, knihy, ...).                            | <p>SO: 9:00 - 23:59<br>NE: 9:00 - 20:00</p> |
+| ****[**UTXO.Shop**](utxo.shop.md)****                                        | Obchod s předměty s kryptoměnovou tématikou (trička, knihy, ...).                            | <p>SO: 9:00 - 23:59<br>NE: 9:00 - 20:00</p> |
 | **Bitcoinomat** (_nepotvrzeno_)                                              | Směna kryptoměn za hotovost a naopak                                                         | nonstop                                     |
 | <p><strong>Bleskomat</strong><br><strong></strong>(<em>nepotvrzeno</em>)</p> | Směna hotovosti za LN BTC (jednosměrně)                                                      | nonstop                                     |
 

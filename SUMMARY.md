@@ -22,7 +22,7 @@
   * [UTXO.Party](doprovodny-program/utxo.party.md)
 * [Služby návštěvníkům](sluzby-navstevnikum/README.md)
   * [Chillout zóna](sluzby-navstevnikum/chillout-zona.md)
-  * [Merch shop](sluzby-navstevnikum/merch-shop.md)
+  * [UTXO.Shop](sluzby-navstevnikum/utxo.shop.md)
 * [Catering](catering.md)
 * [UTXO.TV (livestream)](utxo.tv-livestream.md)
 * [Propagace](propagace/README.md)
