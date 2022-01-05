@@ -23,6 +23,7 @@
 * [Služby návštěvníkům](sluzby-navstevnikum/README.md)
   * [Chillout zóna](sluzby-navstevnikum/chillout-zona.md)
   * [UTXO.Shop](sluzby-navstevnikum/utxo.shop.md)
+  * [NFT galerie](sluzby-navstevnikum/nft-galerie.md)
 * [Catering](catering.md)
 * [UTXO.TV (livestream)](utxo.tv-livestream.md)
 * [Propagace](propagace/README.md)
