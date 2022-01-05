@@ -7,7 +7,8 @@ Hlavní náplní UTXO.TV bude především kontinuální živý přenos ze všec
 ## Plán vysílání
 
 * **živý přenos ze všech třech přednáškových sálů**
-* rozhovory s návštěvníky
+* rozhovory s návštěvníky, přednášejícími, organizátory atp.
+* představování areálu a dostupných doplňkových aktivit
 * pohledy do zákulisí
 
 ## Web UTXO.TV
