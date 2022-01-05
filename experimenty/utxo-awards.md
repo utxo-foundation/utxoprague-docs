@@ -10,9 +10,7 @@ Projekt je ve fázi vymýšlení konceptu - informace na této stránce jsou jen
 
 Anketa UTXO Awards 2022 je pravidelným hlasováním veřejnosti a odborné poroty, který oceňuje nejoblíbenější a nejzajímavější projekty a služby česko-slovenské kryptoměnové scény za rok 2022.
 
-je pravidelným hlasováním _veřejnosti_ a odborné poroty
-
-Odborná porota je složená z významných osobností kryptoměnového světa. Svým hodnocením určí pořadí v [kategoriích pro odbornou porotu](utxo-awards.md#kategorie-pro-odbornou-porotu).
+Odborná porota je složená z významných osobností kryptoměnového světa. Svým hodnocením určí pořadí v kategoriích pro odbornou porotu.
 
 ## Průběh
 
@@ -38,3 +36,5 @@ Slavnostní vyhlášení výsledků a předání cen vítězům se uskuteční b
 
 * Projekt roku
 * Osobnost roku
+
+## Pravidla
