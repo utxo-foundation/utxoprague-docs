@@ -3,6 +3,7 @@
 V této sekci naleznete experimentální návrhy, jak konferenci udělat více interaktivní.
 
 * [UTXO token](utxo-token.md)
+* [UTXO Awards](utxo-awards.md)
 * [Predikční trhy](predikcni-trhy.md)
 
 {% hint style="danger" %}
