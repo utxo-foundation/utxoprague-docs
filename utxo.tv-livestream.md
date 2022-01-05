@@ -1,6 +1,6 @@
 # UTXO.TV (livestream)
 
-V průběhu konference bude fungovat [UTXO.TV](https://utxo.tv), což bude taková naše "konferenční televize". Díky ní bude moci naší konferenci navštívit online kdokoliv, odkudkoliv a **zadarmo**.
+V průběhu konference bude fungovat [UTXO.TV](https://utxo.tv), což bude taková naše "konferenční televize". **Díky ní bude moci naší konferenci navštívit online kdokoliv, odkudkoliv a zadarmo.**
 
 Hlavní náplní UTXO.TV bude především kontinuální živý přenos ze všech třech přednáškových sálů, ale připravujeme i další speciální obsah jen pro online návštěvníky, jako jsou různé reportáže, pohledy do zákulisí, nebo třeba rozhovory s návštěvníky. Určitě je na co se těšit!
 
