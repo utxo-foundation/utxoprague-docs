@@ -1,10 +1,14 @@
 # Merch shop
 
-Stánek v rámci konference, kde si návštěvníci budou moci zakoupit (nebo vyměnit za nasbírané tokeny) široký sortiment upomínkových předměty s motivy UTXO konference, našich sponzorů či partnerů (jako například trička, hrnečky, samolepky..) nebo od široké komunity tvůrců (viz. [Tržiště (Marketplace)](merch-shop.md#trziste-marketplace)).
+Obchod v rámci konference, kde si návštěvníci budou moci zakoupit (nebo vyměnit za nasbírané tokeny) široký sortiment upomínkových předměty s motivy UTXO konference, našich sponzorů či partnerů (jako například trička, hrnečky, samolepky..) nebo od široké komunity tvůrců (viz. [Tržiště (Marketplace)](merch-shop.md#trziste-marketplace)).
+
+Samozřejmostí bude možnost platby kryptoměnami.
 
 ### Tržiště (marketplace)
 
-Chceme dát prostor i lokálním tvůrcům a výrobcům, kteří tak mohou svoje produkty s kryptoměnovou tématikou skrze tento stánek nabídnout návštěvníkům (tvůrci dodají produkt a my zařídíme prodej). Bude tak k dispozici široký [sortiment](merch-shop.md#sortiment) produktů, například různé knihy o kryptoměnách, kryptoměnový balící papír nebo kovové úložiště na recovery seed.
+Chceme dát prostor i lokálním tvůrcům a výrobcům, kteří tak mohou svoje produkty s kryptoměnovou tématikou skrze tento stánek nabídnout návštěvníkům (tvůrci dodají produkt a my zařídíme prodej).
+
+Bude tak k dispozici široký [sortiment](merch-shop.md#sortiment) produktů, například různé knihy o kryptoměnách, kryptoměnový balící papír nebo kovové úložiště na recovery seed.
 
 {% hint style="success" %}
 Děláte nějaký zajímavý produkt s kryptoměnovou tématikou? Měli byste zájem abychom ho na konferenci nabídli návštěvníkům skrze [Tržiště](merch-shop.md#trziste-marketplace)?
