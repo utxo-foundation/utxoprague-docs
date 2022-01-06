@@ -78,7 +78,7 @@ Přednášky a workshopy budou rozděleny do **9 tématických programových sek
 
 <details>
 
-<summary>Experimenální L1</summary>
+<summary>Experimentální L1 blockchainy a další altcoiny</summary>
 
 * Polkadot
 * Cardano
