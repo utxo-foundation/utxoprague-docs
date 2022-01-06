@@ -41,7 +41,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **27**
+Celkem přednášejících: **28**
 
 _(abecedně)_
 
@@ -74,6 +74,7 @@ _(abecedně)_
 | [**Tomáš Zdražil**](https://twitter.com/investree_cz)                      | [Investree](https://investree.cz)                                                                                                                                               |
 | [**Urza**](https://twitter.com/urzanarchy)                                 | Zakladatel [Svobodného přístavu](https://pristav.urza.cz/), vedoucí [CZ/SK Mises Institutu](https://www.mises.cz/), člen projektu [Svoboda učení](https://www.svobodauceni.cz/) |
 | [**Vladimír Pinker**](https://twitter.com/KryptoVlada) (KryptoVláďa)       | YT kanál [KryptoVláďa](https://www.kryptovlada.win)                                                                                                                             |
+| [**Vojtěch Studený**](https://twitter.com/StudenyVojta) (vojtch)           | [Bankless.cz](https://bankless.cz/)                                                                                                                                             |
 
 ### Datový zdroj
 
