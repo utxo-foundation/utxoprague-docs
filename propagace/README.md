@@ -4,11 +4,11 @@
 
 ### Twitter
 
-* Účet: [@utxocz](https://twitter.com/utxocz)
+* Účet: [https://twitter.com/utxoprague](https://twitter.com/utxoprague)
 
 ### **Telegram**
 
-* Odkaz: [t.me/utxocz](https://t.me/utxocz)
+* Odkaz: [https://t.me/utxoprague](https://t.me/utxoprague)
 
 ### Facebook
 
