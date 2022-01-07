@@ -7,13 +7,21 @@ Tato dokumentace slouží jako hlavní středobod, okolo se vše točí.
 * [GitBook administrace](https://app.gitbook.com/o/-MX51JfmlnAQkYbTRI4J/s/ksSw74pkYApxPGDhzkzg/)&#x20;
 * Zrcadlo dokumentace na GitHubu: [gweicz/utxo22-docs](https://github.com/gweicz/utxo22-docs)
 
-## Discord server
+## Soubory a dokumenty (Google Drive)
+
+{% hint style="warning" %}
+GDrive je přístupný jen pro členy [organizačního teamu](./).
+{% endhint %}
+
+* [Google Drive složka](https://drive.google.com/drive/folders/1p\_jc\_hStaWErcWvqmyg8xO-DhbZIcdar)
+
+## Chat server (Discord)
 
 Pro naši konferenci jsme vytvořili speciální chatovací Discord server, který je vhodný jak pro organizátory a přednášející, tak pro všechny potenciální návštěvníky a fanoušky.
 
 👉 [Připojit se na Discord](https://discord.gg/5k9dEtVhnv)
 
-## Trello
+## Úkolovník (Trello)
 
 Nástěnky s úkoly v rámci organizačního teamu.
 
@@ -29,14 +37,14 @@ Trello nástěnky jsou přístupné jen pro členy [organizačního teamu](./).
 * [Marketing](https://trello.com/b/pXO6rKTx/kryptopraha-2022-marketing)
 * [Média/Partneři](https://trello.com/b/n00ueF4N/utxo22-m%C3%A9dia-partne%C5%99i)
 
-## Tawk
+## Komunikace s návštěvníky webu (Tawk)
 
 Chat na webových stránkách.
 
 * [https://tawk.to/utxoprague](https://tawk.to/utxoprague)
 * [Administrace](https://dashboard.tawk.to)
 
-## GitHub
+## Zdrojové kódy (GitHub)
 
 Na GitHub Gwei.cz dáváme zdrojové soubory spojené s konferencí, například této dokumentace.
 
