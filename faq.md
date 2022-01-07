@@ -42,7 +42,7 @@ Ano, plánujeme bohatý program i pro návštěvníky online - živé přenosy z
 
 <summary>Pro koho je konference určena?</summary>
 
-Pro všechny kryptoměnové nadšence, pro zkušené i nováčky, co už znají nějaké základy. Konference vznikla také jako neutrální místo pro dialog v rámci celé lokální krypto-komunity. Každý něčemu fandíme, ale pojďme se od toho alespoň chvíli odprostit a poslechnout si i myšlenky protistrany, nebo diskutovat.
+Pro všechny kryptoměnové nadšence. Konference vznikla také jako neutrální místo pro dialog v rámci celé lokální krypto-komunity. Každý něčemu fandíme, ale pojďme se od toho alespoň chvíli odprostit a poslechnout si i myšlenky protistrany, nebo diskutovat.
 
 </details>
 
