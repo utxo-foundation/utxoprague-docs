@@ -1,5 +1,12 @@
 # Organizační nástroje
 
+## Dokumentace (GitBook)
+
+Tato dokumentace slouží jako hlavní středobod, okolo se vše točí.
+
+* [GitBook administrace](https://app.gitbook.com/o/-MX51JfmlnAQkYbTRI4J/s/ksSw74pkYApxPGDhzkzg/)&#x20;
+* Zrcadlo dokumentace na GitHubu: [gweicz/utxo22-docs](https://github.com/gweicz/utxo22-docs)
+
 ## Discord server
 
 Pro naši konferenci jsme vytvořili speciální chatovací Discord server, který je vhodný jak pro organizátory a přednášející, tak pro všechny potenciální návštěvníky a fanoušky.
@@ -7,6 +14,8 @@ Pro naši konferenci jsme vytvořili speciální chatovací Discord server, kter
 👉 [Připojit se na Discord](https://discord.gg/5k9dEtVhnv)
 
 ## Trello
+
+Nástěnky s úkoly v rámci organizačního teamu.
 
 {% hint style="warning" %}
 Trello nástěnky jsou přístupné jen pro členy [organizačního teamu](./).
@@ -18,3 +27,20 @@ Trello nástěnky jsou přístupné jen pro členy [organizačního teamu](./).
 * [Program](https://trello.com/b/04ED90W6/kryptopraha-2022-program)
 * [Místo konání](https://trello.com/b/VrzSow7Q/kryptopraha-2022-m%C3%ADsto-kon%C3%A1n%C3%AD)
 * [Marketing](https://trello.com/b/pXO6rKTx/kryptopraha-2022-marketing)
+* [Média/Partneři](https://trello.com/b/n00ueF4N/utxo22-m%C3%A9dia-partne%C5%99i)
+
+## Tawk
+
+Chat na webových stránkách.
+
+* [https://tawk.to/utxoprague](https://tawk.to/utxoprague)
+* [Administrace](https://dashboard.tawk.to)
+
+## GitHub
+
+Na GitHub Gwei.cz dáváme zdrojové soubory spojené s konferencí, například této dokumentace.
+
+* [UTXO repozitáře](https://github.com/gweicz?q=utxo\&type=all\&language=\&sort=)
+
+
+
