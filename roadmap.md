@@ -7,9 +7,9 @@
 
 ### Leden 2022
 
-* [ ] Finální název
-* [ ] Dočasná webová prezentace (landing)
-* [ ] Profily na [sociálních sítích](propagace/)
+* [x] Finální název
+* [x] Dočasná webová prezentace (landing)
+* [x] Profily na [sociálních sítích](propagace/)
 * [ ] Zveřejnění konference (_soft-launch_)
 * [ ] Logo a vizuální identita konference
 * [ ] [Webová prezentace](propagace/webove-stranky.md) (V1)

@@ -8,12 +8,13 @@ Základní informace o konferenci a datové sady ve formátu JSON (read-only).
 
 * Root URL: [https://spec.utxo.cz/22/](https://spec.utxo.cz/22/)
 
-| Endpoint                                            |                                        |
-| --------------------------------------------------- | -------------------------------------- |
+| Endpoint                                               |                                        |
+| ------------------------------------------------------ | -------------------------------------- |
 | [index.json](https://spec.utxo.cz/22/index.json)       | Základní informace o konferenci        |
 | [speakers.json](https://spec.utxo.cz/22/speakers.json) | Přednášející                           |
 | [tracks.json](https://spec.utxo.cz/22/tracks.json)     | Programové sekce                       |
 | [events.json](https://spec.utxo.cz/22/events.json)     | Události - hlavní a doprovodný program |
+| [faqs.json](https://spec.utxo.cz/22/faqs.json)         | Často kladené dotazy (FAQ)             |
 
 ## Real-time API
 

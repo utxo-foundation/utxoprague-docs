@@ -6,6 +6,8 @@ Pracujeme na založení jednoúčelového neziskového spolku, který organizač
 
 ## Postup
 
-* [ ] Sepsání základních stanov
+* [x] Sepsání základních stanov
+* [ ] Finální stanovy
+* [ ] Volba zakládajících členů (3-4 členové)
 * [ ] Založení spolku a zápis do rejstříku
 * [ ] Založení bankovního účtu
