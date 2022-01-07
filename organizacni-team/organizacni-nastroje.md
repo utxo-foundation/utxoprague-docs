@@ -4,7 +4,6 @@
 
 Tato dokumentace slouží jako hlavní středobod, okolo se vše točí.
 
-* Administrace: [https://app.gitbook.com/o/-MX51JfmlnAQkYbTRI4J/s/ksSw74pkYApxPGDhzkzg/](https://app.gitbook.com/o/-MX51JfmlnAQkYbTRI4J/s/ksSw74pkYApxPGDhzkzg/)
 * Zrcadlo dokumentace na GitHubu: [gweicz/utxo22-docs](https://github.com/gweicz/utxo22-docs)
 
 ## Soubory a dokumenty (Google Drive)
