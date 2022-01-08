@@ -16,6 +16,7 @@
   * [Vstupenky](navstevnici/vstupenky.md)
 * [Hlavní program](hlavni-program.md)
   * [Formáty programu](hlavni-program/formaty-programu.md)
+  * [Lightning Talks](hlavni-program/lightning-talks.md)
 * [Doprovodný program](doprovodny-program/README.md)
   * [UTXO.Kino](doprovodny-program/utxo.kino.md)
   * [Kulturní večer](doprovodny-program/kulturni-vecer.md)
