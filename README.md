@@ -63,7 +63,9 @@ Máme rezervované místo konání a potvrzené první [sponzory](sponzori.md) a
 ## Kde nás najdete
 
 * Web: [utxo.cz](https://utxo.cz)
+* Newsletter: [utxoprague.substack.com](https://utxoprague.substack.com)
 * Twitter: [@utxoprague](https://twitter.com/utxoprague)
 * Discord: [discord.gg/5k9dEtVhnv](https://discord.gg/5k9dEtVhnv)
 * Telegram: [t.me/utxoprague](https://t.me/utxoprague)
+* Instagram: [@utxoprague](https://instagram.com/utxoprague)
 * Facebook: [Facebook událost](https://www.facebook.com/events/276727151106692)

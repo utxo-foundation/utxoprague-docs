@@ -1,5 +1,9 @@
 # Propagace
 
+## Newsletter
+
+* Adresa: [https://utxoprague.substack.com/](https://utxoprague.substack.com)
+
 ## Sociální sítě
 
 ### Twitter
@@ -13,6 +17,10 @@
 ### Facebook
 
 * FB událost: [https://www.facebook.com/events/276727151106692](https://www.facebook.com/events/276727151106692)
+
+### Instagram
+
+* Odkaz: [https://instagram.com/utxoprague](https://instagram.com/utxoprague)
 
 ## **Web**
 
