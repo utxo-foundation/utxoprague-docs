@@ -1,26 +1,14 @@
 # Propagace
 
-## Newsletter
+## Sociální sítě a newsletter
 
-* Adresa: [https://utxoprague.substack.com/](https://utxoprague.substack.com)
-
-## Sociální sítě
-
-### Twitter
-
-* Účet: [https://twitter.com/utxoprague](https://twitter.com/utxoprague)
-
-### **Telegram**
-
-* Odkaz: [https://t.me/utxoprague](https://t.me/utxoprague)
-
-### Facebook
-
-* FB událost: [https://www.facebook.com/events/276727151106692](https://www.facebook.com/events/276727151106692)
-
-### Instagram
-
-* Odkaz: [https://instagram.com/utxoprague](https://instagram.com/utxoprague)
+| Název                                                       | Spravuje                          |
+| ----------------------------------------------------------- | --------------------------------- |
+| [Twitter](https://twitter.com/utxoprague)                   | Tree, JiriCepelka                 |
+| [Telegram](https://t.me/utxoprague)                         | Tree, Vojtch, JiriCepelka         |
+| [Instagram](https://instagram.com/utxoprague)               | JiriCepelka, Exez                 |
+| [Facebook](https://www.facebook.com/events/276727151106692) | Tree + Gwei.cz admini             |
+| [Substack](https://utxoprague.substack.com) (newsletter)    | Tree, Tereza, Vojtch, JiriCepelka |
 
 ## **Web**
 
