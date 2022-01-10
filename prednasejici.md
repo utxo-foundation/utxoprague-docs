@@ -41,7 +41,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **28**
+Celkem přednášejících: **29**
 
 _(abecedně)_
 
@@ -54,6 +54,7 @@ _(abecedně)_
 | [**damsky**](https://twitter.com/CryptoDamSky)                             |                                                                                                                                                                                 |
 | [**David Antoš**](https://twitter.com/jilm) (jilm)                         | Spoluzakladatel spolku [Pro euro](https://proeuro.cz)                                                                                                                           |
 | [**DavidBankless**](https://twitter.com/davidbankless)                     | [Flipper.Zone](https://twitter.com/flipperzonenft), [BanklessDAO](https://www.bankless.community)                                                                               |
+| [**Dominik Stroukal**](https://twitter.com/stroukal)                       | Hlavní ekonom [Roger](https://www.roger.cz/), bývalý ředitel [Liberálního institutu](https://libinst.cz/) a [Ludwig von Mises institutu](https://www.mises.cz/)                 |
 | [**Fetyas**](https://twitter.com/hernakrypto)                              | YT kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)                                                                                                |
 | [**Honza Dvořák**](https://twitter.com/_Honza_Dvorak) (Gorrdy)             | [btcplatby.cz](https://btcplatby.cz)                                                                                                                                            |
 | **Jan Černý** (-HoNY-)                                                     | Člen [Bitcoinovej kanál](https://bitcoinovejkanal.cz/) komunity                                                                                                                 |
