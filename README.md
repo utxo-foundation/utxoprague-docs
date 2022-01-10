@@ -13,7 +13,7 @@ description: 4.-5. červen 2022, Praha 🇨🇿 - Otevřená kryptoměnová komu
 Díky rozsáhlému programu, který obsahuje více než **100 hodin přednášek a workshopů**, můžeme nabídnout obsah jak široké veřejnosti, tak pokročilým uživatelům.
 
 {% hint style="success" %}
-V současnosti máme potvrzených [30+ přednášejících](prednasejici.md), mezi ty nejvýznamnější patří, např. **Juraj Bednár**, **Petr Mára** nebo **Urza**.
+V současnosti máme potvrzených [30+ přednášejících](prednasejici.md), mezi ty nejvýznamnější patří, např. **Dominik Stroukal**, **Juraj Bednár**, **Petr Mára** nebo **Urza**.
 {% endhint %}
 
 Naším cílem je představit a vzdělávat širokou krypto-veřejnost v oblasti otevřených blockchainů, jejich základních principů, jako je **decentralizace, neutralita, otevřenost, spolupráce** a souvisejících témat. Ukázat výhody, představit případy použití a zároveň prohloubit důvěru v jejich používání s důrazem na bezpečnost.
