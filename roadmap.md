@@ -10,7 +10,7 @@
 * [x] Finální název
 * [x] Dočasná webová prezentace (landing)
 * [x] Profily na [sociálních sítích](propagace/)
-* [ ] Zveřejnění konference (_soft-launch_)
+* [x] Zveřejnění konference (_soft-launch_)
 * [ ] Logo a vizuální identita konference
 * [ ] [Webová prezentace](propagace/webove-stranky.md) (V1)
 * [ ] Oficiální oznámení konference (_hard-launch)_
