@@ -5,7 +5,7 @@ description: 4.-5. červen 2022, Praha 🇨🇿 - Otevřená kryptoměnová komu
 # Co je to UTXO.22?
 
 {% hint style="warning" %}
-🚧 Toto je pracovní dokumentace. Konference a její jméno zatím nebylo oficiálně oznámeno. Berte veškeré zde uvedené informace s rezervou.
+🚧 Toto je pracovní dokumentace. Informace zde můžou být neaktuální nebo zavádějící.
 {% endhint %}
 
 [UTXO.22](http://utxo.cz) (/juː-tiː-ɛks-əʊ.22/) je otevřená komunitní konference zaměřená na kryptoměny a blockchain, která má ambice stát se **největší akcí svého druhu v České republice**. **** Jedná se o dvoudenní akci, která kombinuje aktuální krypto témata, aniž by se zaměřovala na jeden konkrétní blockchain.
@@ -13,7 +13,7 @@ description: 4.-5. červen 2022, Praha 🇨🇿 - Otevřená kryptoměnová komu
 Díky rozsáhlému programu, který obsahuje více než **100 hodin přednášek a workshopů**, můžeme nabídnout obsah jak široké veřejnosti, tak pokročilým uživatelům.
 
 {% hint style="success" %}
-V současnosti máme potvrzených [20+ přednášejících](prednasejici.md), mezi ty nejvýznamnější patří, např. **Juraj Bednár**, **Petr Mára** nebo **Urza**.
+V současnosti máme potvrzených [30+ přednášejících](prednasejici.md), mezi ty nejvýznamnější patří, např. **Juraj Bednár**, **Petr Mára** nebo **Urza**.
 {% endhint %}
 
 Naším cílem je představit a vzdělávat širokou krypto-veřejnost v oblasti otevřených blockchainů, jejich základních principů, jako je **decentralizace, neutralita, otevřenost, spolupráce** a souvisejících témat. Ukázat výhody, představit případy použití a zároveň prohloubit důvěru v jejich používání s důrazem na bezpečnost.
