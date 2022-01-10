@@ -10,6 +10,12 @@ Je někdo, koho byste na naši konferenci rádi slyšeli? Nebo snad sami chcete 
 
 _(abecedně)_
 
+### ![](https://spec.utxo.cz/22/photos/speakers/dominik-stroukal-sm.png) Dominik Stroukal
+
+* Ekonom, libertarián, autor první české knihy o kryptoměnách
+* Hlavní ekonom [Roger](https://www.roger.cz/), bývalý ředitel [Liberálního institutu](https://libinst.cz/) a [Ludwig von Mises institutu](https://www.mises.cz/)
+* Twitter: [@stroukal](https://twitter.com/stroukal)
+
 ### ![](https://spec.utxo.cz/22/photos/speakers/juraj-bednar-sm.png) Juraj Bednár
 
 * Podnikatel, hacker a milovník svobody
