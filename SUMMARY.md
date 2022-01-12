@@ -32,6 +32,7 @@
 * [Experimenty](experimenty/README.md)
   * [UTXO token](experimenty/utxo-token.md)
   * [UTXO Awards](experimenty/utxo-awards.md)
+  * [Čestní sponzoři](experimenty/cestni-sponzori.md)
   * [Predikční trhy](experimenty/predikcni-trhy.md)
 * [API (datové zdroje)](api-datove-zdroje.md)
 * [Organizační team](organizacni-team/README.md)
