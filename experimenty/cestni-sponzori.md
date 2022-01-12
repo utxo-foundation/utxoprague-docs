@@ -10,6 +10,7 @@ Chceme dát možnost i menším subjektům nás finančně podpořit a zároveň
 
 * Program běží od 15. ledna 2022 do 15. února 2022.
 * Čestným sponzorem se stává kdokoliv, kdo přispěje jakoukoliv částku na naše uvedené kryptoměnové adresy.
+* Čestné členství je v základu anonymní, ale pro zájemce je možné přidat svůj název a odkaz, pokud se chtějí zpropagovat. Tito odhalení čestní sponzoři budeme prezentovat v našich materiálech a na místě na samotné konferenci.
 * Příjímané kryptoměny jsou BTC, ETH, DAI, USDC, USDT a používané sítě Bitcoin, Ethereum, Polygon, Gnosis Chain, Arbitrum, Optimism.
 * Pokud přispějete více než stanovenou částku, máte automaticky nárok na následující odměny:
   * Více než 500 Kč - 1x tričko + 1x sada samolepek
@@ -21,7 +22,7 @@ Chceme dát možnost i menším subjektům nás finančně podpořit a zároveň
   * Organizátor si vyhrazuje právo na to, že v případě velkého zájmu o tento program, může rozšířit akci o další vstupenky.
 * Pro veřejnost bude dostupný Leaderboard s přehledem všech adres a výše jejich finančního příspěvku.
 * Uzavření tohoho programu proběhne 15. února 2022 v 18:00:
-  * Veškeré kurzy budou počítané k tomuto okamžiku.
+  * Veškeré kurzy budou počítané k tomuto okamžiku. Pro získání odměny je tedy nutné brát v potaz kurz k uzavření programu, ne v době transakce.
   * Fyzické odměny budou k vyzvednutí buď přímo na konferenci 4-5. června 2022 nebo je budeme rozesílat poštou v průběhu června.
 
 ## TODO
