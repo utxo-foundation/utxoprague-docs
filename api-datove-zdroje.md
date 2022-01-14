@@ -18,6 +18,10 @@ Základní informace o konferenci a datové sady ve formátu JSON (read-only).
 | [events.json](https://spec.utxo.cz/22/events.json)         | Události - hlavní a doprovodný program     |
 | [faqs.json](https://spec.utxo.cz/22/faqs.json)             | Často kladené dotazy (FAQ)                 |
 
+Další informace naleznete v hlavním "utxo" GitHub repozitáři:
+
+{% embed url="https://github.com/gweicz/utxo" %}
+
 ## Real-time API
 
 V čase konání konference bude dostupné read-only API s aktuálními statistikami návštěvnosti a dalšími metrikami.
