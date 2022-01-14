@@ -9,7 +9,7 @@ Ozvěte se někomu z [Organizačního teamu](organizacni-team/).
 
 ## Seznam sponzorů
 
-| Sponzor                                              | Popis                                                                                        |
-| ---------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| :circus\_tent: [**Miton C**](https://mitonc.com)**** | Investiční fond zaměřený na web3/krypto projekty. Člen rodiny [Miton](https://www.miton.cz). |
+| Název                                        | Popis |
+| -------------------------------------------- | ----- |
+| [**MitonC**](https://twitter.com/mitoncfund) |       |
 
