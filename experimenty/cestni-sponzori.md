@@ -29,9 +29,9 @@ Chceme dát možnost i menším subjektům nás finančně podpořit a zároveň
 
 * [ ] Založení kryptoměnových adres
 * [ ] Vytvoření SPA webpage - Popis (pravidla) a Leaderboard
-* [ ] Zahájení programu "Čestný sponzor" - 15. leden 18:00
+* [ ] Zahájení programu "Čestný sponzor"
 * [ ] Propagace na sociálních sítích
-* [ ] Ukončení programu "Čestný sponzor" - 15. únor 18:00
+* [ ] Ukončení programu "Čestný sponzor"
 * [ ] Převzetí vstupenek zdarma v rámci ticketingu - konec února
 * [ ] Převzetí fyzických odměn na konferenci - 4.-5. června
 * [ ] Rozeslání fyzických odměn - červen
