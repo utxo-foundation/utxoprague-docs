@@ -47,7 +47,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **34**
+Celkem přednášejících: **35**
 
 _(abecedně)_
 
@@ -71,6 +71,7 @@ _(abecedně)_
 | [**Krypto Tomas CZ**](https://twitter.com/KryptoTomasCZ)                   | Člen [KryptoVláďa](https://www.kryptovlada.win) komunity                                                                                                                        |
 | [**m0xt**](https://twitter.com/m0xt_)                                      |                                                                                                                                                                                 |
 | [**Mario Havel**](https://twitter.com/TMIYChao)                            | Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)                                                    |
+| [**Mark Stopka**](https://twitter.com/LiberalMark)                         |                                                                                                                                                                                 |
 | [**Martin Gregor**](https://twitter.com/ZaujaloMa) (ZaujaloMa)             | YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)                                                                                |
 | [**Matthew Cook**](https://twitter.com/Matyas44Cook)                       |                                                                                                                                                                                 |
 | [**Michael Repetný**](https://twitter.com/repetny)                         | [Marinade.finance](https://marinade.finance/)                                                                                                                                   |
