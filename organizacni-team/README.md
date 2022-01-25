@@ -43,16 +43,6 @@ Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEt
 | [**rixcian**](https://twitter.com/rixcian)****                   | ..                           | Bankless.cz / Gwei.cz |
 | **Tomassino**                                                    | ..                           | KryptoVláďa komunita  |
 
-## Externí spolupráce
-
-| Kdo                                                 | Účel                | Organizace                                   |
-| --------------------------------------------------- | ------------------- | -------------------------------------------- |
-| [Soňa Parke](https://cz.linkedin.com/in/sona-parke) | mentoring           | [Holky v kryptu](https://holkyvkryptu.cz)    |
-| František Vinopal                                   | legální entita      | [ČKMA](https://www.ckma.cz/cs/)              |
-| [Josef Je](https://twitter.com/JosefJ\_)            | kooperující událost | [ETHPrague](https://ethprague.com)           |
-| [Tomáš Zdražil](https://twitter.com/investree\_cz)  | kooperující událost | [Cashflow summer](https://cashflowsummer.cz) |
-| [Martin Kuchař](https://twitter.com/owletek)        | konzultace          | [ChainCamp](https://chaincamp.cz)            |
-
 ## Další partneři
 
 * [Spolupracující komunity](../partneri.md#spolupracujici-komunity)
