@@ -47,7 +47,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **36**
+Celkem přednášejících: **37**
 
 _(abecedně)_
 
@@ -67,6 +67,7 @@ _(abecedně)_
 | [**Jan Černý**](https://twitter.com/JanCerny) (-HoNY-)                     | Člen [Bitcoinovej kanál](https://bitcoinovejkanal.cz/) komunity                                                                                                                 |
 | [**Jaromír Tesař**](https://twitter.com/JaromirTesar)                      | [Cardanians](https://cardanians.io/cs)                                                                                                                                          |
 | [**Jiří Čepelka**](https://twitter.com/JiriCepelka)                        |                                                                                                                                                                                 |
+| [**JosefJ**](https://twitter.com/JosefJ_)                                  |                                                                                                                                                                                 |
 | [**Juraj Bednár**](https://twitter.com/jurbed)                             | Spoluzakladatel [Hacktrophy](https://hacktrophy.com/sk/), člen [Paralelné Polis](https://paralelnapolis.sk)                                                                     |
 | [**Krypto Tomas CZ**](https://twitter.com/KryptoTomasCZ)                   | Člen [KryptoVláďa](https://www.kryptovlada.win) komunity                                                                                                                        |
 | [**m0xt**](https://twitter.com/m0xt_)                                      |                                                                                                                                                                                 |
