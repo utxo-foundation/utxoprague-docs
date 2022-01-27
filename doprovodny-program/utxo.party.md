@@ -12,11 +12,11 @@ Na party budou mít přístup jenom držitelé vstupenky na UTXO konferenci. Neb
 
 ## Hudební stage
 
-| Název                | Místo                                                            | Styl                   |
-| -------------------- | ---------------------------------------------------------------- | ---------------------- |
-| **Hlavní stage**     | [Rajská zahrada](../misto-konani/prehled-salu/rajska-zahrada.md) | mix                    |
-| **Techno stage**     | [Klenbový sál](../misto-konani/prehled-salu/klenbovy-sal.md)     | techno, house, electro |
-| **Indie stage (?)**  | [Lustrový sál](../misto-konani/prehled-salu/lustrovy-sal.md)     | ?                      |
+| Název            | Místo                                                            | Styl                   |
+| ---------------- | ---------------------------------------------------------------- | ---------------------- |
+| **Hlavní stage** | [Rajská zahrada](../misto-konani/prehled-salu/rajska-zahrada.md) | mix                    |
+| **Gala stage**   | [Lustrový sál](../misto-konani/prehled-salu/lustrovy-sal.md)     | ?                      |
+| **Techno stage** | [Koupelnový sál](../misto-konani/prehled-salu/koupelnovy-sal.md) | techno, house, electro |
 
 ## **Chillout zóny**
 
