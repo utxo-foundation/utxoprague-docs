@@ -47,7 +47,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **35**
+Celkem přednášejících: **36**
 
 _(abecedně)_
 
@@ -81,6 +81,7 @@ _(abecedně)_
 | [**Petr Klein**](https://twitter.com/kleinptr)                             |                                                                                                                                                                                 |
 | [**Petr Mára**](https://twitter.com/petrmara)                              |                                                                                                                                                                                 |
 | [**Petr Menšík**](https://twitter.com/petr_mensik)                         | [Polkadotters](https://twitter.com/polkadotterss)                                                                                                                               |
+| **Radek Švarz**                                                            |                                                                                                                                                                                 |
 | [**Róbert Chovanculiak**](https://twitter.com/RChovanculiak)               | Analytik v [INESS](https://www.iness.sk), pedagog na [CEVRO Institutu](https://www.cevroinstitut.cz/cs/pedagog/ing-robert-chovanculiak-ph-d/)                                   |
 | [**RΞSISTANCΞ**](https://twitter.com/reesistancee)                         |                                                                                                                                                                                 |
 | [**Tomáš Kalabis**](https://twitter.com/hernakrypto) (Fetyas)              | YT kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)                                                                                                |
