@@ -30,5 +30,6 @@ Hledáme každého, kdo může dát o UTXO.22 vědět svým divákům, poslucha�
 | [**KryptoDoupě.cz**](https://www.kryptodoupe.cz/)                                         |                                                   |
 | [**Investree**](https://investree.cz/)                                                    | Vzdělávání okolo finanční svobody (Tomáš Zdražil) |
 | [**KryptoPlatby CZ/SK**](https://linktr.ee/kryptoplatby)                                  |                                                   |
+| [**Trader 2.0**](https://twitter.com/Trader_20_)                                          |                                                   |
 | [**Svět Androida**](https://www.svetandroida.cz/)                                         |                                                   |
 

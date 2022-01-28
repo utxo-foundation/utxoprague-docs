@@ -47,7 +47,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **37**
+Celkem přednášejících: **38**
 
 _(abecedně)_
 
@@ -64,6 +64,7 @@ _(abecedně)_
 | [**Dominik Stroukal**](https://twitter.com/stroukal)                       | Hlavní ekonom [Roger](https://www.roger.cz/), bývalý ředitel [Liberálního institutu](https://libinst.cz/) a [Ludwig von Mises institutu](https://www.mises.cz/)                 |
 | [**Honza Dvořák**](https://twitter.com/_Honza_Dvorak) (Gorrdy)             | [btcplatby.cz](https://btcplatby.cz)                                                                                                                                            |
 | [**Hynek Jína**](https://twitter.com/HynekJina)                            | [SatoshiLabs](https://satoshilabs.com/)                                                                                                                                         |
+| [**Jakub Kraľovanský**](https://twitter.com/Trader_20_)                    |                                                                                                                                                                                 |
 | [**Jan Černý**](https://twitter.com/JanCerny) (-HoNY-)                     | Člen [Bitcoinovej kanál](https://bitcoinovejkanal.cz/) komunity                                                                                                                 |
 | [**Jaromír Tesař**](https://twitter.com/JaromirTesar)                      | [Cardanians](https://cardanians.io/cs)                                                                                                                                          |
 | [**Jiří Čepelka**](https://twitter.com/JiriCepelka)                        |                                                                                                                                                                                 |
