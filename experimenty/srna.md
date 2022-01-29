@@ -14,13 +14,14 @@ Nasycený návštěvník je spokojený návštěvník - ale klasické systémy c
 | **Food-trucky**       | <ul><li>vhodné pro akce bez jídla v ceně vstupenky</li><li>relativně bezstarostné</li></ul>                                                                                                             | <ul><li>nízká kapacita (fronty)</li><li>velká vzdálenost pro návštěvníky</li><li>nutnost ručení tržeb</li><li>vázané na počasí</li></ul> |
 | **SRNA**              | <ul><li>výborný výběr</li><li>velká kapacita - lehce škálovatelné</li><li>blízko návštěvníkovi</li><li>podpora místních podniků</li><li>pro zodpovědného návštěvníka minimálně časově náročné</li></ul> | <ul><li>jídlo není hned - u návštěvníka do 2-3h</li><li>vyžaduje objednávkový systém a SRNA tým (zatím nejde outsourcovat)</li></ul>     |
 
-## Objednávkový systém
-
-### Terminologie
+## Terminologie
 
 * **časový blok** (50 minut) - ucelený doručovací blok, např. oběd, večeře
 * **časový slot** (5 minut) - upřesňující segment v rámci časového bloku, každý blok má 10 slotů
 * [**výdejní místo**](srna.md#vydejni-mista) - konkrétní místo, kde si návštěvník objednávku vyzvedne
+* [**centrální logistický uzel**](srna.md#centralni-logisticky-uzel) - místo, kam se objednávky svážejí a distribuují dál
+
+## Objednávkový systém
 
 ### Číslování objednávek
 
@@ -50,6 +51,8 @@ Součástí týmu centrálního logistického uzlu budou lidé, kteří budou za
 ## Výdejní místa
 
 Na výdejním místě si návštěvníci svoje objednávky vyzvedávají a neslouží k jinému dalšímu účelu.
+
+Objednávky budou rozřazeny podle časových slotů.
 
 ### Součásti výdejního místa
 
