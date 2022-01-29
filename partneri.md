@@ -26,8 +26,9 @@ Hledáme každého, kdo může dát o UTXO.22 vědět svým divákům, poslucha�
 | Název                                                                                     | Popis                                             |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------- |
 | [**Podcast Krypto Insider (Hospodářské noviny)**](https://podcasty.hn.cz/krypto-insider/) | Podcast o kryptoměnách (Petr Lukáč)               |
-| [**Kryptonovinky.sk (.cz)**](https://www.kryptonovinky.sk/)                               |                                                   |
-| [**KryptoDoupě.cz**](https://www.kryptodoupe.cz/)                                         |                                                   |
+| [**Kryptonovinky**](https://www.kryptonovinky.sk/)                                        |                                                   |
+| [**Kryptomagazin CZ**](https://kryptomagazin.cz/)                                         |                                                   |
+| [**KryptoDoupě**](https://www.kryptodoupe.cz/)                                            |                                                   |
 | [**Investree**](https://investree.cz/)                                                    | Vzdělávání okolo finanční svobody (Tomáš Zdražil) |
 | [**KryptoPlatby CZ/SK**](https://linktr.ee/kryptoplatby)                                  |                                                   |
 | [**Trader 2.0**](https://twitter.com/Trader_20_)                                          |                                                   |
