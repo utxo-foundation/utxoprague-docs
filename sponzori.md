@@ -9,7 +9,8 @@ Ozvěte se někomu z [Organizačního teamu](organizacni-team/).
 
 ## Seznam sponzorů
 
-| Název                                        | Popis |
-| -------------------------------------------- | ----- |
-| [**MitonC**](https://twitter.com/mitoncfund) |       |
+| Název                                                      | Popis |
+| ---------------------------------------------------------- | ----- |
+| [**dYdX Grants Program**](https://twitter.com/dydx_grants) |       |
+| [**MitonC**](https://twitter.com/mitoncfund)               |       |
 
