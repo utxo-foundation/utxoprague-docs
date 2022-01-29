@@ -37,7 +37,7 @@ Každá objednávka bude mít svůj unikátní kód, ze kterého půjde lehce vy
 
 ## Centrální logistický uzel
 
-Centrální logistický uzel je místo v rámci místa konání konference, kam se jídla z restaurací a dalších podniků (objednávky) fyzicky přiváží a odkud jsou posléze distribuovány na jednotlivá [vydejní místa](srna.md#odberove-mista).
+Centrální logistický uzel je místo v rámci místa konání konference, kam se jídla z restaurací a dalších podniků (objednávky) fyzicky přiváží a odkud jsou posléze distribuovány na jednotlivá [vydejní místa](srna.md#vydejni-mista).
 
 ### Naskladnění objednávek
 
