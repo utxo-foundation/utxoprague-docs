@@ -21,7 +21,9 @@ Nasycený návštěvník je spokojený návštěvník - ale klasické systémy c
 * [**výdejní místo**](srna.md#vydejni-mista) - konkrétní místo, kde si návštěvník objednávku vyzvedne
 * [**centrální logistický uzel**](srna.md#centralni-logisticky-uzel) - místo, kam se objednávky svážejí a distribuují dál
 
-## Objednávkový systém
+## Objednávkový a logistický systém
+
+Klíčová součást celého SRNA systému, který slouží ke koordinaci všech jeho součástí.
 
 ### Číslování objednávek
 
@@ -69,5 +71,15 @@ Celý proces by měl trvat zhruba 30 sekund.
 3. Aplikace v telefonu ukáže zda je objednávka přítomná, její kód, případně kde ji hledat
 4. Obsluha objednávku najde a předá návštěvníkovi (15s) - hotovo&#x20;
 
+## SRNA na UTXO.22
 
+* Centrální logistický uzel: zadní trakt, vjezd z ulice Švédská
+
+### Výdejní místa
+
+| ID  | Umístění                 | Kapacita |
+| --- | ------------------------ | -------- |
+| `A` | poblíž Hlavního sálu     | 2 lidé   |
+| `B` | Outdoor - foodtruck zóna | 2 lidé   |
+| `C` | poblíž Lustrového sálu   | 1 člověk |
 
