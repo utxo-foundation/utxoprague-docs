@@ -47,7 +47,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **39**
+Celkem přednášejících: **40**
 
 _(abecedně)_
 
@@ -62,6 +62,7 @@ _(abecedně)_
 | [**David Stancel**](https://twitter.com/dave_stancel) (Ape Dogen)          | Autor [Coin Story](https://coinstory.tech/)                                                                                                                                     |
 | [**DavidBankless**](https://twitter.com/davidbankless)                     | [Flipper.Zone](https://twitter.com/flipperzonenft), [BanklessDAO](https://www.bankless.community)                                                                               |
 | [**Dominik Stroukal**](https://twitter.com/stroukal)                       | Hlavní ekonom [Roger](https://www.roger.cz/), bývalý ředitel [Liberálního institutu](https://libinst.cz/) a [Ludwig von Mises institutu](https://www.mises.cz/)                 |
+| [**Dušan Kmetyo**](https://twitter.com/DusanKmetyo) (OneBeerShow)          |                                                                                                                                                                                 |
 | [**Honza Dvořák**](https://twitter.com/_Honza_Dvorak) (Gorrdy)             | [btcplatby.cz](https://btcplatby.cz)                                                                                                                                            |
 | [**Hynek Jína**](https://twitter.com/HynekJina)                            | [SatoshiLabs](https://satoshilabs.com/)                                                                                                                                         |
 | [**Jakub Kraľovanský**](https://twitter.com/Trader_20_)                    |                                                                                                                                                                                 |
