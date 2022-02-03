@@ -10,6 +10,8 @@ description: Pátek, 3. června 2022 19:00, Místo TBD
 
 Promítání filmů s kryptoměnovou tématikou v jednom z pražských kin. Půjde o kratší akci na cca 2-3h s promítáním 1-2 filmů. Kinosál a kapacitu zvolíme podle zájmu. Začátek bude v 19:00.
 
+Promítání bude otevřené široké veřejnosti a vstupenky se budou nakupovat separátně (promítání není součástí vstupenky na UTXO konferenci).
+
 ### Návrhy filmů
 
 * [Cryptopia](https://www.imdb.com/title/tt9203586/) (2020)

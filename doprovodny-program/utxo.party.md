@@ -8,7 +8,7 @@ description: Sobota 4. června 20:00 - 2:00, Gabriel Loci
 
 Party se uskuteční v sobotu 4. června, od 20:00 hodin do 02:00. K dispozici budou 3 hlavní stage a chillout zóny.
 
-Na party budou mít přístup jenom držitelé vstupenky na UTXO konferenci. Nebude možné zakoupit vstupenku na místě.
+**Na party budou mít přístup jenom držitelé vstupenky na UTXO konferenci. Nebude možné zakoupit vstupenku na místě.**
 
 ## Hudební stage
 
