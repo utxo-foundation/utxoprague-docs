@@ -14,10 +14,9 @@
 
 První den [hlavního programu](../hlavni-program.md) v [Gabriel Loci](../misto-konani/).
 
-| Čas           | Událost                                     | Kde          |
-| ------------- | ------------------------------------------- | ------------ |
-| 20:00 - 22:00 | ****[**Kulturní večer**](kulturni-vecer.md) | Gabriel Loci |
-| 22:00 - 02:00 | ****[**UTXO.Party**](utxo.party.md)         | Gabriel Loci |
+| Čas           | Událost                             | Kde          |
+| ------------- | ----------------------------------- | ------------ |
+| 20:00 - 02:00 | ****[**UTXO.Party**](utxo.party.md) | Gabriel Loci |
 
 ## Neděle 5. června
 

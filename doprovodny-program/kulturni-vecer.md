@@ -1,3 +1,0 @@
-# Kulturní večer
-
-TBA
