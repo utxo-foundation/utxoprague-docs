@@ -1,5 +1,5 @@
 ---
-description: Sobota 4. června 21:00 - 2:00, Gabriel Loci
+description: Sobota 4. června 20:00 - 2:00, Gabriel Loci
 ---
 
 # UTXO.Party
