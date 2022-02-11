@@ -16,6 +16,12 @@ _(abecedně)_
 * Hlavní ekonom [Roger](https://www.roger.cz/), bývalý ředitel [Liberálního institutu](https://libinst.cz/) a [Ludwig von Mises institutu](https://www.mises.cz/)
 * Twitter: [@stroukal](https://twitter.com/stroukal)
 
+### ![](https://spec.utxo.cz/22/photos/speakers/jakub-jedlinsky-sm.png) Jakub Jedlinský
+
+* Makroekonom a analytik specializující se na modelování tokenomiky
+* Spoluzakladatel [Altlift.cz](https://altlift.cz), vyučující na [Katedra mezinárodních ekonomických vztahů FMV VŠE](https://kmev.vse.cz/)
+* Twitter: [@Jakub_Jedlinsky](https://twitter.com/Jakub_Jedlinsky)
+
 ### ![](https://spec.utxo.cz/22/photos/speakers/juraj-bednar-sm.png) Juraj Bednár
 
 * Podnikatel, hacker a milovník svobody
@@ -47,7 +53,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **40**
+Celkem přednášejících: **41**
 
 _(abecedně)_
 
@@ -65,6 +71,7 @@ _(abecedně)_
 | [**Dušan Kmetyo**](https://twitter.com/DusanKmetyo) (OneBeerShow)          |                                                                                                                                                                                 |
 | [**Honza Dvořák**](https://twitter.com/_Honza_Dvorak) (Gorrdy)             | [btcplatby.cz](https://btcplatby.cz)                                                                                                                                            |
 | [**Hynek Jína**](https://twitter.com/HynekJina)                            | [SatoshiLabs](https://satoshilabs.com/)                                                                                                                                         |
+| [**Jakub Jedlinský**](https://twitter.com/Jakub_Jedlinsky)                 | Spoluzakladatel [Altlift.cz](https://altlift.cz), vyučující na [Katedra mezinárodních ekonomických vztahů FMV VŠE](https://kmev.vse.cz/)                                        |
 | [**Jakub Kraľovanský**](https://twitter.com/Trader_20_)                    |                                                                                                                                                                                 |
 | [**Jan Černý**](https://twitter.com/JanCerny) (-HoNY-)                     | Člen [Bitcoinovej kanál](https://bitcoinovejkanal.cz/) komunity                                                                                                                 |
 | [**Jaromír Tesař**](https://twitter.com/JaromirTesar)                      | [Cardanians](https://cardanians.io/cs)                                                                                                                                          |
