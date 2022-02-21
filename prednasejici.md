@@ -53,7 +53,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **41**
+Celkem přednášejících: **43**
 
 _(abecedně)_
 
@@ -76,9 +76,11 @@ _(abecedně)_
 | [**Jan Černý**](https://twitter.com/JanCerny) (-HoNY-)                     | Člen [Bitcoinovej kanál](https://bitcoinovejkanal.cz/) komunity                                                                                                                 |
 | [**Jaromír Tesař**](https://twitter.com/JaromirTesar)                      | [Cardanians](https://cardanians.io/cs)                                                                                                                                          |
 | [**Jiří Čepelka**](https://twitter.com/JiriCepelka)                        |                                                                                                                                                                                 |
+| [**Josef Gattermayer**](https://twitter.com/jgattermayer)                  | Spoluzakladatel [Ackee](https://www.ackee.cz/) a [Ackee Blockchain](https://ackeeblockchain.com/)                                                                               |
 | [**JosefJ**](https://twitter.com/JosefJ_)                                  |                                                                                                                                                                                 |
 | [**Juraj Bednár**](https://twitter.com/jurbed)                             | Spoluzakladatel [Hacktrophy](https://hacktrophy.com/sk/), člen [Paralelné Polis](https://paralelnapolis.sk)                                                                     |
 | [**Krypto Tomas CZ**](https://twitter.com/KryptoTomasCZ)                   | Člen [KryptoVláďa](https://www.kryptovlada.win) komunity                                                                                                                        |
+| [**Luboš Kovařík**](https://twitter.com/stosujcz)                          |                                                                                                                                                                                 |
 | [**m0xt**](https://twitter.com/m0xt_)                                      |                                                                                                                                                                                 |
 | [**Mario Havel**](https://twitter.com/TMIYChao)                            | Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)                                                    |
 | [**Mark Stopka**](https://twitter.com/LiberalMark)                         |                                                                                                                                                                                 |
