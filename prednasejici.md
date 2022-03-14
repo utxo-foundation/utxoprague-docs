@@ -53,7 +53,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **43**
+Celkem přednášejících: **44**
 
 _(abecedně)_
 
@@ -80,6 +80,7 @@ _(abecedně)_
 | [**JosefJ**](https://twitter.com/JosefJ_)                                  |                                                                                                                                                                                 |
 | [**Juraj Bednár**](https://twitter.com/jurbed)                             | Spoluzakladatel [Hacktrophy](https://hacktrophy.com/sk/), člen [Paralelné Polis](https://paralelnapolis.sk)                                                                     |
 | [**Krypto Tomas CZ**](https://twitter.com/KryptoTomasCZ)                   | Člen [KryptoVláďa](https://www.kryptovlada.win) komunity                                                                                                                        |
+| [**Lenka Hudáková**](https://twitter.com/LenklaH)                          | Vedení projektu [Sustainable Ecosystem Scaling core unit @ MakerDAO](https://ses.makerdao.network/)                                                                             |
 | [**Luboš Kovařík**](https://twitter.com/stosujcz)                          |                                                                                                                                                                                 |
 | [**m0xt**](https://twitter.com/m0xt_)                                      |                                                                                                                                                                                 |
 | [**Mario Havel**](https://twitter.com/TMIYChao)                            | Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)                                                    |
