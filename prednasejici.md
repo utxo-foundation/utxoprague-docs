@@ -48,7 +48,7 @@ _(abecedně)_
 ### ![](https://spec.utxo.cz/22/photos/speakers/robert-chovanculiak-sm.png) Róbert Chovanculiak
 
 * Autor knihy [Pokrok bez povolenia](https://libinst.cz/produkt/pokrok-bez-povolenia/)
-* Analytik v [INESS](https://www.iness.sk), pedagog na [CEVRO Institutu](https://www.cevroinstitut.cz/cs/pedagog/ing-robert-chovanculiak-ph-d/)
+* Analytik v [INESS](https://www.iness.sk)
 * Twitter: [@RChovanculiak](https://twitter.com/RChovanculiak), Web: [Pokrok bez povolenia (newsletter)](https://robertchovanculiak.substack.com)
 
 ### ![](https://spec.utxo.cz/22/photos/speakers/urza-sm.png) Urza
@@ -102,7 +102,7 @@ _(abecedně)_
 | [**Petr Mára**](https://twitter.com/petrmara)                                |                                                                                                                                                                                 |
 | **Petr Menšík**                                                              | [Polkadotters](https://twitter.com/polkadotterss)                                                                                                                               |
 | [**Radek Švarz**](https://twitter.com/radk)                                  |                                                                                                                                                                                 |
-| [**Róbert Chovanculiak**](https://twitter.com/RChovanculiak)                 | Analytik v [INESS](https://www.iness.sk), pedagog na [CEVRO Institutu](https://www.cevroinstitut.cz/cs/pedagog/ing-robert-chovanculiak-ph-d/)                                   |
+| [**Róbert Chovanculiak**](https://twitter.com/RChovanculiak)                 | Analytik v [INESS](https://www.iness.sk)                                                                                                                                        |
 | [**Roman Mazur**](https://twitter.com/romanmazur)                            |                                                                                                                                                                                 |
 | [**RΞSISTANCΞ**](https://twitter.com/reesistancee)                           |                                                                                                                                                                                 |
 | [**Tomáš Kalabis**](https://twitter.com/hernakrypto) (Fetyas)                | YT kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)                                                                                                |
