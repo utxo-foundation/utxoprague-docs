@@ -51,6 +51,12 @@ _(abecedně)_
 * Analytik v [INESS](https://www.iness.sk)
 * Twitter: [@RChovanculiak](https://twitter.com/RChovanculiak), Web: [Pokrok bez povolenia (newsletter)](https://robertchovanculiak.substack.com)
 
+### ![](https://spec.utxo.cz/22/photos/speakers/stanislav-hruska-sm.png) Stanislav Hruška
+
+* Youtuber a streamer
+* Zakladatel [talktv.cz](https://www.talktv.cz/), YT kanál [StandaShow](https://www.youtube.com/c/StandaShow/videos)
+* Twitter: [@StandaShow](https://twitter.com/StandaShow)
+
 ### ![](https://spec.utxo.cz/22/photos/speakers/urza-sm.png) Urza
 
 * Anarchokapitalista, autor knihy [Anarchokapitalismus](https://kniha.urza.cz/)
