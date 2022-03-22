@@ -16,7 +16,7 @@ První ročník konference se uskuteční v unikátní komplexu bývalého klá�
 
 <summary>Jak získám vstupenku?</summary>
 
-První vstupenky plánujeme uvolnit do prodeje ~~v průběhu února~~ v půlce března 2022. Vstupné bude nízké a platit budete moci jak platební kartou, tak samozřejmě kryptoměnami (především Lightning Network).
+První vstupenky plánujeme uvolnit do prodeje ~~v půlce~~ na konci března 2022. Vstupné bude nízké a platit budete moci jak platební kartou, tak samozřejmě kryptoměnami (především Lightning Network).
 
 </details>
 
