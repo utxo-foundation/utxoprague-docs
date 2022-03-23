@@ -13,14 +13,14 @@ _(abecedně)_
 ### ![](https://spec.utxo.cz/22/photos/speakers/dominik-stroukal-sm.png) Dominik Stroukal
 
 * Ekonom, libertarián, autor první české knihy o kryptoměnách
-* Hlavní ekonom [Roger](https://www.roger.cz), bývalý ředitel [Liberálního institutu](https://libinst.cz) a [Ludwig von Mises institutu](https://www.mises.cz)
+* Hlavní ekonom [Roger](https://www.roger.cz/), bývalý ředitel [Liberálního institutu](https://libinst.cz/) a [Ludwig von Mises institutu](https://www.mises.cz/)
 * Twitter: [@stroukal](https://twitter.com/stroukal)
 
 ### ![](https://spec.utxo.cz/22/photos/speakers/jakub-jedlinsky-sm.png) Jakub Jedlinský
 
 * Makroekonom a analytik specializující se na modelování tokenomiky
-* Spoluzakladatel [Altlift.cz](https://altlift.cz), vyučující na [Katedra mezinárodních ekonomických vztahů FMV VŠE](https://kmev.vse.cz)
-* Twitter: [@Jakub\_Jedlinsky](https://twitter.com/Jakub\_Jedlinsky)
+* Spoluzakladatel [Altlift.cz](https://altlift.cz), vyučující na [Katedra mezinárodních ekonomických vztahů FMV VŠE](https://kmev.vse.cz/)
+* Twitter: [@Jakub_Jedlinsky](https://twitter.com/Jakub_Jedlinsky)
 
 ### ![](https://spec.utxo.cz/22/photos/speakers/juraj-bednar-sm.png) Juraj Bednár
 
@@ -31,8 +31,14 @@ _(abecedně)_
 ### ![](https://spec.utxo.cz/22/photos/speakers/mario-havel-sm.png) Mario Havel
 
 * Kryptoanarchista, libertarián a hacker
-* Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz)
+* Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)
 * Twitter: [@TMIYChao](https://twitter.com/TMIYChao)
+
+### ![](https://spec.utxo.cz/22/photos/speakers/michael-chobanian-sm.png) Michael Chobanian (Михайло Чобанян)
+
+* undefined
+* Zakladatel [KUNA Exchange](https://kuna.io/), prezident [Blockchain Association of Ukraine](https://bau.ai/)
+* Twitter: [@ChobanianMike](https://twitter.com/ChobanianMike)
 
 ### ![](https://spec.utxo.cz/22/photos/speakers/petr-mara-sm.png) Petr Mára
 
@@ -42,64 +48,76 @@ _(abecedně)_
 ### ![](https://spec.utxo.cz/22/photos/speakers/robert-chovanculiak-sm.png) Róbert Chovanculiak
 
 * Autor knihy [Pokrok bez povolenia](https://libinst.cz/produkt/pokrok-bez-povolenia/)
-* Analytik v [INESS](https://www.iness.sk), pedagog na [CEVRO Institutu](https://www.cevroinstitut.cz/cs/pedagog/ing-robert-chovanculiak-ph-d/)
+* Analytik v [INESS](https://www.iness.sk)
 * Twitter: [@RChovanculiak](https://twitter.com/RChovanculiak), Web: [Pokrok bez povolenia (newsletter)](https://robertchovanculiak.substack.com)
+
+### ![](https://spec.utxo.cz/22/photos/speakers/stanislav-hruska-sm.png) Stanislav Hruška
+
+* Youtuber a streamer
+* Zakladatel [talktv.cz](https://www.talktv.cz/), YT kanál [StandaShow](https://www.youtube.com/c/StandaShow/videos)
+* Twitter: [@StandaShow](https://twitter.com/StandaShow)
 
 ### ![](https://spec.utxo.cz/22/photos/speakers/urza-sm.png) Urza
 
-* Anarchokapitalista, autor knihy [Anarchokapitalismus](https://kniha.urza.cz)
-* Zakladatel [Svobodného přístavu](https://pristav.urza.cz), vedoucí [CZ/SK Mises Institutu](https://www.mises.cz), člen projektu [Svoboda učení](https://www.svobodauceni.cz)
+* Anarchokapitalista, autor knihy [Anarchokapitalismus](https://kniha.urza.cz/)
+* Zakladatel [Svobodného přístavu](https://pristav.urza.cz/), vedoucí [CZ/SK Mises Institutu](https://www.mises.cz/), člen projektu [Svoboda učení](https://www.svobodauceni.cz/)
 * Twitter: [@urzanarchy](https://twitter.com/urzanarchy), Web: [Urza.cz](https://urza.cz)
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **41**
+Celkem přednášejících: **47**
 
 _(abecedně)_
 
-| Jméno                                                                      | Organizace                                                                                                                                                                   |
-| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Adam Kracík**                                                            |                                                                                                                                                                              |
-| **Adam Lokaj**                                                             | [adopcebtc.cz](https://www.adopcebtc.cz) ([Instagram](https://www.instagram.com/adopcebitcoinu/))                                                                            |
-| [**Adam Studeník**](https://twitter.com/adamstudenik)                      |                                                                                                                                                                              |
-| [**Anett Rolikova**](https://twitter.com/anettrolikova)                    | [Ethereum Magicians](https://ethereum-magicians.org)                                                                                                                         |
-| [**damsky**](https://twitter.com/CryptoDamSky)                             |                                                                                                                                                                              |
-| [**David Antoš**](https://twitter.com/jilm) (jilm)                         | Spoluzakladatel spolku [Pro euro](https://proeuro.cz)                                                                                                                        |
-| [**David Stancel**](https://twitter.com/dave\_stancel) (Ape Dogen)         | Autor [Coin Story](https://coinstory.tech)                                                                                                                                   |
-| [**DavidBankless**](https://twitter.com/davidbankless)                     | [Flipper.Zone](https://twitter.com/flipperzonenft), [BanklessDAO](https://www.bankless.community)                                                                            |
-| [**Dominik Stroukal**](https://twitter.com/stroukal)                       | Hlavní ekonom [Roger](https://www.roger.cz), bývalý ředitel [Liberálního institutu](https://libinst.cz) a [Ludwig von Mises institutu](https://www.mises.cz)                 |
-| [**Dušan Kmetyo**](https://twitter.com/DusanKmetyo) (OneBeerShow)          |                                                                                                                                                                              |
-| [**Honza Dvořák**](https://twitter.com/\_Honza\_Dvorak) (Gorrdy)           | [btcplatby.cz](https://btcplatby.cz)                                                                                                                                         |
-| [**Hynek Jína**](https://twitter.com/HynekJina)                            | [SatoshiLabs](https://satoshilabs.com)                                                                                                                                       |
-| [**Jakub Jedlinský**](https://twitter.com/Jakub\_Jedlinsky)                | Spoluzakladatel [Altlift.cz](https://altlift.cz), vyučující na [Katedra mezinárodních ekonomických vztahů FMV VŠE](https://kmev.vse.cz)                                      |
-| [**Jakub Kraľovanský**](https://twitter.com/Trader\_20\_)                  |                                                                                                                                                                              |
-| [**Jan Černý**](https://twitter.com/JanCerny) (-HoNY-)                     | Člen [Bitcoinovej kanál](https://bitcoinovejkanal.cz) komunity                                                                                                               |
-| [**Jaromír Tesař**](https://twitter.com/JaromirTesar)                      | [Cardanians](https://cardanians.io/cs)                                                                                                                                       |
-| [**Jiří Čepelka**](https://twitter.com/JiriCepelka)                        |                                                                                                                                                                              |
-| [**JosefJ**](https://twitter.com/JosefJ\_)                                 |                                                                                                                                                                              |
-| [**Juraj Bednár**](https://twitter.com/jurbed)                             | Spoluzakladatel [Hacktrophy](https://hacktrophy.com/sk/), člen [Paralelné Polis](https://paralelnapolis.sk)                                                                  |
-| [**Krypto Tomas CZ**](https://twitter.com/KryptoTomasCZ)                   | Člen [KryptoVláďa](https://www.kryptovlada.win) komunity                                                                                                                     |
-| [**m0xt**](https://twitter.com/m0xt\_)                                     |                                                                                                                                                                              |
-| [**Mario Havel**](https://twitter.com/TMIYChao)                            | Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz)                                                  |
-| [**Mark Stopka**](https://twitter.com/LiberalMark)                         |                                                                                                                                                                              |
-| [**Martin Gregor**](https://twitter.com/ZaujaloMa) (ZaujaloMa)             | YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)                                                                             |
-| [**Matthew Cook**](https://twitter.com/Matyas44Cook)                       |                                                                                                                                                                              |
-| [**Michael Repetný**](https://twitter.com/repetny)                         | [Marinade.finance](https://marinade.finance)                                                                                                                                 |
-| [**Michaela Malatin**](https://twitter.com/malatinmichaela)                | Spoluzakladatelka [Holky v kryptu](https://holkyvkryptu.cz)                                                                                                                  |
-| **Mirek H**                                                                | Člen [KryptoVláďa](https://www.kryptovlada.win) komunity                                                                                                                     |
-| [**Pavel Přecechtěl**](https://twitter.com/homershillson) (HomΞr Shillson) | [VR Education](https://vreducation.cz)                                                                                                                                       |
-| [**Petr Klein**](https://twitter.com/kleinptr)                             |                                                                                                                                                                              |
-| [**Petr Mára**](https://twitter.com/petrmara)                              |                                                                                                                                                                              |
-| **Petr Menšík**                                                            | [Polkadotters](https://twitter.com/polkadotterss)                                                                                                                            |
-| [**Radek Švarz**](https://twitter.com/radk)                                |                                                                                                                                                                              |
-| [**Róbert Chovanculiak**](https://twitter.com/RChovanculiak)               | Analytik v [INESS](https://www.iness.sk), pedagog na [CEVRO Institutu](https://www.cevroinstitut.cz/cs/pedagog/ing-robert-chovanculiak-ph-d/)                                |
-| [**Roman Mazur**](https://twitter.com/romanmazur)                          |                                                                                                                                                                              |
-| [**RΞSISTANCΞ**](https://twitter.com/reesistancee)                         |                                                                                                                                                                              |
-| [**Tomáš Kalabis**](https://twitter.com/hernakrypto) (Fetyas)              | YT kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)                                                                                             |
-| [**Tomáš Zdražil**](https://twitter.com/investree\_cz)                     | [Investree](https://investree.cz)                                                                                                                                            |
-| [**Urza**](https://twitter.com/urzanarchy)                                 | Zakladatel [Svobodného přístavu](https://pristav.urza.cz), vedoucí [CZ/SK Mises Institutu](https://www.mises.cz), člen projektu [Svoboda učení](https://www.svobodauceni.cz) |
-| [**Vladimír Pinker**](https://twitter.com/KryptoVlada) (KryptoVláďa)       | YT kanál [KryptoVláďa](https://www.kryptovlada.win)                                                                                                                          |
-| [**Vojtěch Studený**](https://twitter.com/StudenyVojta) (vojtch)           | [Bankless.cz](https://bankless.cz)                                                                                                                                           |
+| Jméno                                                                        | Organizace                                                                                                                                                                      |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Adam Kracík**                                                              |                                                                                                                                                                                 |
+| **Adam Lokaj**                                                               | [adopcebtc.cz](https://www.adopcebtc.cz/) ([Instagram](https://www.instagram.com/adopcebitcoinu/))                                                                              |
+| [**Adam Studeník**](https://twitter.com/adamstudenik)                        |                                                                                                                                                                                 |
+| [**Anett Rolikova**](https://twitter.com/anettrolikova)                      | [Ethereum Magicians](https://ethereum-magicians.org/)                                                                                                                           |
+| [**damsky**](https://twitter.com/CryptoDamSky)                               |                                                                                                                                                                                 |
+| [**David Antoš**](https://twitter.com/jilm) (jilm)                           | Spoluzakladatel spolku [Pro euro](https://proeuro.cz)                                                                                                                           |
+| [**David Stancel**](https://twitter.com/dave_stancel) (Ape Dogen)            | Autor [Coin Story](https://coinstory.tech/)                                                                                                                                     |
+| [**DavidBankless**](https://twitter.com/davidbankless)                       | [Flipper.Zone](https://twitter.com/flipperzonenft), [BanklessDAO](https://www.bankless.community)                                                                               |
+| [**Dominik Stroukal**](https://twitter.com/stroukal)                         | Hlavní ekonom [Roger](https://www.roger.cz/), bývalý ředitel [Liberálního institutu](https://libinst.cz/) a [Ludwig von Mises institutu](https://www.mises.cz/)                 |
+| [**Dušan Kmetyo**](https://twitter.com/DusanKmetyo) (OneBeerShow)            |                                                                                                                                                                                 |
+| [**Honza Dvořák**](https://twitter.com/_Honza_Dvorak) (Gorrdy)               | [btcplatby.cz](https://btcplatby.cz)                                                                                                                                            |
+| [**Hynek Jína**](https://twitter.com/HynekJina)                              | [SatoshiLabs](https://satoshilabs.com/)                                                                                                                                         |
+| [**Jakub Jedlinský**](https://twitter.com/Jakub_Jedlinsky)                   | Spoluzakladatel [Altlift.cz](https://altlift.cz), vyučující na [Katedra mezinárodních ekonomických vztahů FMV VŠE](https://kmev.vse.cz/)                                        |
+| [**Jakub Kraľovanský**](https://twitter.com/Trader_20_)                      |                                                                                                                                                                                 |
+| [**Jan Černý**](https://twitter.com/JanCerny) (-HoNY-)                       | Člen [Bitcoinovej kanál](https://bitcoinovejkanal.cz/) komunity                                                                                                                 |
+| [**Jaromír Tesař**](https://twitter.com/JaromirTesar)                        | [Cardanians](https://cardanians.io/cs)                                                                                                                                          |
+| [**Jiří Čepelka**](https://twitter.com/JiriCepelka)                          |                                                                                                                                                                                 |
+| [**Josef Gattermayer**](https://twitter.com/jgattermayer)                    | Spoluzakladatel [Ackee](https://www.ackee.cz/) a [Ackee Blockchain](https://ackeeblockchain.com/)                                                                               |
+| [**JosefJ**](https://twitter.com/JosefJ_)                                    |                                                                                                                                                                                 |
+| [**Juraj Bednár**](https://twitter.com/jurbed)                               | Spoluzakladatel [Hacktrophy](https://hacktrophy.com/sk/), člen [Paralelné Polis](https://paralelnapolis.sk)                                                                     |
+| [**Krypto Tomas CZ**](https://twitter.com/KryptoTomasCZ)                     | Člen [KryptoVláďa](https://www.kryptovlada.win) komunity                                                                                                                        |
+| [**Lenka Hudáková**](https://twitter.com/LenklaH)                            | Vedení projektu [Sustainable Ecosystem Scaling core unit @ MakerDAO](https://ses.makerdao.network/)                                                                             |
+| [**Luboš Kovařík**](https://twitter.com/stosujcz)                            |                                                                                                                                                                                 |
+| [**m0xt**](https://twitter.com/m0xt_)                                        |                                                                                                                                                                                 |
+| [**Mario Havel**](https://twitter.com/TMIYChao)                              | Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)                                                    |
+| [**Mark Stopka**](https://twitter.com/LiberalMark)                           |                                                                                                                                                                                 |
+| [**Martin Gregor**](https://twitter.com/ZaujaloMa) (ZaujaloMa)               | YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)                                                                                |
+| [**Matthew Cook**](https://twitter.com/Matyas44Cook)                         |                                                                                                                                                                                 |
+| [**Michael Chobanian (Михайло Чобанян)**](https://twitter.com/ChobanianMike) | Zakladatel [KUNA Exchange](https://kuna.io/), prezident [Blockchain Association of Ukraine](https://bau.ai/)                                                                    |
+| [**Michael Repetný**](https://twitter.com/repetny)                           | [Marinade.finance](https://marinade.finance/)                                                                                                                                   |
+| [**Michaela Malatin**](https://twitter.com/malatinmichaela)                  | Spoluzakladatelka [Holky v kryptu](https://holkyvkryptu.cz/)                                                                                                                    |
+| **Mirek H**                                                                  | Člen [KryptoVláďa](https://www.kryptovlada.win) komunity                                                                                                                        |
+| [**Pavel Přecechtěl**](https://twitter.com/homershillson) (HomΞr Shillson)   | [VR Education](https://vreducation.cz)                                                                                                                                          |
+| [**Petr Klein**](https://twitter.com/kleinptr)                               |                                                                                                                                                                                 |
+| [**Petr Mára**](https://twitter.com/petrmara)                                |                                                                                                                                                                                 |
+| **Petr Menšík**                                                              | [Polkadotters](https://twitter.com/polkadotterss)                                                                                                                               |
+| [**Radek Švarz**](https://twitter.com/radk)                                  |                                                                                                                                                                                 |
+| [**Róbert Chovanculiak**](https://twitter.com/RChovanculiak)                 | Analytik v [INESS](https://www.iness.sk)                                                                                                                                        |
+| [**Roman Mazur**](https://twitter.com/romanmazur)                            |                                                                                                                                                                                 |
+| [**RΞSISTANCΞ**](https://twitter.com/reesistancee)                           |                                                                                                                                                                                 |
+| **Soňa Parke**                                                               | Zakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/)                                                                                                                         |
+| [**Stanislav Hruška**](https://twitter.com/StandaShow) (StandaShow)          | Zakladatel [talktv.cz](https://www.talktv.cz/), YT kanál [StandaShow](https://www.youtube.com/c/StandaShow/videos)                                                              |
+| [**Tomáš Kalabis**](https://twitter.com/hernakrypto) (Fetyas)                | YT kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)                                                                                                |
+| [**Tomáš Zdražil**](https://twitter.com/investree_cz)                        | [Investree](https://investree.cz)                                                                                                                                               |
+| [**Urza**](https://twitter.com/urzanarchy)                                   | Zakladatel [Svobodného přístavu](https://pristav.urza.cz/), vedoucí [CZ/SK Mises Institutu](https://www.mises.cz/), člen projektu [Svoboda učení](https://www.svobodauceni.cz/) |
+| [**Vladimír Pinker**](https://twitter.com/KryptoVlada) (KryptoVláďa)         | YT kanál [KryptoVláďa](https://www.kryptovlada.win)                                                                                                                             |
+| [**Vojtěch Studený**](https://twitter.com/0xVojtch) (vojtch)                 | [Bankless.cz](https://bankless.cz/)                                                                                                                                             |
 
 ### Datový zdroj
 
