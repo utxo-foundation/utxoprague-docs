@@ -65,7 +65,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **46**
+Celkem přednášejících: **47**
 
 _(abecedně)_
 
@@ -111,6 +111,7 @@ _(abecedně)_
 | [**Róbert Chovanculiak**](https://twitter.com/RChovanculiak)                 | Analytik v [INESS](https://www.iness.sk)                                                                                                                                        |
 | [**Roman Mazur**](https://twitter.com/romanmazur)                            |                                                                                                                                                                                 |
 | [**RΞSISTANCΞ**](https://twitter.com/reesistancee)                           |                                                                                                                                                                                 |
+| **Soňa Parke**                                                               | Zakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/)                                                                                                                         |
 | [**Stanislav Hruška**](https://twitter.com/StandaShow) (StandaShow)          | Zakladatel [talktv.cz](https://www.talktv.cz/), YT kanál [StandaShow](https://www.youtube.com/c/StandaShow/videos)                                                              |
 | [**Tomáš Kalabis**](https://twitter.com/hernakrypto) (Fetyas)                | YT kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)                                                                                                |
 | [**Tomáš Zdražil**](https://twitter.com/investree_cz)                        | [Investree](https://investree.cz)                                                                                                                                               |
