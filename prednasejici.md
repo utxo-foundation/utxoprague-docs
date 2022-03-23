@@ -65,7 +65,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **47**
+Celkem přednášejících: **48**
 
 _(abecedně)_
 
@@ -104,6 +104,7 @@ _(abecedně)_
 | [**Michaela Malatin**](https://twitter.com/malatinmichaela)                  | Spoluzakladatelka [Holky v kryptu](https://holkyvkryptu.cz/)                                                                                                                    |
 | **Mirek H**                                                                  | Člen [KryptoVláďa](https://www.kryptovlada.win) komunity                                                                                                                        |
 | [**Pavel Přecechtěl**](https://twitter.com/homershillson) (HomΞr Shillson)   | [VR Education](https://vreducation.cz)                                                                                                                                          |
+| [**Pavel Říha**](https://twitter.com/metapavel) (MetaPavel)                  | [Futureland](https://futureland.io/)                                                                                                                                            |
 | [**Petr Klein**](https://twitter.com/kleinptr)                               |                                                                                                                                                                                 |
 | [**Petr Mára**](https://twitter.com/petrmara)                                |                                                                                                                                                                                 |
 | **Petr Menšík**                                                              | [Polkadotters](https://twitter.com/polkadotterss)                                                                                                                               |
