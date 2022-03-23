@@ -65,7 +65,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **48**
+Celkem přednášejících: **49**
 
 _(abecedně)_
 
@@ -108,6 +108,7 @@ _(abecedně)_
 | [**Petr Klein**](https://twitter.com/kleinptr)                               |                                                                                                                                                                                 |
 | [**Petr Mára**](https://twitter.com/petrmara)                                |                                                                                                                                                                                 |
 | **Petr Menšík**                                                              | [Polkadotters](https://twitter.com/polkadotterss)                                                                                                                               |
+| [**Petr Sanetrník**](https://twitter.com/PetrSanetrnik)                      | [CryptViz](https://crypviz.io/)                                                                                                                                                 |
 | [**Radek Švarz**](https://twitter.com/radk)                                  |                                                                                                                                                                                 |
 | [**Róbert Chovanculiak**](https://twitter.com/RChovanculiak)                 | Analytik v [INESS](https://www.iness.sk)                                                                                                                                        |
 | [**Roman Mazur**](https://twitter.com/romanmazur)                            |                                                                                                                                                                                 |
