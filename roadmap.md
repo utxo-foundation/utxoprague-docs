@@ -11,23 +11,21 @@
 * [x] Dočasná webová prezentace (landing)
 * [x] Profily na [sociálních sítích](propagace/)
 * [x] Zveřejnění konference (_soft-launch_)
-* [ ] Logo a vizuální identita konference
-* [ ] [Webová prezentace](propagace/webove-stranky.md) (V1)
-* [ ] Oficiální oznámení konference (_hard-launch)_
 
 ### Únor 2022
 
-* [ ] Webová prezentace (V2) - základní ticketing
-* [ ] Konečné informace o vstupném a distribuci vstupenek
-* [ ] První vlna [vstupenek](navstevnici/vstupenky.md)
-
 ### Březen 2022
 
+* [ ] Logo a vizuální identita konference
+* [ ] [Webová prezentace](propagace/webove-stranky.md) (V1)
+* [ ] Oficiální oznámení konference (_hard-launch)_
+* [ ] Konečné informace o vstupném a distribuci vstupenek
+* [ ] První vlna [vstupenek](navstevnici/vstupenky.md)
 * [ ] Spuštění marketingové kampaně
-* [ ] Druhá vlna vstupenek
 
 ### Duben 2022
 
+* [ ] Druhá vlna vstupenek
 * [ ] Třetí vlna vstupenek
 
 ### Květen 2022

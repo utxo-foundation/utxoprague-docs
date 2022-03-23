@@ -1,14 +1,19 @@
 # Organizační team
 
-Jsme nezávislý spolek složený ze zástupců několika českých kryptokomunit, které se věnují vzdělávání v oblasti kryptoměn nebo blockchainu.
+Konferenci organizuje nezávislý spolek [UTXO Foundation, z.s.](./#utxo-foundation-z.s.) složený ze zástupců několika českých kryptokomunit, které se věnují vzdělávání v oblasti kryptoměn nebo blockchainu.
 
 {% hint style="success" %}
 Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEtVhnv) vytvořený jen pro účely této konference. Je to místo jak pro přednášející a organizátory, tak pro návštěvníky. Budeme velmi rádi za vaši zpětnou vazbu a pomoc!
 {% endhint %}
 
-## Core team
+## **UTXO Foundation, z.s.**
 
-### ![](../.gitbook/assets/tereza-circle.png) Tereza
+* Předseda: [Tereza Starostová](./#tereza-starostova)
+* Web a další informace: [utxo.foundation](http://utxo.foundation)
+
+## UTXO.22 Core team
+
+### ![](../.gitbook/assets/tereza-circle.png) Tereza Starostová
 
 * **místo konání, spolupráce, obecná organizace**
 * Zástupce [Holky v Kryptu](https://holkyvkryptu.cz)

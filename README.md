@@ -13,7 +13,7 @@ description: 4.-5. červen 2022, Praha 🇨🇿 - Otevřená kryptoměnová komu
 Díky rozsáhlému programu, který obsahuje více než **100 hodin přednášek a workshopů**, můžeme nabídnout obsah jak široké veřejnosti, tak pokročilým uživatelům.
 
 {% hint style="success" %}
-V současnosti máme potvrzených [30+ přednášejících](prednasejici.md), mezi ty nejvýznamnější patří, např. **Dominik Stroukal**, **Juraj Bednár**, **Petr Mára** nebo **Urza**.
+V současnosti máme potvrzených [40+ přednášejících](prednasejici.md), mezi ty nejvýznamnější patří, např. **Dominik Stroukal**, **Juraj Bednár**, **Petr Mára** nebo **Urza**.
 {% endhint %}
 
 Naším cílem je představit a vzdělávat širokou krypto-veřejnost v oblasti otevřených blockchainů, jejich základních principů, jako je **decentralizace, neutralita, otevřenost, spolupráce** a souvisejících témat. Ukázat výhody, představit případy použití a zároveň prohloubit důvěru v jejich používání s důrazem na bezpečnost.
@@ -36,7 +36,7 @@ Venkovní část budovy poskytne přibližně 150 míst k sezení a širší pro
 
 Vstupné nebude zdarma, ale chceme ho držet [velmi nízko](navstevnici/vstupenky.md#distribucni-faze). Na celou dvoudenní konferenci by vstupenka měla stát okolo $25 (cca 560 Kč).
 
-Konference plánována jako čistě nezisková událost, která bude financovaná především sponzorskými dary. V současné době probíhá proces založení [nezávislého neziskového subjektu](organizacni-team/legalni-entita.md), který bude konferenci zaštiťovat.
+Konference plánována jako čistě nezisková událost, která bude financovaná především sponzorskými dary. V současné době probíhá proces založení [nezávislého neziskového subjektu](broken-reference), který bude konferenci zaštiťovat.
 
 Kromě hlavní konference proběhne pod naší záštitou, nebo v režii partnerských organizací několik menších akcí. V naší režii například promítání filmů s krypto tematikou, různé workshopy, krypto hospodské kvízy a podobně (viz. [Doprovodný program](doprovodny-program/)).
 

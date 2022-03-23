@@ -1,7 +1,3 @@
----
-description: Seznam souvisejících událostí
----
-
 # Související události
 
 Přehled všech větších krypto události v ČR/SK.
@@ -10,6 +6,7 @@ Přehled všech větších krypto události v ČR/SK.
 
 | Datum         | Místo                      | Návš. | Název                                                                                       |
 | ------------- | -------------------------- | ----- | ------------------------------------------------------------------------------------------- |
+| 30.4.         | Praha, Hotel Aquapalace    | 50    | [Bitcoin do firem](https://bitcoindofirem.cz)                                               |
 | 7.5.          | Zlín, UTB                  | ?     | ?                                                                                           |
 | 7.5.          | Liberec                    | 550   | [CryptoByte 2022](https://cryptobyte.cz)                                                    |
 | 28.5.         | Praha, CEVRO               | ?     | [Konference Svobodného Přístavu](https://konference.urza.cz)                                |
