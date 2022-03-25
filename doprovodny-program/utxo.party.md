@@ -25,7 +25,7 @@ Party se uskuteční v sobotu 4. června, od 20:00 hodin do 02:00. K dispozici b
 ### Electronic stage
 
 * Čas: 20:00 - 02:00 (6 hodin)
-* Dramaturgie: [Dmitrij Malyšev](https://www.facebook.com/dmitry.malyshev) (Neo Violence/CZ)
+* Dramaturgie: [Dmitrij Malyšev](https://www.facebook.com/dmitry.malyshev) \[dMIT.RY] (Neo Violence/CZ)
 * VJs: [Trippl-Krippl VJs](https://www.facebook.com/tripplkrippl) (Plzeň, CZ)
 
 ## **Chillout zóny**
