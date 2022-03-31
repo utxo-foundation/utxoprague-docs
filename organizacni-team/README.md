@@ -19,12 +19,6 @@ Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEt
 * Zástupce [Holky v Kryptu](https://holkyvkryptu.cz)
 * Twitter: [@tatereza5](https://twitter.com/tatereza5)
 
-### ![](../.gitbook/assets/tree-circle.png) Tree
-
-* **dramaturgie, organizační nástroje, ticketing**
-* Zástupce [Gwei.cz](http://gwei.cz) a [BohemianDAO](http://bohemiandao.cz)
-* Twitter: [@treecz](https://twitter.com/treecz) / Telegram: [@treecz](https://t.me/treecz) / Email: [tree@hidden.cz](mailto:tree@hidden.cz)
-
 ### ![](../.gitbook/assets/vojtch-circle.png) Vojtch
 
 * **budget, sponzoři**
