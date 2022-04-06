@@ -19,9 +19,9 @@ Vstupenky bude možné zakoupit v předprodeji společně se vstupenkou na UTXO.
 
 ### Pátek 3. června 2022
 
-| Kdy       | Film                                                                 | Popis                                    |
-| --------- | -------------------------------------------------------------------- | ---------------------------------------- |
-| **18:30** | [Libertas](https://www.csfd.cz/film/926287-libertas/prehled/) (2020) | slovensko-český dokument, debata s hosty |
+| Kdy           | Film                                                                 | Popis                                                               |
+| ------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| TBD (\~18:30) | [Libertas](https://www.csfd.cz/film/926287-libertas/prehled/) (2020) | <p>slovensko-český dokument<br>Hosté: Juraj Bednár, Mario Havel</p> |
 
 ### Návrhy dalších filmů
 
