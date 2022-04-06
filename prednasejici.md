@@ -65,7 +65,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **49**
+Celkem přednášejících: **50**
 
 _(abecedně)_
 
@@ -115,6 +115,7 @@ _(abecedně)_
 | [**RΞSISTANCΞ**](https://twitter.com/reesistancee)                           |                                                                                                                                                                                 |
 | **Soňa Parke**                                                               | Zakladatelka [Holky v Kryptu](https://holkyvkryptu.cz/)                                                                                                                         |
 | [**Stanislav Hruška**](https://twitter.com/StandaShow) (StandaShow)          | Zakladatel [talktv.cz](https://www.talktv.cz/), YT kanál [StandaShow](https://www.youtube.com/c/StandaShow/videos)                                                              |
+| [**Tereza Starostová**](https://twitter.com/tatereza5)                       | [Holky v Kryptu](https://holkyvkryptu.cz/), [UTXO Foundation](httsp://utxo.foundation)                                                                                          |
 | [**Tomáš Kalabis**](https://twitter.com/hernakrypto) (Fetyas)                | YT kanál [KryptoHerna](https://www.youtube.com/channel/UCOgYjFqYfUnXo5DK9HceAMw)                                                                                                |
 | [**Tomáš Zdražil**](https://twitter.com/investree_cz)                        | [Investree](https://investree.cz)                                                                                                                                               |
 | [**Urza**](https://twitter.com/urzanarchy)                                   | Zakladatel [Svobodného přístavu](https://pristav.urza.cz/), vedoucí [CZ/SK Mises Institutu](https://www.mises.cz/), člen projektu [Svoboda učení](https://www.svobodauceni.cz/) |
