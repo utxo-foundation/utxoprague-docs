@@ -34,9 +34,9 @@ _(abecedně)_
 * Zakladatel [Bordel Hackerspace](https://bordel.paralelnipolis.cz/#/), člen [Paralelní Polis](https://www.paralelnipolis.cz/)
 * Twitter: [@TMIYChao](https://twitter.com/TMIYChao)
 
-### ![](https://spec.utxo.cz/22/photos/speakers/michael-chobanian-sm.png) Michael Chobanian (Михайло Чобанян)
+### ![](https://spec.utxo.cz/22/photos/speakers/michael-chobanian-sm.png) Michael Chobanian
 
-* undefined
+* Zakladatel první veřejné krypto burzy ve východní Evropě a [SNS](https://cs.wikipedia.org/wiki/Spole%C4%8Denstv%C3%AD_nez%C3%A1visl%C3%BDch_st%C3%A1t%C5%AF)
 * Zakladatel [KUNA Exchange](https://kuna.io/), prezident [Blockchain Association of Ukraine](https://bau.ai/)
 * Twitter: [@ChobanianMike](https://twitter.com/ChobanianMike)
 
@@ -53,7 +53,7 @@ _(abecedně)_
 
 ### ![](https://spec.utxo.cz/22/photos/speakers/stanislav-hruska-sm.png) Stanislav Hruška
 
-* Youtuber a streamer
+* Youtuber a streamer pro dospělé
 * Zakladatel [talktv.cz](https://www.talktv.cz/), YT kanál [StandaShow](https://www.youtube.com/c/StandaShow/videos)
 * Twitter: [@StandaShow](https://twitter.com/StandaShow)
 
@@ -89,7 +89,7 @@ _(abecedně)_
 | [**Jaromír Tesař**](https://twitter.com/JaromirTesar)                        | [Cardanians](https://cardanians.io/cs)                                                                                                                                          |
 | [**Jiří Čepelka**](https://twitter.com/JiriCepelka)                          |                                                                                                                                                                                 |
 | [**Josef Gattermayer**](https://twitter.com/jgattermayer)                    | Spoluzakladatel [Ackee](https://www.ackee.cz/) a [Ackee Blockchain](https://ackeeblockchain.com/)                                                                               |
-| [**JosefJ**](https://twitter.com/JosefJ_)                                    |                                                                                                                                                                                 |
+| [**JosefJ**](https://twitter.com/JosefJ_)                                    | [PWN Finance](https://pwn.finance/)                                                                                                                                             |
 | [**Juraj Bednár**](https://twitter.com/jurbed)                               | Spoluzakladatel [Hacktrophy](https://hacktrophy.com/sk/), člen [Paralelné Polis](https://paralelnapolis.sk)                                                                     |
 | [**Krypto Tomas CZ**](https://twitter.com/KryptoTomasCZ)                     | Člen [KryptoVláďa](https://www.kryptovlada.win) komunity                                                                                                                        |
 | [**Lenka Hudáková**](https://twitter.com/LenklaH)                            | Vedení projektu [Sustainable Ecosystem Scaling core unit @ MakerDAO](https://ses.makerdao.network/)                                                                             |
@@ -99,7 +99,7 @@ _(abecedně)_
 | [**Mark Stopka**](https://twitter.com/LiberalMark)                           |                                                                                                                                                                                 |
 | [**Martin Gregor**](https://twitter.com/ZaujaloMa) (ZaujaloMa)               | YT kanál [Zaujalo ma Krypto & FinTech](https://www.youtube.com/channel/UCOn72OUpmWhnNuHl04qmRzg)                                                                                |
 | [**Matthew Cook**](https://twitter.com/Matyas44Cook)                         |                                                                                                                                                                                 |
-| [**Michael Chobanian (Михайло Чобанян)**](https://twitter.com/ChobanianMike) | Zakladatel [KUNA Exchange](https://kuna.io/), prezident [Blockchain Association of Ukraine](https://bau.ai/)                                                                    |
+| [**Michael Chobanian**](https://twitter.com/ChobanianMike) (Михайло Чобанян) | Zakladatel [KUNA Exchange](https://kuna.io/), prezident [Blockchain Association of Ukraine](https://bau.ai/)                                                                    |
 | [**Michael Repetný**](https://twitter.com/repetny)                           | [Marinade.finance](https://marinade.finance/)                                                                                                                                   |
 | [**Michaela Malatin**](https://twitter.com/malatinmichaela)                  | Spoluzakladatelka [Holky v kryptu](https://holkyvkryptu.cz/)                                                                                                                    |
 | **Mirek H**                                                                  | Člen [KryptoVláďa](https://www.kryptovlada.win) komunity                                                                                                                        |
