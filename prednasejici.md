@@ -65,7 +65,7 @@ _(abecedně)_
 
 ## Seznam všech přednášejících
 
-Celkem přednášejících: **50**
+Celkem přednášejících: **51**
 
 _(abecedně)_
 
@@ -102,6 +102,7 @@ _(abecedně)_
 | [**Michael Repetný**](https://twitter.com/repetny)                           | [Marinade.finance](https://marinade.finance/)                                                                                                                                   |
 | [**Michaela Malatin**](https://twitter.com/malatinmichaela)                  | Spoluzakladatelka [Holky v kryptu](https://holkyvkryptu.cz/)                                                                                                                    |
 | **Mirek H**                                                                  | Člen [KryptoVláďa](https://www.kryptovlada.win) komunity                                                                                                                        |
+| **Ondřej Vostal**                                                            | Zakladatel [Chainkeepers](https://www.chainkeepers.io/)                                                                                                                         |
 | [**Pavel Přecechtěl**](https://twitter.com/homershillson) (HomΞr Shillson)   | [VR Education](https://vreducation.cz)                                                                                                                                          |
 | [**Pavel Říha**](https://twitter.com/metapavel) (MetaPavel)                  | [Futureland](https://futureland.io/)                                                                                                                                            |
 | [**Petr Klein**](https://twitter.com/kleinptr)                               |                                                                                                                                                                                 |
