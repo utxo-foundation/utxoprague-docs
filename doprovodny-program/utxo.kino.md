@@ -1,12 +1,14 @@
 ---
-description: Pátek, 3. června 2022 18:30, Kino Světozor
+description: Pátek, 3. června 2022 18:00, Kino Světozor
 ---
 
 # UTXO.Kino
 
 V rámci širšího záběru konference, chceme nabídnout i různý doprovodný obsah a jedním z nich je i promítání dokumentárních filmů o kryptoměnách. Promítání se uskuteční v **pátek 3. června 2022** večer v [kině Světozor](utxo.kino.md#kino-svetozor-velky-sal). Po filmu bude následovat debata s hosty.
 
-Vstupenky bude možné zakoupit v předprodeji společně se vstupenkou na UTXO.22 (max 150 míst, odhad polovina března), nebo poté skrz běžný prodejní systém kina (duben-květen).
+Vstupenky bude možné zakoupit v předprodeji společně se vstupenkou na UTXO.22 (max 100 míst), nebo poté skrz běžný prodejní systém kina (duben-květen).
+
+👉 [Facebook událost](https://www.facebook.com/events/1349383142245910/)
 
 ## **Kino Světozor** - velký sál
 
@@ -17,11 +19,9 @@ Vstupenky bude možné zakoupit v předprodeji společně se vstupenkou na UTXO.
 
 ## Program
 
-### Pátek 3. června 2022
-
-| Kdy           | Film                                                                 | Popis                                                               |
-| ------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| TBD (\~18:30) | [Libertas](https://www.csfd.cz/film/926287-libertas/prehled/) (2020) | <p>slovensko-český dokument<br>Hosté: Juraj Bednár, Mario Havel</p> |
+| Kdy                                                                                                           | Film                                                                 | Popis                                                               |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| <p>pátek 3.6. 18:00<br>(<a href="https://www.facebook.com/events/1349383142245910/">Facebook událost</a>)</p> | [Libertas](https://www.csfd.cz/film/926287-libertas/prehled/) (2020) | <p>slovensko-český dokument<br>Hosté: Juraj Bednár, Mario Havel</p> |
 
 ### Návrhy dalších filmů
 
