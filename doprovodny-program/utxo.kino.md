@@ -12,6 +12,10 @@ Vstupenky bude možné zakoupit v předprodeji společně se vstupenkou na UTXO.
 
 Tuto událost pro vás připravujeme společně s libereckou konferencí [CryptoByte](https://cryptobyte.cz).
 
+* Začátek promítání v 18:00.
+* Délka filmu: 63 minut.&#x20;
+* Následná diskuze a zakončení programu v cca 20:30.
+
 👉 [Facebook událost](https://www.facebook.com/events/1349383142245910/)
 
 | Kdy a kde                                | Film                                                                 | Popis                                                               |
