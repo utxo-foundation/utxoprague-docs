@@ -12,24 +12,22 @@
 * [x] Profily na [sociálních sítích](propagace/)
 * [x] Zveřejnění konference (_soft-launch_)
 
-### Únor 2022
-
 ### Březen 2022
+
+* [x] Spuštění marketingové kampaně
+
+### Duben 2022
 
 * [ ] Logo a vizuální identita konference
 * [ ] [Webová prezentace](propagace/webove-stranky.md) (V1)
 * [ ] Oficiální oznámení konference (_hard-launch)_
 * [ ] Konečné informace o vstupném a distribuci vstupenek
 * [ ] První vlna [vstupenek](navstevnici/vstupenky.md)
-* [ ] Spuštění marketingové kampaně
-
-### Duben 2022
-
 * [ ] Druhá vlna vstupenek
-* [ ] Třetí vlna vstupenek
 
 ### Květen 2022
 
+* [ ] Třetí vlna vstupenek
 * [ ] Finální časový rozpis přednášek
 * [ ] Webová prezentace - interaktivní program (V3)
 * [ ] Uzavření programu
