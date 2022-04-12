@@ -13,13 +13,13 @@ Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEt
 
 ## UTXO.22 Core team
 
-### ![](../.gitbook/assets/tereza-circle.png) Tereza Starostová
+### <img src="../.gitbook/assets/tereza-circle.png" alt="" data-size="line"> Tereza Starostová
 
 * **místo konání, spolupráce, obecná organizace**
 * Zástupce [Holky v Kryptu](https://holkyvkryptu.cz)
 * Twitter: [@tatereza5](https://twitter.com/tatereza5)
 
-### ![](../.gitbook/assets/vojtch-circle.png) Vojtch
+### <img src="../.gitbook/assets/vojtch-circle.png" alt="" data-size="line"> Vojtch
 
 * **budget, sponzoři**
 * Zástupce [Bankless Czech](https://bankless.cz) a [Gwei.cz](http://gwei.cz)
