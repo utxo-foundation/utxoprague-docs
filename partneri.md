@@ -16,7 +16,7 @@ Hledáme každého, kdo může dát o UTXO.22 vědět svým divákům, poslucha�
 | [**Bitcoinovej Kanál komunita (BTCKNL)**](https://discord.gg/HWG9Erm)   | Bitcoinová komunita                                     |
 | [**CZ/SK NFT Community**](https://discord.gg/X4MV9Pn5P8)                | NFT komunita (RΞSISTANCΞ)                               |
 | [**KryptoVláďa komunita**](https://discord.gg/RHmhNGN)                  | DeFi/Ethereum/Polkadot/NEAR komunita                    |
-| [**Polkadotters**](https://twitter.com/PolkadottersS)                   | Polkadot komunita                                       |
+| [**Polkadotters**](https://twitter.com/Polkadotters1)                   | Polkadot komunita                                       |
 | [**Cardanians**](https://twitter.com/Cardanians_io)                     | Cardano komunita                                        |
 | [**KryptoHerna**](https://twitter.com/hernakrypto)                      | Blockchain gaming/metaverse komunita                    |
 | [**Česká kryptoměnová asociace - ČKMA**](https://twitter.com/CeskaCkma) | Spolek hájící zájmy podnikatelů v oblasti kryptoměn     |
