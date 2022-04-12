@@ -10,6 +10,10 @@ Vstupenky bude možné zakoupit v předprodeji společně se vstupenkou na UTXO.
 
 👉 [Facebook událost](https://www.facebook.com/events/1349383142245910/)
 
+| Kdy                                                                                                           | Film                                                                 | Popis                                                               |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| <p>Pátek 3.6. 18:00<br>(<a href="https://www.facebook.com/events/1349383142245910/">Facebook událost</a>)</p> | [Libertas](https://www.csfd.cz/film/926287-libertas/prehled/) (2020) | <p>slovensko-český dokument<br>Hosté: Juraj Bednár, Mario Havel</p> |
+
 ## **Kino Světozor** - velký sál
 
 * Web: [https://www.kinosvetozor.cz/](https://www.kinosvetozor.cz)
@@ -17,18 +21,7 @@ Vstupenky bude možné zakoupit v předprodeji společně se vstupenkou na UTXO.
 
 ![](<../.gitbook/assets/kino-svetozor02 (1).jpeg>)
 
-## Program
-
-| Kdy                                                                                                           | Film                                                                 | Popis                                                               |
-| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| <p>pátek 3.6. 18:00<br>(<a href="https://www.facebook.com/events/1349383142245910/">Facebook událost</a>)</p> | [Libertas](https://www.csfd.cz/film/926287-libertas/prehled/) (2020) | <p>slovensko-český dokument<br>Hosté: Juraj Bednár, Mario Havel</p> |
-
-### Návrhy dalších filmů
-
-* [Cryptopia](https://www.imdb.com/title/tt9203586/) (2020)
-* [Hopium Diaries](https://www.youtube.com/watch?v=v1Z5BnBuFyE) (2021)
-
 ## Organizátoři
 
 * [Dušan Kmetyo](https://twitter.com/DusanKmetyo)
-* [Tree](https://twitter.com/treecz)
+* [UTXO.22 Team](../organizacni-team/)
