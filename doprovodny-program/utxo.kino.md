@@ -14,9 +14,9 @@ Tuto událost pro vás připravujeme společně s libereckou konferencí [Crypto
 
 👉 [Facebook událost](https://www.facebook.com/events/1349383142245910/)
 
-| Kdy              | Film                                                                 | Popis                                                               |
-| ---------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| Pátek 3.6. 18:00 | [Libertas](https://www.csfd.cz/film/926287-libertas/prehled/) (2020) | <p>slovensko-český dokument<br>Hosté: Juraj Bednár, Mario Havel</p> |
+| Kdy a kde                                | Film                                                                 | Popis                                                               |
+| ---------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| <p>Pátek 3.6. 18:00<br>Kino Světozor</p> | [Libertas](https://www.csfd.cz/film/926287-libertas/prehled/) (2020) | <p>slovensko-český dokument<br>Hosté: Juraj Bednár, Mario Havel</p> |
 
 ## **Kino Světozor** - velký sál
 
