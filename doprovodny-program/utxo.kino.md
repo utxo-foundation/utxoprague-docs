@@ -10,9 +10,9 @@ Vstupenky bude možné zakoupit v předprodeji společně se vstupenkou na UTXO.
 
 👉 [Facebook událost](https://www.facebook.com/events/1349383142245910/)
 
-| Kdy                                                                                                           | Film                                                                 | Popis                                                               |
-| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| <p>Pátek 3.6. 18:00<br>(<a href="https://www.facebook.com/events/1349383142245910/">Facebook událost</a>)</p> | [Libertas](https://www.csfd.cz/film/926287-libertas/prehled/) (2020) | <p>slovensko-český dokument<br>Hosté: Juraj Bednár, Mario Havel</p> |
+| Kdy              | Film                                                                 | Popis                                                               |
+| ---------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Pátek 3.6. 18:00 | [Libertas](https://www.csfd.cz/film/926287-libertas/prehled/) (2020) | <p>slovensko-český dokument<br>Hosté: Juraj Bednár, Mario Havel</p> |
 
 ## **Kino Světozor** - velký sál
 
