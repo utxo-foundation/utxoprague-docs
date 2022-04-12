@@ -18,7 +18,7 @@
   * [Formáty programu](hlavni-program/formaty-programu.md)
   * [Lightning Talks](hlavni-program/lightning-talks.md)
 * [Doprovodný program](doprovodny-program/README.md)
-  * [UTXO.Kino](doprovodny-program/utxo.kino.md)
+  * [KryptoKino 3.6.](doprovodny-program/utxo.kino.md)
   * [UTXO.Party](doprovodny-program/utxo.party.md)
 * [Služby návštěvníkům](sluzby-navstevnikum/README.md)
   * [Chillout zóna](sluzby-navstevnikum/chillout-zona.md)
