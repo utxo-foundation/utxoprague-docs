@@ -39,7 +39,6 @@
   * [Kodex konference](organizacni-team/kodex-konference.md)
 * [Partneři](partneri.md)
 * [Sponzoři](sponzori.md)
-* [FAQ](faq.md)
 
 ## Crypto Days
 
