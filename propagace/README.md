@@ -10,7 +10,3 @@
 | [Facebook](https://www.facebook.com/events/276727151106692) | Tree + Gwei.cz admini             |
 | [Substack](https://utxoprague.substack.com) (newsletter)    | Tree, Tereza, Vojtch, JiriCepelka |
 
-## **Web**
-
-Viz. stránka [Webové stránky](webove-stranky.md).
-

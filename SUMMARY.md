@@ -40,9 +40,9 @@
 * [Partneři](partneri.md)
 * [Sponzoři](sponzori.md)
 
-## Crypto Days
+## Blockchain Week
 
-* [Prague Blockchain Week '22](crypto-days/prague-crypto-days-22.md)
+* [Prague Blockchain Week '22](blockchain-week/prague-crypto-days-22.md)
 
 ***
 

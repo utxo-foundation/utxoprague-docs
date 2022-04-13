@@ -13,14 +13,14 @@ description: 4.-5. červen 2022, Praha 🇨🇿 - Otevřená kryptoměnová komu
 Díky rozsáhlému programu, který obsahuje více než **100 hodin přednášek a workshopů**, můžeme nabídnout obsah jak široké veřejnosti, tak pokročilým uživatelům.
 
 {% hint style="success" %}
-V současnosti máme potvrzených [40+ přednášejících](prednasejici.md), mezi ty nejvýznamnější patří, např. **Dominik Stroukal**, **Juraj Bednár**, **Petr Mára** nebo **Urza**.
+V současnosti máme potvrzených [50+ přednášejících](https://utxo.cz), mezi ty nejvýznamnější patří, např. **Dominik Stroukal**, **Juraj Bednár**, **Petr Mára** nebo **Urza**.
 {% endhint %}
 
 Naším cílem je představit a vzdělávat širokou krypto-veřejnost v oblasti otevřených blockchainů, jejich základních principů, jako je **decentralizace, neutralita, otevřenost, spolupráce** a souvisejících témat. Ukázat výhody, představit případy použití a zároveň prohloubit důvěru v jejich používání s důrazem na bezpečnost.
 
 Velkým přínosem konference bude **propojení veřejnosti s širší kryptoměnovou komunitou** a zároveň **propojení jednotlivých komunit mezi sebou**, protože ty mají často tendenci mít oddělený obsah, akce a také publikum.
 
-V neposlední řadě je program cíleně naplánován tak, aby navazoval na další významné krypto a související akce v regionu, a nabízí tak vhodnou zastávku jak pro přednášející, tak pro posluchače. **Konference je jednou z hlavních součástí iniciativy** [**Prague Crypto Days**](crypto-days/prague-crypto-days-22.md), která se bude konat v Praze 3.-12. června - její součástí bude například i mezinárodní hackathon [ETHPrague](https://ethprague.com) (10-12. červen 2022).
+V neposlední řadě je program cíleně naplánován tak, aby navazoval na další významné krypto a související akce v regionu, a nabízí tak vhodnou zastávku jak pro přednášející, tak pro posluchače. **Konference je jednou z hlavních součástí iniciativy** [**Prague Crypto Days**](blockchain-week/prague-crypto-days-22.md), která se bude konat v Praze 3.-12. června - její součástí bude například i mezinárodní hackathon [ETHPrague](https://ethprague.com) (10-12. červen 2022).
 
 ![Gabriel Loci - místo konání konference](.gitbook/assets/gabriel-loci-outside.jpeg) ![Rajská zahrada - hlavní přednáškový sál](.gitbook/assets/gabriel-loci-rajska-zahrada.jpeg)
 
@@ -58,7 +58,7 @@ Veškeré informace o konferenci se snažíme transparentně publikovat v rámci
 
 ## Současný stav
 
-Máme rezervované místo konání a potvrzené první [sponzory](sponzori.md) a [přednášející](prednasejici.md). Ve výrobě jsou také  [stránky konference](propagace/webove-stranky.md), které by měli být v základní verzi hotové s oficiálním oznámení konference na začátku ledna. První vlna vstupenek je očekávána během února. Další zásadní milníky, které nás čekají, naleznete na stránce [Roadmap](roadmap.md).
+Máme rezervované místo konání a potvrzené první [sponzory](sponzori.md) a [přednášející](broken-reference). Ve výrobě jsou také  [stránky konference](propagace/webove-stranky.md), které by měli být v základní verzi hotové s oficiálním oznámení konference na začátku ledna. První vlna vstupenek je očekávána během února. Další zásadní milníky, které nás čekají, naleznete na stránce [Roadmap](roadmap.md).
 
 ## Kde nás najdete
 
