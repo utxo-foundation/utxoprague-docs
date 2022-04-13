@@ -1,10 +1,12 @@
 # Vstupenky
 
-Vstupné bude placené - k dispozici budou 2-denní vstupenky ve 3 vlnách.
+Vstupné je placené - k dispozici jsou 2-denní vstupenky ve 3 vlnách.
+
+👉 [Koupit vstupenky](https://utxo.cz/vstupenky)
 
 ## Jak to bude fungovat?
 
-Vstupenky budou k zakoupení na našem webu prostřednictvím kryptoměn (BTC/Lightning), nebo platební kartou.
+Vstupenky jsou k zakoupení na našem webu prostřednictvím kryptoměn (BTC/Lightning), nebo platební kartou.
 
 Každá zakoupená vstupenka bude mít ekvivalent QR kódu, který bude stačit ukázat v jakékoliv formě u vstupu.
 

@@ -18,11 +18,11 @@
 
 ### Duben 2022
 
-* [ ] Logo a vizuální identita konference
-* [ ] [Webová prezentace](propagace/webove-stranky.md) (V1)
-* [ ] Oficiální oznámení konference (_hard-launch)_
-* [ ] Konečné informace o vstupném a distribuci vstupenek
-* [ ] První vlna [vstupenek](navstevnici/vstupenky.md)
+* [x] Logo a vizuální identita konference
+* [x] [Webová prezentace](propagace/webove-stranky.md) (V1)
+* [x] Oficiální oznámení konference (_hard-launch)_
+* [x] Konečné informace o vstupném a distribuci vstupenek
+* [x] První vlna [vstupenek](navstevnici/vstupenky.md)
 * [ ] Druhá vlna vstupenek
 
 ### Květen 2022
