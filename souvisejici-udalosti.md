@@ -7,8 +7,8 @@ Přehled všech větších krypto události v ČR/SK.
 | Datum         | Místo                      | Návš. | Název                                                                                       |
 | ------------- | -------------------------- | ----- | ------------------------------------------------------------------------------------------- |
 | 30.4.         | Praha, Hotel Aquapalace    | 50    | [Bitcoin do firem](https://bitcoindofirem.cz)                                               |
-| 7.5.          | Zlín, UTB                  | ?     | ?                                                                                           |
-| 7.5.          | Liberec                    | 550   | [CryptoByte 2022](https://cryptobyte.cz)                                                    |
+| 30.4          | Zlín, UTB                  | ?     | [Block'22](https://www.blockchain-konference.cz)                                            |
+| 7.5.          | Liberec                    | 550   | [CryptoByte 2022](https://cryptobyte.cz) **🤝**                                             |
 | 28.5.         | Praha, CEVRO               | ?     | [Konference Svobodného Přístavu](https://konference.urza.cz)                                |
 | **4.-5.6.**   | **Praha, Gabriel Loci**    | 1000  | **UTXO.22** (tato konference)                                                               |
 | **10.-12.6.** | **Praha, Paralelní Polis** | ?     | ****[**ETHPrague 2022**](https://twitter.com/EthPrague) **🤝**                              |

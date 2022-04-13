@@ -6,4 +6,4 @@
 * Počet vstupů: 1
 * Web: [https://www.gabrielloci.com/pronajmy/sloupovy-sal/](https://www.gabrielloci.com/pronajmy/sloupovy-sal/)
 
-![](../../.gitbook/assets/gabriel-loci-sloupcovy-sal.jpeg)
+![](<../../.gitbook/assets/gabriel-loci-sloupcovy-sal (1).jpeg>)
