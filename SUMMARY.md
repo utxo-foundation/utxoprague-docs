@@ -42,7 +42,7 @@
 
 ## Crypto Days
 
-* [Prague Crypto Days '22](crypto-days/prague-crypto-days-22.md)
+* [Prague Blockchain Week '22](crypto-days/prague-crypto-days-22.md)
 
 ***
 
