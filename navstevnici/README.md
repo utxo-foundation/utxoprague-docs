@@ -10,7 +10,7 @@ Na druhou stranu, nejsme ani konference pro kryptoměnové experty a čistě odb
 
 Následující obrázek vyjadřuje podíl návštěvníků podle obecné úrovně znalosti kryptoměn a souvisejících technologií - tak jak ho předběžně projektujeme.
 
-![](../.gitbook/assets/navrh-distribuce-utxo.png)
+![](../.gitbook/assets/podil-navstevniku.png)
 
 ## Vstupenky
 

@@ -11,7 +11,6 @@
     * [Knihovna](misto-konani/prehled-salu/knihovna.md)
     * [Koupelnový sál](misto-konani/prehled-salu/koupelnovy-sal.md)
     * [Ošklivý sál](misto-konani/prehled-salu/osklivy-sal.md)
-* [Přednášející](prednasejici.md)
 * [Návštěvníci](navstevnici/README.md)
   * [Vstupenky](navstevnici/vstupenky.md)
 * [Hlavní program](hlavni-program.md)
