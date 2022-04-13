@@ -20,7 +20,7 @@ Základní informace o konferenci a datové sady ve formátu JSON (read-only).
 
 Další informace naleznete v hlavním "utxo" GitHub repozitáři:
 
-{% embed url="https://github.com/gweicz/utxo" %}
+{% embed url="https://github.com/utxo-foundation/utxo" %}
 
 ## Real-time API
 

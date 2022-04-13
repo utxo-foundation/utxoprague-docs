@@ -15,7 +15,6 @@
   * [Vstupenky](navstevnici/vstupenky.md)
 * [Hlavní program](hlavni-program.md)
   * [Formáty programu](hlavni-program/formaty-programu.md)
-  * [Lightning Talks](hlavni-program/lightning-talks.md)
 * [Doprovodný program](doprovodny-program/README.md)
   * [KryptoKino 3.6.](doprovodny-program/kryptokino.md)
   * [UTXO.Party](doprovodny-program/utxo.party.md)
