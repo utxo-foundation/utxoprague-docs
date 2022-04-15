@@ -16,7 +16,7 @@ Odkazy na převzetí vstupenek vám budou zaslány do konce dubna.
 
 Na vaši emailovou adresu, kterou zadáte při [převzetí vstupenky](pro-prednasejici.md#undefined) vám zašleme finální instrukce před konferencí.
 
-### Real-time komunikace
+### Telegram, Signal
 
 Vytvořili jsme také speciální soukromé kanály pro všechny přednášející na platformách Signal a Telegram, kde vás budeme informovat o relevantních novinkách trošku častěji a vy se nás můžete ptát na důležité otázky.&#x20;
 
