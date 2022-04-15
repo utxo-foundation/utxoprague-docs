@@ -14,7 +14,7 @@ Odkazy na převzetí vstupenek vám budou zaslány do konce dubna.
 
 ### Email
 
-Na vaši emailovou adresu, kterou zadáte při [převzetí vstupenky](pro-prednasejici.md#undefined) vám zašleme finální instrukce před konferencí.
+Na vaši emailovou adresu, kterou zadáte při převzetí vstupenky vám zašleme finální instrukce před konferencí.
 
 ### Telegram, Signal
 
