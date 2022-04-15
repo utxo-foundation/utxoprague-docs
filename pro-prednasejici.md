@@ -31,6 +31,18 @@ _(tyto kanály jsou soukromé, takže je nutné vyčkat na schválení)_
 
 Pro hlubší debatu a konkrétní working groups, se připojte na náš [Discord](https://discord.gg/5k9dEtVhnv).
 
+## Program
+
+Veškerý nahlášený obsah naleznete na našem webu v sekci [Program](https://utxo.cz/program).
+
+Svoje přednášky nebo workshopy můžete přidávat nebo upravovat a) sami přes náš [GitHub repozitář](https://github.com/utxo-foundation/utxo/tree/master/spec/22), b) nebo tak že kontaktujete vašeho konferenčního koordinátora.
+
+Standartní čas pro přednášku je 45-55 minut včetně diskuze (hodinový blok).
+
+### Uzávěrka programu
+
+Program plánujeme uzavřít zhruba 1-2 týdny před konferencí, a ve stejnou dobu vznikne konkrétní časový rozpis.
+
 ## Vybavení sálů
 
 Ve všech přednáškových a workshopových sálech bude k dispozici projektor. Očekáváme, že si každý přednášející přinese svůj vlastní notebook, který přes HDMI konektor na projektor napojí. Budou k dispozici různé redukce.
