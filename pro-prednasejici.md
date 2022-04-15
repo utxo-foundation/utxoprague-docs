@@ -4,11 +4,17 @@ description: Instrukce pro přednášející
 
 # Pro přednášející
 
+## Vstupenky
+
+**Jako přednášející máte samozřejmě vstupenku zdarma.** Každý přednášející má také nárok na jednu další vstupenku zdarma pro doprovod.
+
+Odkazy na převzetí vstupenek vám budou zaslány do konce dubna.
+
 ## Komunikační kanály
 
 ### Email
 
-Na konci dubna vám budou zaslány odkazy na převzetí vstupenky. Během procesu převzetí od vás získáme emailovou adresu, na kterou vám zašleme finální instrukce před konferencí.
+Na vaši emailovou adresu, kterou zadáte při [převzetí vstupenky](pro-prednasejici.md#undefined) vám zašleme finální instrukce před konferencí.
 
 ### Real-time komunikace
 
@@ -29,7 +35,19 @@ Pro hlubší debatu a konkrétní working groups, se připojte na náš [Discord
 
 Ve všech přednáškových a workshopových sálech bude k dispozici projektor. Očekáváme, že si každý přednášející přinese svůj vlastní notebook, který přes HDMI konektor na projektor napojí. Budou k dispozici různé redukce.
 
+Hlavní 3 přednáškové sály budou nahrávané a [žive streamované](utxo.tv-livestream.md), takže bude nutné využít mikrofon.
+
 ## Průběh přednášky/workshopu
+
+TODO
+
+## Praktické informace
+
+### Jídlo a pití
+
+Pitná voda bude zdarma. Veškeré další jídlo a pití na konferenci bude [placené](catering.md), ale vynasnažíme se připravit pro přednášející alespoň nějaké malé pohoštění v zázemí.
+
+### Doprava
 
 TODO
 
