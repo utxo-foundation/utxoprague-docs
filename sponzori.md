@@ -13,6 +13,6 @@ Ozvěte se někomu z [Organizačního teamu](organizacni-team/).
 | ---------------------------------------------------------- | ----- |
 | [**dYdX Grants Program**](https://twitter.com/dydx_grants) |       |
 | [**MitonC**](https://twitter.com/mitoncfund)               |       |
-| [**Bitcoach**](https://twitter.com/BitC0ach)               |       |
+| [**Bitcoach.org**](https://twitter.com/BitC0ach)           |       |
 | [**Anycoin.cz**](https://twitter.com/anycoin_cz)           |       |
 
