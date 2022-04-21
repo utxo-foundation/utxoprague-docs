@@ -6,7 +6,9 @@ Kdokoliv s [GitHub](https://github.com) účtem může navrhnout úpravu těchto
 
 ### Krok 1. - volba datové sady
 
-Hlavní datové sady jsou:
+Pro otevření souboru datové sady využijte odkaz na soubor (viz. tabulka níže) nebo soubor nalezněte přímo v [repozitáři](https://github.com/utxo-foundation/utxo/tree/master/spec/22).
+
+#### Hlavní datové sady
 
 | Název                | Popis                                            | Soubor                                                                                           |
 | -------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
@@ -14,8 +16,6 @@ Hlavní datové sady jsou:
 | **Události**         | Seznam všech událostí a jejich detaily           | ``[`events.yaml`](https://github.com/utxo-foundation/utxo/blob/master/spec/22/events.yaml)``     |
 | **Partneři**         | Seznam všech partnerů a jejich detaily           | ``[`partners.yaml`](https://github.com/utxo-foundation/utxo/blob/master/spec/22/partners.yaml)`` |
 | **Programové sekce** | Seznam všech programových sekcí a jejich detaily | ``[`tracks.yaml`](https://github.com/utxo-foundation/utxo/blob/master/spec/22/tracks.yaml)``     |
-
-Pro otevření souboru datové sady využijte odkaz na soubor (viz. tabulka)nebo soubor nalezněte přímo v [repozitáři](https://github.com/utxo-foundation/utxo/tree/master/spec/22).
 
 ### Krok 2. - úprava dat
 
