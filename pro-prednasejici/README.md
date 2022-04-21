@@ -47,7 +47,7 @@ Program plánujeme uzavřít zhruba 1-2 týdny před konferencí, a ve stejnou d
 
 Ve všech přednáškových a workshopových sálech bude k dispozici projektor. Očekáváme, že si každý přednášející přinese svůj vlastní notebook, který přes HDMI konektor na projektor napojí. Budou k dispozici různé redukce.
 
-Hlavní 3 přednáškové sály budou nahrávané a [žive streamované](utxo.tv-livestream.md), takže bude nutné využít mikrofon.
+Hlavní 3 přednáškové sály budou nahrávané a [žive streamované](../utxo.tv-livestream.md), takže bude nutné využít mikrofon.
 
 ## Průběh přednášky/workshopu
 
@@ -57,7 +57,7 @@ TODO
 
 ### Jídlo a pití
 
-Pitná voda bude zdarma. Veškeré další jídlo a pití na konferenci bude [placené](catering.md), ale vynasnažíme se připravit pro přednášející alespoň nějaké malé pohoštění v zázemí.
+Pitná voda bude zdarma. Veškeré další jídlo a pití na konferenci bude [placené](../catering.md), ale vynasnažíme se připravit pro přednášející alespoň nějaké malé pohoštění v zázemí.
 
 ### Doprava
 
