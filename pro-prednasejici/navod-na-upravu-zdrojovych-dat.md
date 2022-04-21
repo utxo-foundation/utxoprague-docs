@@ -8,8 +8,6 @@ Kdokoliv s [GitHub](https://github.com) účtem může navrhnout úpravu těchto
 
 Pro otevření souboru datové sady využijte odkaz na soubor (viz. tabulka níže) nebo soubor nalezněte přímo v [repozitáři](https://github.com/utxo-foundation/utxo/tree/master/spec/22).
 
-#### Hlavní datové sady
-
 | Název                | Popis                                            | Soubor                                                                                           |
 | -------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
 | **Přednášející**     | Seznam všech přednášejících a jejich detaily     | ``[`speakers.yaml`](https://github.com/utxo-foundation/utxo/blob/master/spec/22/speakers.yaml)`` |
