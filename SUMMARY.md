@@ -33,7 +33,7 @@
   * [SRNA](experimenty/srna.md)
   * [Predikční trhy](experimenty/predikcni-trhy.md)
 * [API (datové zdroje)](api-datove-zdroje.md)
-* [Pro přednášející](pro-prednasejici/README.md)
+* [Pro přednášející](pro-prednasejici.md)
   * [Návod na úpravu zdrojových dat](pro-prednasejici/navod-na-upravu-zdrojovych-dat.md)
 * [Organizační team](organizacni-team/README.md)
   * [Koho hledáme](koho-hledame.md)

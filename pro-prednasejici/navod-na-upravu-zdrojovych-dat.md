@@ -6,14 +6,14 @@ Kdokoliv s [GitHub](https://github.com) účtem může navrhnout úpravu těchto
 
 ### Krok 1. - volba datové sady
 
-Aktuálně jsou k dispozici tyto datové sady:
+Hlavní datové sady jsou:
 
-| Název                | Popis                                            | Soubor          |
-| -------------------- | ------------------------------------------------ | --------------- |
-| **Přednášející**     | Seznam všech přednášejících a jejich detaily     | `speakers.yaml` |
-| **Události**         | Seznam všech událostí a jejich detaily           | `events.yaml`   |
-| **Partneři**         | Seznam všech partnerů a jejich detaily           | `partners.yaml` |
-| **Programové sekce** | Seznam všech programových sekcí a jejich detaily | `tracks.yaml`   |
+| Název                | Popis                                            | Soubor                                                                                           |
+| -------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| **Přednášející**     | Seznam všech přednášejících a jejich detaily     | ``[`speakers.yaml`](https://github.com/utxo-foundation/utxo/blob/master/spec/22/speakers.yaml)`` |
+| **Události**         | Seznam všech událostí a jejich detaily           | ``[`events.yaml`](https://github.com/utxo-foundation/utxo/blob/master/spec/22/events.yaml)``     |
+| **Partneři**         | Seznam všech partnerů a jejich detaily           | ``[`partners.yaml`](https://github.com/utxo-foundation/utxo/blob/master/spec/22/partners.yaml)`` |
+| **Programové sekce** | Seznam všech programových sekcí a jejich detaily | ``[`tracks.yaml`](https://github.com/utxo-foundation/utxo/blob/master/spec/22/tracks.yaml)``     |
 
 Pro otevření souboru datové sady využijte odkaz na soubor nebo soubor nalezněte přímo v [repozitáři](https://github.com/utxo-foundation/utxo/tree/master/spec/22).
 
