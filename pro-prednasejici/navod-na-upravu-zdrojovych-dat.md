@@ -15,7 +15,7 @@ Hlavní datové sady jsou:
 | **Partneři**         | Seznam všech partnerů a jejich detaily           | ``[`partners.yaml`](https://github.com/utxo-foundation/utxo/blob/master/spec/22/partners.yaml)`` |
 | **Programové sekce** | Seznam všech programových sekcí a jejich detaily | ``[`tracks.yaml`](https://github.com/utxo-foundation/utxo/blob/master/spec/22/tracks.yaml)``     |
 
-Pro otevření souboru datové sady využijte odkaz na soubor nebo soubor nalezněte přímo v [repozitáři](https://github.com/utxo-foundation/utxo/tree/master/spec/22).
+Pro otevření souboru datové sady využijte odkaz na soubor (viz. tabulka)nebo soubor nalezněte přímo v [repozitáři](https://github.com/utxo-foundation/utxo/tree/master/spec/22).
 
 ### Krok 2. - úprava dat
 
