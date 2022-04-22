@@ -13,7 +13,7 @@ description: 4.-5. červen 2022, Praha 🇨🇿 - Otevřená kryptoměnová komu
 Díky rozsáhlému programu, který obsahuje více než **100 hodin přednášek a workshopů**, můžeme nabídnout obsah jak široké veřejnosti, tak pokročilým uživatelům.
 
 {% hint style="success" %}
-V současnosti máme potvrzených [50+ přednášejících](https://utxo.cz), mezi ty nejvýznamnější patří, např. **Dominik Stroukal**, **Juraj Bednár**, **Petr Mára** nebo **Urza**.
+V současnosti máme potvrzených [60+ přednášejících](https://utxo.cz), mezi ty nejvýznamnější patří, např. **Dominik Stroukal**, **Juraj Bednár**, **Petr Mára** nebo **Urza**.
 {% endhint %}
 
 Naším cílem je představit a vzdělávat širokou krypto-veřejnost v oblasti otevřených blockchainů, jejich základních principů, jako je **decentralizace, neutralita, otevřenost, spolupráce** a souvisejících témat. Ukázat výhody, představit případy použití a zároveň prohloubit důvěru v jejich používání s důrazem na bezpečnost.
@@ -42,7 +42,7 @@ Kromě hlavní konference proběhne pod naší záštitou, nebo v režii partner
 
 ## Kdo jsme?
 
-Jsme spolek sdružující několik českých kryptokomunit, které se věnují vzdělávání v oblasti blockchainu a kryptoměn.
+Jsme spolek [UTXO Foundation, z.s.](http://utxo.foundation) sdružující několik českých kryptokomunit, které se věnují vzdělávání v oblasti blockchainu a kryptoměn.
 
 Česko-slovenskou komunitu okolo Etherea a DeFi [**Gwei.cz**](https://gwei.cz) & [**BohemianDAO**](http://bohemiandao.cz), **** místní pobočku [**Bankless Czech**](https://bankless.cz) **** a organizace [**Holky v Kryptu**](https://holkyvkryptu.cz)**,** podporující a pořádající akce a aktivity zaměřené na oslovení začínajících a mírně pokročilých uživatelů.
 
