@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Co je to UTXO.22?](README.md)
+  * [Filozofie konference](readme/filozofie-konference.md)
 * [Roadmap](roadmap.md)
 * [Místo konání](misto-konani/README.md)
   * [Přehled sálů](misto-konani/prehled-salu/README.md)
