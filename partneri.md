@@ -20,6 +20,7 @@ Hledáme každého, kdo může dát o UTXO.22 vědět svým divákům, poslucha�
 | [**Cardanians**](https://twitter.com/Cardanians_io)                     | Cardano komunita                                    |
 | [**KryptoHerna**](https://twitter.com/hernakrypto)                      | Blockchain gaming/metaverse komunita                |
 | [**Česká kryptoměnová asociace - ČKMA**](https://twitter.com/CeskaCkma) | Spolek hájící zájmy podnikatelů v oblasti kryptoměn |
+| [**DAO všech slovanských národů**](https://twitter.com/SlavicDAO)       | DAO snažící se propojit slovanskou komunitu         |
 
 ## Mediální partneři
 
