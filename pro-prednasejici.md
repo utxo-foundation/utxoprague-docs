@@ -10,7 +10,7 @@ description: Instrukce pro přednášející
 
 Odkazy na převzetí vstupenek vám budou zaslány do konce dubna.
 
-## Komunikační kanály
+## Komunikace s organizátory
 
 ### Email
 
