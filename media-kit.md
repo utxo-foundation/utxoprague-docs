@@ -8,6 +8,26 @@ Veškeré zdrojové soubory naleznete v našem GitHub repozitáři "utxo" ve slo
 
 ## Logo
 
+### Klasické logo - modrý text, bíle pozadí
+
+![](.gitbook/assets/logo-full-blue-500px.png)
+
+* SVG: [https://spec.utxo.cz/22/media-kit/logo-full-blue.svg](https://spec.utxo.cz/22/media-kit/logo-full-blue.svg)
+* PNG:
+  * \[1000px]: [https://spec.utxo.cz/22/media-kit/generated/logo-full-blue-1000px.png](https://spec.utxo.cz/22/media-kit/generated/logo-full-blue-1000px.png)
+  * \[500px]: [https://spec.utxo.cz/22/media-kit/generated/logo-full-blue-500px.png](https://spec.utxo.cz/22/media-kit/generated/logo-full-blue-500px.png)
+  * \[250px]: [https://spec.utxo.cz/22/media-kit/generated/logo-full-blue-250px.png](https://spec.utxo.cz/22/media-kit/generated/logo-full-blue-250px.png)
+
+### Klasické logo - modrý text, transparentní
+
+![](.gitbook/assets/logo-full-blue-transparent-500px.png)
+
+* SVG: [https://spec.utxo.cz/22/media-kit/logo-full-blue-transparent.svg](https://spec.utxo.cz/22/media-kit/logo-full-blue-transparent.svg)
+* PNG:
+  * \[1000px]: [https://spec.utxo.cz/22/media-kit/generated/logo-full-blue-transparent-1000px.png](https://spec.utxo.cz/22/media-kit/generated/logo-full-blue-transparent-1000px.png)
+  * \[500px]: [https://spec.utxo.cz/22/media-kit/generated/logo-full-blue-transparent-500px.png](https://spec.utxo.cz/22/media-kit/generated/logo-full-blue-transparent-500px.png)
+  * \[250px]: [https://spec.utxo.cz/22/media-kit/generated/logo-full-blue-transparent-250px.png](https://spec.utxo.cz/22/media-kit/generated/logo-full-blue-transparent-250px.png)
+
 ### Klasické logo - bílý text, modré pozadí
 
 ![](.gitbook/assets/logo-full-white-500px.png)
