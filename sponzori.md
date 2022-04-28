@@ -13,7 +13,7 @@ Ozvěte se někomu z [Organizačního teamu](organizacni-team/).
 | ---------------------------------------------------------- | ----- |
 | [**dYdX Grants Program**](https://twitter.com/dydx_grants) |       |
 | [**MitonC**](https://twitter.com/mitoncfund)               |       |
+| [**PWN DAO**](https://twitter.com/pwndao)                  |       |
 | [**Bitcoach.org**](https://twitter.com/BitC0ach)           |       |
 | [**Anycoin.cz**](https://twitter.com/anycoin_cz)           |       |
-| [**PWN DAO**](https://twitter.com/pwndao)                  |       |
 
