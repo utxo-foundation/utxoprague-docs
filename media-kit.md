@@ -4,6 +4,8 @@ description: Loga a další materiály
 
 # Media Kit
 
+Veškeré zdrojové soubory naleznete v našem GitHub repozitáři "utxo" ve složce [`spec/22/media-kit`](https://github.com/utxo-foundation/utxo/tree/master/spec/22/media-kit).
+
 ## Logo
 
 ### Klasické logo - bílý text, modré pozadí
