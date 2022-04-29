@@ -23,7 +23,7 @@
 * [x] Oficiální oznámení konference (_hard-launch)_
 * [x] Konečné informace o vstupném a distribuci vstupenek
 * [x] První vlna [vstupenek](navstevnici/vstupenky.md)
-* [ ] Druhá vlna vstupenek
+* [x] Druhá vlna vstupenek
 
 ### Květen 2022
 
