@@ -6,6 +6,20 @@ description: Loga a další materiály
 
 Veškeré zdrojové soubory naleznete v našem GitHub repozitáři "utxo" ve složce [`spec/22/media-kit`](https://github.com/utxo-foundation/utxo/tree/master/spec/22/media-kit).
 
+## Barvy
+
+| Název                | Hex     |
+| -------------------- | ------- |
+| Temně modrá (hlavní) | #393F67 |
+| Světle modrá         | #191B2E |
+| Červená              | #FF6B6B |
+| Zelená               | #6BCB77 |
+| Žlutá                | #FFD93D |
+
+## Font
+
+Jako font používáme [Montserrat](https://fonts.google.com/specimen/Montserrat) (Google Fonts).
+
 ## Logo
 
 ### Klasické logo - modrý text, bíle pozadí
