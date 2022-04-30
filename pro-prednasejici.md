@@ -4,10 +4,14 @@ description: Instrukce pro přednášející
 
 # Pro přednášející
 
-Děkujeme že jste se rozhodli přednášet (nebo se jinak účastnit programu) na konferenci UTXO.22! Zde naleznete základní instrukce:
+{% hint style="success" %}
+Děkujeme že jste se rozhodli přednášet na konferenci UTXO.22 (nebo se jinak účastnit programu)! Pojďme z UTXO.22 společně udělat tu nejlepší kryptoměnovou akci široko daleko):tada::tada::tada::tada:
+{% endhint %}
+
+Na této stránce naleznete základní instrukce a informace, které se vám můžou hodit:
 
 * [Jak komunikovat s organizátory](pro-prednasejici.md#komunikace-s-organizatory)
-* Jak je to se vstupenkami pro přednášející a jejich doprovod
+* [Jak je to se vstupenkami pro přednášející a jejich doprovod](pro-prednasejici.md#vstupenky-pro-vas-a-doprovod)
 * [Jaký je aktuální program a jak můžete upravit anotaci svojí přednášky](pro-prednasejici.md#program)
 * [Jaký bude průběh přednášky a workshopu](pro-prednasejici.md#prubeh-prednasky-workshopu)
 * [Jaké bude vybavení sálů](pro-prednasejici.md#vybaveni-salu)
