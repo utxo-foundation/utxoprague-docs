@@ -12,20 +12,34 @@ Odkazy na převzetí vstupenek vám budou zaslány do konce dubna.
 
 ## Komunikace s organizátory
 
-### Email
+### Koordinátor
 
-Na vaši emailovou adresu, kterou zadáte při převzetí vstupenky vám zašleme finální instrukce před konferencí.
+Jako přednášející typicky komunikujete s konkrétním člověkem z organizátorského teamu - tento člověk je tedy váš "koordinátor". Neváhejte se na něj obrátit s jakýmkoliv vaším dotazem ohledně konference a vaší účasti.
+
+#### Hlavní koordinátoři
+
+| Jméno             | Discord     | Kontakty                                                                                                     |
+| ----------------- | ----------- | ------------------------------------------------------------------------------------------------------------ |
+| **tree**          | tree#7466   | [Twitter](https://twitter.com/treecz), [Telegram](https://t.me/treecz), [Email](mailto:tree@utxo.foundation) |
+| **Tereza**        | Tereza#6191 | [Email](mailto:tereza@utxo.foundation)                                                                       |
+| **Tomáš Masaryk** | -           | [Facebook](https://www.facebook.com/tomas.masaryk.ml)                                                        |
 
 ### Telegram, Signal
 
 Vytvořili jsme také speciální soukromé kanály pro všechny přednášející na platformách Signal a Telegram, kde vás budeme informovat o relevantních novinkách trošku častěji a vy se nás můžete ptát na důležité otázky.&#x20;
 
-Přidejte se, prosím, alespoň k jednomu kanálu 🙏:
+Přidejte se, prosím, alespoň k jednomu kanálu 🙏
 
-* **Telegram**: [https://t.me/+XuSVwBCcZRllYjZk](https://t.me/+XuSVwBCcZRllYjZk)
-* **Signal**: [https://signal.group/#CjQKIJjF-HBzlmpCmGF6z5bKg9F\_IDOFVG6nxlU2NHHCW4CCEhAUY3TiCHTNyPYD5Og1EnJz](https://signal.group/#CjQKIJjF-HBzlmpCmGF6z5bKg9F\_IDOFVG6nxlU2NHHCW4CCEhAUY3TiCHTNyPYD5Og1EnJz)
+| Platforma    | Pozvánka                                                                                                                                                                                           |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Telegram** | [https://t.me/+XuSVwBCcZRllYjZk](https://t.me/+XuSVwBCcZRllYjZk)                                                                                                                                   |
+| **Signal**   | [https://signal.group/#CjQKIJjF-HBzlmpCmGF6z5bKg9F\_IDOFVG6nxlU2NHHCW4CCEhAUY3TiCHTNyPYD5Og1EnJz](https://signal.group/#CjQKIJjF-HBzlmpCmGF6z5bKg9F\_IDOFVG6nxlU2NHHCW4CCEhAUY3TiCHTNyPYD5Og1EnJz) |
 
 _(tyto kanály jsou soukromé, takže je nutné vyčkat na schválení)_
+
+### Email
+
+Na vaši emailovou adresu, kterou zadáte při převzetí vstupenky vám zašleme finální instrukce před konferencí.
 
 ### Discord
 
@@ -35,7 +49,7 @@ Pro hlubší debatu a konkrétní working groups, se připojte na náš [Discord
 
 Veškerý nahlášený obsah naleznete na našem webu v sekci [Program](https://utxo.cz/program).
 
-Svoje přednášky nebo workshopy můžete přidávat nebo upravovat a) sami přes náš [GitHub repozitář](https://github.com/utxo-foundation/utxo/tree/master/spec/22), b) nebo tak že kontaktujete vašeho konferenčního koordinátora.
+Svoje přednášky nebo workshopy můžete přidávat nebo upravovat: a) sami přes náš [GitHub repozitář](https://github.com/utxo-foundation/utxo/tree/master/spec/22) ([jednoduchý návod](pro-prednasejici/navod-na-upravu-zdrojovych-dat.md)), b) nebo tak že kontaktujete vašeho konferenčního koordinátora.
 
 Standartní čas pro přednášku je 45-55 minut včetně diskuze (hodinový blok).
 
