@@ -4,11 +4,14 @@ description: Instrukce pro přednášející
 
 # Pro přednášející
 
-## Vstupenky
+Děkujeme že jste se rozhodli přednášet (nebo se jinak účastnit programu) na konferenci UTXO.22! Zde naleznete základní instrukce:
 
-**Jako přednášející máte samozřejmě vstupenku zdarma.** Každý přednášející má také nárok na jednu další vstupenku zdarma pro doprovod.
-
-Odkazy na převzetí vstupenek vám budou zaslány do konce dubna.
+* [Jak komunikovat s organizátory](pro-prednasejici.md#komunikace-s-organizatory)
+* Jak je to se vstupenkami pro přednášející a jejich doprovod
+* [Jaký je aktuální program a jak můžete upravit anotaci svojí přednášky](pro-prednasejici.md#program)
+* [Jaký bude průběh přednášky a workshopu](pro-prednasejici.md#prubeh-prednasky-workshopu)
+* [Jaké bude vybavení sálů](pro-prednasejici.md#vybaveni-salu)
+* [Další praktické informace o jídlu a pití nebo dopravě](pro-prednasejici.md#prakticke-informace)
 
 ## Komunikace s organizátory
 
@@ -44,6 +47,12 @@ Na vaši emailovou adresu, kterou zadáte při převzetí vstupenky vám zašlem
 ### Discord
 
 Pro hlubší debatu a konkrétní working groups, se připojte na náš [Discord](https://discord.gg/5k9dEtVhnv).
+
+## Vstupenky pro vás a doprovod
+
+**Jako přednášející máte samozřejmě vstupenku zdarma.** Každý přednášející má také nárok na jednu další vstupenku zdarma pro doprovod.
+
+Odkazy na převzetí vstupenek vám zašle váš [koordinátor](pro-prednasejici.md#koordinator) jakmile potvrdíte svoji účast.
 
 ## Program
 
