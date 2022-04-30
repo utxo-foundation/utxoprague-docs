@@ -23,11 +23,11 @@ Na této stránce naleznete základní instrukce a informace, které se vám mů
 
 Jako přednášející typicky komunikujete s konkrétním člověkem z organizátorského teamu - tento člověk je tedy váš "koordinátor". Neváhejte se na něj obrátit s jakýmkoliv vaším dotazem ohledně konference a vaší účasti.
 
-#### Hlavní koordinátoři
+#### Seznam koordinátorů
 
 | Jméno                                                                  | Discord     | Kontakty                                                                                                     |
 | ---------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------ |
-| [**tree**](https://utxo.cz/lide?id=tree)****                           | tree#7466   | [Twitter](https://twitter.com/treecz), [Telegram](https://t.me/treecz), [Email](mailto:tree@utxo.foundation) |
+| [**tree**](https://utxo.cz/lide?id=tree) (šéfkoordinátor)              | tree#7466   | [Twitter](https://twitter.com/treecz), [Telegram](https://t.me/treecz), [Email](mailto:tree@utxo.foundation) |
 | [**Tereza Starostová**](https://utxo.cz/lide?id=tereza-starostova)**** | Tereza#6191 | [Facebook](https://www.facebook.com/taterezza), [Email](mailto:tereza@utxo.foundation)                       |
 | **Tomáš Masaryk**                                                      | -           | [Facebook](https://www.facebook.com/tomas.masaryk.ml)                                                        |
 
