@@ -62,11 +62,17 @@ Odkazy na převzetí vstupenek vám zašle váš [koordinátor](pro-prednasejici
 
 Veškerý nahlášený obsah naleznete na našem webu v sekci [Program](https://utxo.cz/program).
 
-Svoje přednášky nebo workshopy můžete přidávat nebo upravovat: a) sami přes náš [GitHub repozitář](https://github.com/utxo-foundation/utxo/tree/master/spec/22) ([jednoduchý návod](pro-prednasejici/navod-na-upravu-zdrojovych-dat.md)), b) nebo tak že kontaktujete vašeho konferenčního koordinátora.
-
 Standartní čas pro přednášku je 45-55 minut včetně diskuze (hodinový blok).
 
-### Uzávěrka programu
+Pokud chcete přidat novou přednášku, konzultujte to prosím se svým [koordinátorem](pro-prednasejici.md#koordinator).
+
+### Anotace vašich přednášek nebo workshopů
+
+Prosíme všechny přednášející, kteří mají potvrzenou událost, aby doplnili anotaci (popis). Ideálně i s odkazy ve formátu [Markdown](https://www.fi.muni.cz/tech/wiki/markdown.html.cs).
+
+Detaily svojí přednášky můžete upravovat: a) sami přes náš [GitHub repozitář](https://github.com/utxo-foundation/utxo/tree/master/spec/22) ([jednoduchý návod](pro-prednasejici/navod-na-upravu-zdrojovych-dat.md)), b) nebo tak že kontaktujete vašeho konferenčního koordinátora.
+
+### Uzávěrka programu (časový rozpis)
 
 Program plánujeme uzavřít zhruba 1-2 týdny před konferencí, a ve stejnou dobu vznikne konkrétní časový rozpis.
 
