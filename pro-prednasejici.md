@@ -5,7 +5,7 @@ description: Instrukce pro přednášející
 # Pro přednášející
 
 {% hint style="success" %}
-Děkujeme že jste se rozhodli přednášet na konferenci UTXO.22 (nebo se jinak účastnit programu)! Pojďme z UTXO.22 společně udělat tu nejlepší kryptoměnovou akci široko daleko):tada::tada::tada::tada:
+Děkujeme že jste se rozhodli přednášet na konferenci UTXO.22!
 {% endhint %}
 
 Na této stránce naleznete základní instrukce a informace, které se vám můžou hodit:
