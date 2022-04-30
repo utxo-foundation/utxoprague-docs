@@ -25,11 +25,11 @@ Jako přednášející typicky komunikujete s konkrétním člověkem z organiz�
 
 #### Hlavní koordinátoři
 
-| Jméno             | Discord     | Kontakty                                                                                                     |
-| ----------------- | ----------- | ------------------------------------------------------------------------------------------------------------ |
-| **tree**          | tree#7466   | [Twitter](https://twitter.com/treecz), [Telegram](https://t.me/treecz), [Email](mailto:tree@utxo.foundation) |
-| **Tereza**        | Tereza#6191 | [Facebook](https://www.facebook.com/taterezza), [Email](mailto:tereza@utxo.foundation)                       |
-| **Tomáš Masaryk** | -           | [Facebook](https://www.facebook.com/tomas.masaryk.ml)                                                        |
+| Jméno                                                                  | Discord     | Kontakty                                                                                                     |
+| ---------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------ |
+| [**tree**](https://utxo.cz/lide?id=tree)****                           | tree#7466   | [Twitter](https://twitter.com/treecz), [Telegram](https://t.me/treecz), [Email](mailto:tree@utxo.foundation) |
+| [**Tereza Starostová**](https://utxo.cz/lide?id=tereza-starostova)**** | Tereza#6191 | [Facebook](https://www.facebook.com/taterezza), [Email](mailto:tereza@utxo.foundation)                       |
+| **Tomáš Masaryk**                                                      | -           | [Facebook](https://www.facebook.com/tomas.masaryk.ml)                                                        |
 
 ### Telegram, Signal
 
