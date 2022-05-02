@@ -35,4 +35,5 @@ Hledáme každého, kdo může dát o UTXO.22 vědět svým divákům, poslucha�
 | [**Trader 2.0**](https://twitter.com/Trader_20_)                                          |                                                   |
 | [**Svět Androida**](https://www.svetandroida.cz/)                                         |                                                   |
 | [**KryptoDeník**](https://www.instagram.com/kryptodenik/)                                 | Nejdůležitější novinky ze světa kryptoměn         |
+| [**Investocka**](https://www.investocka.cz/)                                              | Videoblog o investicích                           |
 
