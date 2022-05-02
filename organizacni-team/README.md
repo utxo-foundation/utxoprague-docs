@@ -29,7 +29,7 @@ Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEt
 
 * **budget, sponzoři**
 * Zástupce [Bankless Czech](https://bankless.cz) a [Gwei.cz](http://gwei.cz)
-* Twitter: [@StudenyVojta](https://twitter.com/StudenyVojta)
+* Twitter: [@0xVojtch](https://twitter.com/0xvojtch)
 
 ## Podpůrný team
 

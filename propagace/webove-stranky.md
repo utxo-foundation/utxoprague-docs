@@ -2,7 +2,7 @@
 
 Připravíme interaktivní web, se všemi potřebnými informacemi, kde si lidé budou moci zakoupit vstupenky, objednat jídlo nebo vytvořit vlastní program.
 
-* Grafika: **coinmandeer**
+* Grafika: **Pen\&Production**
 * Obsah: **JiriCepelka** / **tree** / **tereza**
 * Coding: **tree**
 

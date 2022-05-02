@@ -1,16 +1,20 @@
-# Prague Crypto Days '22
+# Prague Blockchain Week '22
+
+
 
 {% hint style="warning" %}
-Název "Prague Crypto Week" je jen pracovní.
+Název "Prague Blockchain Week" je jen pracovní.
 {% endhint %}
 
 Termín: **3.-12. červen 2022** (10 dní)
 
 ## Program
 
-### 4.-6. červen - KryptoPraha
+### 4.-5. červen - UTXO.22
 
-Web TBA
+Web: [utxo.cz](https://utxo.cz)
+
+Twitter: [@utxoprague](https://twitter.com/utxoprague/)
 
 ### 10.-12. červen - ETHPrague
 
