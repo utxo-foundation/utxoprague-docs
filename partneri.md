@@ -24,16 +24,17 @@ Hledáme každého, kdo může dát o UTXO.22 vědět svým divákům, poslucha�
 
 ## Mediální partneři
 
-| Název                                                                                     | Popis                                             |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [**Podcast Krypto Insider (Hospodářské noviny)**](https://podcasty.hn.cz/krypto-insider/) | Podcast o kryptoměnách (Petr Lukáč)               |
-| [**Kryptonovinky**](https://www.kryptonovinky.sk/)                                        |                                                   |
-| [**Kryptomagazin CZ**](https://kryptomagazin.cz/)                                         |                                                   |
-| [**KryptoDoupě**](https://www.kryptodoupe.cz/)                                            |                                                   |
-| [**Investree**](https://investree.cz/)                                                    | Vzdělávání okolo finanční svobody (Tomáš Zdražil) |
-| [**KryptoPlatby CZ/SK**](https://linktr.ee/kryptoplatby)                                  |                                                   |
-| [**Trader 2.0**](https://twitter.com/Trader_20_)                                          |                                                   |
-| [**Svět Androida**](https://www.svetandroida.cz/)                                         |                                                   |
-| [**KryptoDeník**](https://www.instagram.com/kryptodenik/)                                 | Nejdůležitější novinky ze světa kryptoměn         |
-| [**Investocka**](https://www.investocka.cz/)                                              | Videoblog o investicích                           |
+| Název                                                                                     | Popis                                                   |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| [**Podcast Krypto Insider (Hospodářské noviny)**](https://podcasty.hn.cz/krypto-insider/) | Podcast o kryptoměnách (Petr Lukáč)                     |
+| [**Kryptonovinky**](https://www.kryptonovinky.sk/)                                        |                                                         |
+| [**Kryptomagazin CZ**](https://kryptomagazin.cz/)                                         |                                                         |
+| [**KryptoDoupě**](https://www.kryptodoupe.cz/)                                            |                                                         |
+| [**Investree**](https://investree.cz/)                                                    | Vzdělávání okolo finanční svobody (Tomáš Zdražil)       |
+| [**KryptoPlatby CZ/SK**](https://linktr.ee/kryptoplatby)                                  |                                                         |
+| [**Trader 2.0**](https://twitter.com/Trader_20_)                                          |                                                         |
+| [**Svět Androida**](https://www.svetandroida.cz/)                                         |                                                         |
+| [**KryptoDeník**](https://www.instagram.com/kryptodenik/)                                 | Nejdůležitější novinky ze světa kryptoměn               |
+| [**Investocka**](https://www.investocka.cz/)                                              | Videoblog o investicích                                 |
+| [**Vojta Žižka**](https://twitter.com/VojtaZizka)                                         | Podcast a videa ze světa financí, investic a kryptoměn. |
 
