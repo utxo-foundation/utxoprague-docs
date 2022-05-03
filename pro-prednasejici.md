@@ -78,9 +78,13 @@ Program plánujeme uzavřít zhruba 1-2 týdny před konferencí, a ve stejnou d
 
 ## Vybavení sálů
 
-Ve všech přednáškových a workshopových sálech bude k dispozici projektor. Očekáváme, že si každý přednášející přinese svůj vlastní notebook, který přes HDMI konektor na projektor napojí. Budou k dispozici různé redukce.
+Ve všech přednáškových a workshopových sálech bude k dispozici projektor. Očekáváme, že si každý přednášející přinese svůj vlastní notebook, který přes HDMI konektor na projektor napojí ([s vyjímkou Bleskových přednášek](pro-prednasejici.md#bleskove-prednasky)). Budou k dispozici různé redukce a prezentér.
 
 Hlavní 3 přednáškové sály budou nahrávané a [žive streamované](utxo.tv-livestream.md), takže bude nutné využít mikrofon.
+
+### Bleskové přednášky (Lightning talks)
+
+Během bleskových přednášek nebude možné připojit vlastní notebook, ale svojí prezentaci zašlete koordinátorovi. Svojí prezentaci budete ovládat pomocí presenteru.
 
 ## Průběh přednášky/workshopu
 
