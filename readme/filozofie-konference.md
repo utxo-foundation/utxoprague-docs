@@ -6,9 +6,9 @@ Zaměřujeme se na kryptoměny a související témata, jako je decentralizace n
 
 **Tvoříme neutrální a bezpečný prostor** - pro všechny fanoušky kryptoměn, nehledě na ideologii. Chceme dát adekvátní možnost prezentace všem významným proudům, ať už jde o Bitcoin, Ethereum, Polkadot, Cardano, nebo jakýkoliv další blockchain.
 
-**Pro začátečníky i experty** - na konferenci se snažíme přivést velkou škálu osobností, takže si na své přijdou jak úplní krypto-nováčci, tak lidé, kteří vyhledávají náročnější a hlubší obsah.
-
 **Nemáme žádný programový plán (záměrně)** - nechceme určovat, kdo přesně na naší konferenci vystoupí a co bude říkat. Je to na konkrétních komunitách nebo jednotlivcích, kteří si sami za sebe určí, co je důležité a co chtějí návštěvníkům sdělit.
+
+**Pro začátečníky i experty** - na konferenci se snažíme přivést velkou škálu osobností, takže si na své přijdou jak úplní krypto-nováčci, tak lidé, kteří vyhledávají náročnější a hlubší obsah.
 
 **Do přednášek a workshopů nijak obsahově nezasahujeme** - přednášející mají svůj přidělený čas a můžou ho využít jak chtějí.
 
