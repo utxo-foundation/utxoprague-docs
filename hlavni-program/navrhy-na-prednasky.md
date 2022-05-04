@@ -1,5 +1,9 @@
 # Návrhy na přednášky
 
+{% hint style="success" %}
+Něco vám v našem [programu](https://utxo.cz/program) chybí? Vaše návrhy a jakékoliv podněty můžete posílat do kanálu **#📃návrhy-obsahu** na našem [Discord chatu](https://chat.utxo.cz).
+{% endhint %}
+
 ### Základy
 
 * Lokální kryptoměnové scamy a podvody (přednáška)
@@ -43,4 +47,4 @@
 ### Společnost
 
 * Stav novinařiny a publicistiky v ČR/SK (panelová diskuze)
-* (Bitcoin) maximalismus (přednáška, panelová diskuze)
+* \[Bitcoin/Ethereum/..] maximalismus (přednáška, panelová diskuze)
