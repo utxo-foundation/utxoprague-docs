@@ -8,7 +8,8 @@
 ### BTC
 
 * Co se děje v Panamě a dalších zemích okolo BTC (přednáška)
-* Proč je důležité provozovat Bitcoin full-node (přednáška)
+* Proč je důležité provozovat Bitcoin full-node (přednáška, workshop)
+* Taproot a jeho význam (přednáška)
 
 ### Ethereum
 
@@ -19,6 +20,7 @@
 ### DeFi
 
 * Stablecoiny - k čemu jsou, základní přehled (přednáška)
+* Algo stablecoiny (přednáška)
 * Predikční markety (přednáška) (Polymarket)
 * Decentralizované burzy (přednáška)
 
