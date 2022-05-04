@@ -8,7 +8,7 @@ Zaměřujeme se na kryptoměny a související témata, jako je decentralizace n
 
 **Nemáme žádný programový plán (záměrně)** - nechceme určovat, kdo přesně na naší konferenci vystoupí a co bude říkat. Je to na konkrétních komunitách nebo jednotlivcích, kteří si sami za sebe určí, co je důležité a co chtějí návštěvníkům sdělit.
 
-**Pro začátečníky i experty** - na konferenci se snažíme přivést velkou škálu osobností, takže si na své přijdou jak úplní krypto-nováčci, tak lidé, kteří vyhledávají náročnější a hlubší obsah.
+**Pro začátečníky i experty** - na konferenci se snažíme přivést velkou škálu osobností, aby si na své přišli jak úplní krypto-nováčci, tak lidé, kteří vyhledávají náročnější a hlubší obsah.
 
 **Do přednášek a workshopů nijak obsahově nezasahujeme** - přednášející mají svůj přidělený čas a můžou ho využít jak chtějí.
 
