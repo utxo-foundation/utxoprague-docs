@@ -43,3 +43,4 @@
 ### Společnost
 
 * Stav novinařiny a publicistiky v ČR/SK (panelová diskuze)
+* (Bitcoin) maximalismus (přednáška, panelová diskuze)
