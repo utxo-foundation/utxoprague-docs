@@ -30,11 +30,11 @@ Fireside chat formát použijeme především u významných hostů, třeba i za
 
 * Délka: 25 min, 55 min
 
-## Lightning talk
+## Blesková přednáška (lightning talk)
 
 Speciální druh prezentace. Řečníci mají velmi omezený čas na svojí přednášku - maximálně 10 minut. Řečnící můžou mít powerpoint prezentaci, ale ta se musí automaticky posouvat dopředu, aby řečník neztrácel čas.
 
-Lightning Talks budou vždy součástí 60 min bloků, kde bude 4-6 lightning talks po sobě.
+Bleskové přednášky budou vždy součástí 60 min bloků, kde bude 4-6 lightning talks po sobě.
 
 * Délka: 5 - 10 minut
 

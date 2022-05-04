@@ -16,6 +16,7 @@
   * [Vstupenky](navstevnici/vstupenky.md)
 * [Hlavní program](hlavni-program.md)
   * [Formáty programu](hlavni-program/formaty-programu.md)
+  * [Návrhy na přednášky](hlavni-program/navrhy-na-prednasky.md)
 * [Doprovodný program](doprovodny-program/README.md)
   * [KryptoKino 3.6.](doprovodny-program/kryptokino.md)
   * [UTXO.Party](doprovodny-program/utxo.party.md)
