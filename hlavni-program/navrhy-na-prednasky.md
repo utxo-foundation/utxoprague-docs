@@ -8,6 +8,7 @@ Něco vám v našem [programu](https://utxo.cz/program) chybí? Vaše návrhy a 
 
 * Lokální kryptoměnové scamy a podvody (přednáška)
 * Co je to open-source a jeho význam pro kryptoměny (přednáška)
+* Darkweb (přednáška)
 
 ### BTC
 
