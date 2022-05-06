@@ -13,6 +13,7 @@ Ozvěte se někomu z [Organizačního teamu](organizacni-team/).
 | ---------------------------------------------------------- | ----- |
 | [**dYdX Grants Program**](https://twitter.com/dydx_grants) |       |
 | [**MitonC**](https://twitter.com/mitoncfund)               |       |
+| [**Sollarion Game**](https://twitter.com/solanagalaxynft)  |       |
 | [**PWN DAO**](https://twitter.com/pwndao)                  |       |
 | [**Bitcoach.org**](https://twitter.com/BitC0ach)           |       |
 | [**Anycoin.cz**](https://twitter.com/anycoin_cz)           |       |
