@@ -31,7 +31,7 @@ Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEt
 * Zástupce [Bankless Czech](https://bankless.cz) a [Gwei.cz](http://gwei.cz)
 * Twitter: [@0xVojtch](https://twitter.com/0xvojtch)
 
-## Podpůrný team
+## Zbytek organizačního teamu
 
 | Kdo                                                               | Pozice                       | Za koho              |
 | ----------------------------------------------------------------- | ---------------------------- | -------------------- |
