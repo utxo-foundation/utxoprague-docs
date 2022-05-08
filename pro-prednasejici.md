@@ -70,7 +70,17 @@ Pokud chcete přidat novou přednášku, konzultujte to prosím se svým [koordi
 
 Prosíme všechny přednášející, kteří mají potvrzenou událost, aby doplnili anotaci (popis). Ideálně i s odkazy ve formátu [Markdown](https://www.fi.muni.cz/tech/wiki/markdown.html.cs).
 
+Budeme mít (záměrně) velkoou konkurenci obsahu - souběžně pojede 6 sálů (zatím to vypadá na 4 přednáškové a 2 workshopové), takže je nutné návštěvníkům dát jasné důvody, proč by měli přijít právě na vaši přednášku nebo workshop :-)
+
 Detaily svojí přednášky můžete upravovat: a) sami přes náš [GitHub repozitář](https://github.com/utxo-foundation/utxo/tree/master/spec/22) ([jednoduchý návod](pro-prednasejici/navod-na-upravu-zdrojovych-dat.md)), b) nebo tak že kontaktujete vašeho konferenčního koordinátora.
+
+#### Jak by měl vypadat popis?
+
+První odstavec souvislý text, o délce ideálně 70-100 slov (\~600 znaků). Určitě je dobré do zbytku doplnit nějaké reference nebo další materiály kde se dá více do tématu zahrabat. To se týká především workshopů - je dobré lidem říci, co budou na workshop potřebovat, nebo co si mají předem nastudovat.
+
+**Další metadata**
+
+Každá událost má kromě názvu a popisu, ještě další “metatada”. Např. přiřazené štítky (tagy) nebo obtížnost (3 úrovně - pro začátečníky / pokročilé / odborníky). Obtížnost zatím není viditelná na webu, ale brzy ji tam uvidíte. Tyhle údaje zatím přidáváme sami nějak intuitivně a určitě budu rád pokud se na vaši událost podíváte a navrhnete jak to vylepšit.
 
 ### Uzávěrka programu (časový rozpis)
 
