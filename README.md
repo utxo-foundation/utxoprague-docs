@@ -58,7 +58,7 @@ Veškeré informace o konferenci se snažíme transparentně publikovat v rámci
 
 ## Současný stav
 
-Máme rezervované místo konání a potvrzeno několik [sponzorů](sponzori.md) a [přednášejících](broken-reference). Vstupenky jsou již v [prodeji](https://utxo.cz/vstupenky)! Další zásadní milníky, které nás čekají, naleznete na stránce [Roadmap](roadmap.md).
+Máme rezervované místo konání a potvrzené první [sponzory](sponzori.md) a [přednášející](broken-reference). Hotové základní [stránky konference](propagace/webove-stranky.md). Připravujeme pro vás informace o všech přednášejících i se [soupisem jejich přednášek](https://utxo.cz/program). První vlna vstupenek byla vypuštěna 13.dubna, [další 2 vlny jsou na cestě](https://twitter.com/utxoprague/status/1513603646767910917?s=20\&t=ZgF4Xevy4EgrnFN2enwDMw). Další zásadní milníky, které nás čekají, naleznete na stránce [Roadmap](roadmap.md).
 
 ## Kde nás najdete
 
