@@ -17,7 +17,7 @@ Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEt
 
 * **místo konání, spolupráce, obecná organizace**
 * Zástupce [Holky v Kryptu](https://holkyvkryptu.cz)
-* Twitter: [@tatereza5](https://twitter.com/tatereza5)
+* Twitter: [@tatereza5](https://twitter.com/tatereza5) / Email: [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
 
 ### <img src="../.gitbook/assets/tree-circle.png" alt="" data-size="line"> tree
 
@@ -29,7 +29,7 @@ Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEt
 
 * **budget, sponzoři**
 * Zástupce [Bankless Czech](https://bankless.cz) a [Gwei.cz](http://gwei.cz)
-* Twitter: [@0xVojtch](https://twitter.com/0xvojtch)
+* Twitter: [@0xVojtch](https://twitter.com/0xvojtch) / Email: [vojtch@utxo.foundation](mailto:vojtch@utxo.foundation)
 
 ## Zbytek organizačního teamu
 
