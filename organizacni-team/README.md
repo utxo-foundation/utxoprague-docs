@@ -21,7 +21,7 @@ Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEt
 
 ### <img src="../.gitbook/assets/tree-circle.png" alt="" data-size="line"> tree
 
-* **dramaturgie, organizační nástroje, ticketing**
+* **přednášející, dramaturgie, organizační nástroje, ticketing**
 * Zástupce [Gwei.cz](http://gwei.cz) a [BohemianDAO](http://bohemiandao.cz)
 * Twitter: [@treecz](https://twitter.com/treecz) / Telegram: [@treecz](https://t.me/treecz) / Email: [tree@hidden.cz](mailto:tree@hidden.cz)
 
@@ -33,20 +33,16 @@ Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEt
 
 ## Podpůrný team
 
-| Kdo                                                              | Pozice                       | Za koho               |
-| ---------------------------------------------------------------- | ---------------------------- | --------------------- |
-| [**Simona**](https://twitter.com/SPacakova)****                  | **legal, účetnictví**        | BohemianDAO           |
-| [**JiriCepelka**](https://twitter.com/JiriCepelka)****           | **sociální sítě, marketing** | Gwei.cz               |
-| **​**[**DavidBankless**](https://twitter.com/davidbankless)**​** | **sponzoři**                 | Bankless.cz           |
-| ****[**coinmandeer**](https://twitter.com/KeenOfCoin)****        | **vizuální identita**        | Gwei.cz               |
-| ****[**Exez**](https://twitter.com/OndraPulc)****                | **audiovizuální tvorba**     | Gwei.cz / Bankless.cz |
-| [**Klein Petr**](https://twitter.com/kleinpetr\_com)****         | **technologie**              | Gwei.cz               |
-| ****[**m0xt**](https://twitter.com/m0xt)****                     | **sponzoři**                 | Gwei.cz               |
-| ****[**bohus.eth**](https://twitter.com/bohuskrypto)****         | **sociální sítě**            | Gwei.cz               |
-| [**KryptoVláďa**](https://twitter.com/KryptoVlada)****           | **moderátor**                | KryptoVláďa komunita  |
-| ****[**damsky**](https://twitter.com/CryptoDamSky)****           | ..                           | Gwei.cz               |
-| [**rixcian**](https://twitter.com/rixcian)****                   | ..                           | Bankless.cz / Gwei.cz |
-| **Tomassino**                                                    | ..                           | KryptoVláďa komunita  |
+| Kdo                                                               | Pozice                       | Za koho              |
+| ----------------------------------------------------------------- | ---------------------------- | -------------------- |
+| [**Simona Pacáková**](https://twitter.com/SPacakova)****          | **legal, účetnictví**        | BohemianDAO          |
+| ****[**Exez**](https://twitter.com/OndraPulc)****                 | **grafika**                  | Bankless.cz          |
+| ****[**Dominika V.**](https://twitter.com/DominikaV5) **** (Duna) | **marketing, meetupy**       | Holky v Kryptu       |
+| [**JiriCepelka**](https://twitter.com/JiriCepelka)****            | **sociální sítě, marketing** | Gwei.cz              |
+| [**Klein Petr**](https://twitter.com/kleinpetr\_com)****          | **ticketing app**            | Gwei.cz              |
+| **Tomassino**                                                     | **místo konání, internet**   | KryptoVláďa komunita |
+| ****[**damsky**](https://twitter.com/CryptoDamSky)****            | ..                           | Gwei.cz              |
+| ****[**coinmandeer**](https://twitter.com/KeenOfCoin)****         | ..                           | Gwei.cz              |
 
 ## Další partneři
 
