@@ -16,6 +16,7 @@
   * [Vstupenky](navstevnici/vstupenky.md)
 * [Hlavní program](hlavni-program.md)
   * [Formáty programu](hlavni-program/formaty-programu.md)
+  * [Kurátoři programových sekcí](hlavni-program/kuratori-programovych-sekci.md)
   * [Návrhy na přednášky](hlavni-program/navrhy-na-prednasky.md)
   * [Programová brožura](hlavni-program/programova-brozura.md)
 * [Doprovodný program](doprovodny-program/README.md)
