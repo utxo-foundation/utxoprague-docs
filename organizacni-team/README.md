@@ -39,7 +39,7 @@ Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEt
 | ****[**Exez**](https://twitter.com/OndraPulc)****                 | **grafika**                  | Bankless.cz          |
 | ****[**Dominika V.**](https://twitter.com/DominikaV5) **** (Duna) | **marketing, meetupy**       | Holky v Kryptu       |
 | [**JiriCepelka**](https://twitter.com/JiriCepelka)****            | **sociální sítě, marketing** | Gwei.cz              |
-| ****[**Klein Petr**](https://mastodon.social/@kleinptr)****       | **ticketing app**            | Gwei.cz              |
+| ****[**Klein Petr**](https://mastodon.social/@kleinptr)****       | **ticket scanner app**       | Gwei.cz              |
 | **Tomassino**                                                     | **místo konání, internet**   | KryptoVláďa komunita |
 | ****[**damsky**](https://twitter.com/CryptoDamSky)****            | ..                           | Gwei.cz              |
 | ****[**coinmandeer**](https://twitter.com/KeenOfCoin)****         | ..                           | Gwei.cz              |
