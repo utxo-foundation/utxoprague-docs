@@ -18,9 +18,7 @@ Workshopy se budou konat v místnostech, kde budou mít lidé k dispozici stoly 
 
 Panelová diskuse představuje specifický druh mítinku před publikem. Základem je takzvaný panel – skupina odborníků, kteří diskutují na dané téma před auditoriem. Panelová diskuse je často řízena moderátorem, který může tlumočit hostům také dotazy z publika.
 
-Plánujeme uspořádat 6 panelových debat, 3 v sobotu a 3 v neděli, vždy večer mezi hlavním programem a doprovodným programem.
-
-* Délka: 90 min, 120 min
+* Délka: 80 min, 110 min
 
 ## Fireside chat
 
@@ -34,7 +32,17 @@ Fireside chat formát použijeme především u významných hostů, třeba i za
 
 Speciální druh prezentace. Řečníci mají velmi omezený čas na svojí přednášku - maximálně 10 minut. Řečnící můžou mít powerpoint prezentaci, ale ta se musí automaticky posouvat dopředu, aby řečník neztrácel čas.
 
-Bleskové přednášky budou vždy součástí 60 min bloků, kde bude 4-6 lightning talks po sobě.
+Bleskové přednášky budou vždy součástí vetších bloků, kde bude více bleskových přednášek po sobě.
 
 * Délka: 5 - 10 minut
+
+## Táborový oheň (campfire)
+
+Jedná se o jeden z těch formátů, který dokonale popisuje, co dělá a jak vypadá. Podobně jako lidé sedí u táboráku a poslouchají, jak někdo vypráví příběh, je sezení u táboráku na konferenci neformálním způsobem prezentace a diskuse o jednotlivých tématech. Navrženo tak, aby účastníci mohli snadno přicházet nebo odcházet podle toho, jak jim to jejich časový rozvrh a úroveň zájmu dovolí.
+
+* Délka: 15 - 60 min
+
+Reference:
+
+* [What Is a Campfire Setup & When Should You Use It?](https://eventleadershipinstitute.com/what-is-a-campfire-setup-when-should-you-use-it/)
 
