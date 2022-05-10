@@ -36,9 +36,9 @@ Bleskové přednášky budou vždy součástí vetších bloků, kde bude více 
 
 * Délka: 5 - 10 minut
 
-## Táborový oheň (campfire)
+## Campfire (táborový oheň)
 
-Jedná se o jeden z těch formátů, který dokonale popisuje, co dělá a jak vypadá. Podobně jako lidé sedí u táboráku a poslouchají, jak někdo vypráví příběh, je sezení u táboráku na konferenci neformálním způsobem prezentace a diskuse o jednotlivých tématech. Navrženo tak, aby účastníci mohli snadno přicházet nebo odcházet podle toho, jak jim to jejich časový rozvrh a úroveň zájmu dovolí.
+Jedná se o jeden z těch formátů, který dokonale popisuje, co dělá a jak vypadá. Podobně jako lidé sedí u táboráku a poslouchají, jak někdo vypráví příběh, je campfire na konferenci neformálním způsobem prezentace a diskuse o jednotlivých tématech. Navrženo tak, aby účastníci mohli snadno přicházet nebo odcházet podle toho, jak jim to jejich časový rozvrh a úroveň zájmu dovolí.
 
 * Délka: 15 - 60 min
 
