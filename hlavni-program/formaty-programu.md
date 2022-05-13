@@ -38,7 +38,7 @@ Bleskové přednášky budou vždy součástí vetších bloků, kde bude více 
 
 ## Campfire (táborový oheň)
 
-Jedná se o jeden z těch formátů, který dokonale popisuje, co dělá a jak vypadá. Podobně jako lidé sedí u táboráku a poslouchají, jak někdo vypráví příběh, je campfire na konferenci neformálním způsobem prezentace a diskuse o jednotlivých tématech.
+Jedná se o jeden z těch formátů, který dokonale popisuje, co dělá a jak vypadá. Podobně jako lidé sedí u táboráku a poslouchají, jak někdo vypráví příběh, je campfire na konferenci neformálním způsobem prezentace a diskuse o jednotlivých tématech. ([What Is a Campfire Setup & When Should You Use It?](https://eventleadershipinstitute.com/what-is-a-campfire-setup-when-should-you-use-it/))
 
 Polo-formální prostor vhodný pro komunitní setkání, krátké přednášky a různé diskuze, nebo klidně i prezentace vašich vlastních nápadů nebo projektů. Místa pro Campfire budou umístěné záměrně na chodbách, nebo venku v relax zóně - tedy na místech kde budou proudit lidé, aby obsah mohl případně zaujmout kolemjdoucí. Počítejte tedy s okolním ruchem.
 
@@ -46,7 +46,5 @@ Půjde o 15-20 míst k sezení v otevřeném prostoru (=velká rezerva pro stán
 
 * Délka: 15 - 60 min
 
-Reference:
-
-* [What Is a Campfire Setup & When Should You Use It?](https://eventleadershipinstitute.com/what-is-a-campfire-setup-when-should-you-use-it/)
+:point\_right: [Žádost o Campfire session @ UTXO.22](https://forms.gle/gc9CcEJX7yTtStya8)
 
