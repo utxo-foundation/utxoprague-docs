@@ -35,8 +35,8 @@ Zde se doplňuje vše co se bude dát v merch shopu zakoupit.
 
 Produkty nabízené v rámci [Tržiště (marketplace)](utxo.shop.md#trziste-marketplace).
 
-| Název                                                                                       | Prodejce                    | Kusů |
-| ------------------------------------------------------------------------------------------- | --------------------------- | ---- |
-| Kniha [Adopce Bitcoinu pro obchodní korporace](https://www.adopcebtc.cz) (Adam Lokaj)       | Adam Lokaj                  | 20   |
-| Úložiště seedu [Kryptoplate 2x25 řádků s Raznicemi](https://www.skovo.cz/ocelova-uloziste/) | [Skovo.CZ](http://skovo.cz) | ?    |
+| Název                                                                                       | Prodejce                     | Kusů |
+| ------------------------------------------------------------------------------------------- | ---------------------------- | ---- |
+| Kniha [Adopce Bitcoinu pro obchodní korporace](https://www.adopcebtc.cz/) (Adam Lokaj)      | Adam Lokaj                   | 20   |
+| Úložiště seedu [Kryptoplate 2x25 řádků s Raznicemi](https://www.skovo.cz/ocelova-uloziste/) | [Skovo.CZ](http://skovo.cz/) | ?    |
 

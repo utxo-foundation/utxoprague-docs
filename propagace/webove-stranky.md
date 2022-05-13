@@ -27,8 +27,8 @@ Připravíme interaktivní web, se všemi potřebnými informacemi, kde si lidé
 
 ### Frontend
 
-* JS framework: [Svelte](https://svelte.dev)
-* CSS framework: [Tailwind](https://tailwindcss.com)
+* JS framework: [Svelte](https://svelte.dev/)
+* CSS framework: [Tailwind](https://tailwindcss.com/)
 * Hosting: GitHub Pages
 
 ### Backend

@@ -10,7 +10,7 @@ V rámci širšího záběru konference, chceme nabídnout i různý doprovodný
 
 Vstupenky bude možné zakoupit v předprodeji společně se vstupenkou na UTXO.22 (max 100 míst), nebo poté skrz běžný prodejní systém kina (duben-květen).
 
-Tuto událost pro vás připravujeme společně s libereckou konferencí [CryptoByte](https://cryptobyte.cz).
+Tuto událost pro vás připravujeme společně s libereckou konferencí [CryptoByte](https://cryptobyte.cz/).
 
 * Začátek promítání v 18:00.
 * Délka filmu: 63 minut.&#x20;
@@ -24,12 +24,12 @@ Tuto událost pro vás připravujeme společně s libereckou konferencí [Crypto
 
 ## **Kino Světozor** - velký sál
 
-* Web: [https://www.kinosvetozor.cz/](https://www.kinosvetozor.cz)
+* Web: [https://www.kinosvetozor.cz/](https://www.kinosvetozor.cz/)
 * Kapacita: 356 míst / představení
 
 ![](<../.gitbook/assets/kino-svetozor02 (1).jpeg>)
 
 ## Organizátoři
 
-* [Dušan Kmetyo](https://twitter.com/DusanKmetyo) ([CryptoByte](https://cryptobyte.cz))
+* [Dušan Kmetyo](https://twitter.com/DusanKmetyo) ([CryptoByte](https://cryptobyte.cz/))
 * [UTXO.22 Team](../organizacni-team/)

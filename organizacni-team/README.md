@@ -9,26 +9,26 @@ Připojte se na náš [UTXO komunitní Discord server](https://discord.gg/5k9dEt
 ## **UTXO Foundation, z.s.**
 
 * Předseda: [Tereza Starostová](./#tereza-starostova)
-* Web a další informace: [utxo.foundation](http://utxo.foundation)
+* Web a další informace: [utxo.foundation](http://utxo.foundation/)
 
 ## UTXO.22 Core team
 
 ### <img src="../.gitbook/assets/tereza-circle.png" alt="" data-size="line"> Tereza Starostová
 
 * **místo konání, spolupráce, obecná organizace**
-* Zástupce [Holky v Kryptu](https://holkyvkryptu.cz)
+* Zástupce [Holky v Kryptu](https://holkyvkryptu.cz/)
 * Twitter: [@tatereza5](https://twitter.com/tatereza5) / Email: [tereza@utxo.foundation](mailto:tereza@utxo.foundation)
 
 ### <img src="../.gitbook/assets/tree-circle.png" alt="" data-size="line"> tree
 
 * **přednášející, dramaturgie, organizační nástroje, ticketing**
-* Zástupce [Gwei.cz](http://gwei.cz) a [BohemianDAO](http://bohemiandao.cz)
+* Zástupce [Gwei.cz](http://gwei.cz/) a [BohemianDAO](http://bohemiandao.cz/)
 * Twitter: [@treecz](https://twitter.com/treecz) / Telegram: [@treecz](https://t.me/treecz) / Email: [tree@hidden.cz](mailto:tree@hidden.cz)
 
 ### <img src="../.gitbook/assets/vojtch-circle.png" alt="" data-size="line"> Vojtch
 
 * **budget, sponzoři**
-* Zástupce [Bankless Czech](https://bankless.cz) a [Gwei.cz](http://gwei.cz)
+* Zástupce [Bankless Czech](https://bankless.cz/) a [Gwei.cz](http://gwei.cz/)
 * Twitter: [@0xVojtch](https://twitter.com/0xvojtch) / Email: [vojtch@utxo.foundation](mailto:vojtch@utxo.foundation)
 
 ## Zbytek organizačního teamu

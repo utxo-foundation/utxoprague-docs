@@ -41,7 +41,7 @@ Trello nástěnky jsou přístupné jen pro členy [organizačního teamu](./).
 Chat na webových stránkách.
 
 * [https://tawk.to/utxoprague](https://tawk.to/utxoprague)
-* [Administrace](https://dashboard.tawk.to)
+* [Administrace](https://dashboard.tawk.to/)
 
 ## Zdrojové kódy (GitHub)
 

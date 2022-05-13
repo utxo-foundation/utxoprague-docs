@@ -47,10 +47,7 @@
 * [Partneři](partneri.md)
 * [Sponzoři](sponzori.md)
 
-## Blockchain Week
+## Související události
 
-* [Prague Blockchain Week '22](blockchain-week/prague-crypto-days-22.md)
-
-***
-
-* [Související události](souvisejici-udalosti.md)
+* [Prague Blockchain Week 2022](https://gm.events/)
+* [Související události](souvisejici-udalosti/souvisejici-udalosti.md)

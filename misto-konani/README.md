@@ -7,7 +7,7 @@ Hlavní program se uskuteční v budově bývalého kláštera v centru Prahy na
 Jedná se o jedinečný komplex, jež byl postaven v novorománském stylu, a stavba, vybudována v letech 1888 – 1891, je pozoruhodná svou uměleckou výzdobou ve slohu beuronské umělecké školy. Bývalý řeholní dům vznikl na konci 19. století jako první ženský konvent benediktinek beuronské kongregace v Praze.
 
 * Adresa: **Holečkova 106/10, 150 00 Praha 5-Smíchov** ([Google Maps](https://goo.gl/maps/QWhJaGuZGsJS2S749))
-* Webové stránky: [gabrielloci.com](https://www.gabrielloci.com)
+* Webové stránky: [gabrielloci.com](https://www.gabrielloci.com/)
 
 ![](../.gitbook/assets/gabriel\_loci-meatspace-\_xz.jpeg) ![](../.gitbook/assets/gabriel-loci-outside.jpeg)
 

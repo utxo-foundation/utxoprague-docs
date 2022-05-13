@@ -65,7 +65,7 @@ UTXO nebo SWAG tokeny se dají vytěžit za různé aktivity, ať už přímo na
 | Swap na UTXO na SWAG (Honeyswap) - jednorázově                   | 50 SWAG              |
 | Poskytnutí likvidity do UTXO/SWAG poolu (Honeswap) - jednorázově | 50 SWAG              |
 | Hlasování v rámci governance (Snapshot) - jednorázově            | 50 SWAG              |
-| Vytvoření NFT ([NiftyInk](https://nifty.ink)) - jednorázově      | 100 SWAG             |
+| Vytvoření NFT ([NiftyInk](https://nifty.ink/)) - jednorázově     | 100 SWAG             |
 
 ## Ceník upomínkových předmětů
 
