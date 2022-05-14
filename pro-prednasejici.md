@@ -104,7 +104,7 @@ TODO
 
 ### Jídlo a pití
 
-Pitná voda bude zdarma. Veškeré další jídlo a pití na konferenci bude [placené](catering.md), ale vynasnažíme se připravit pro přednášející alespoň nějaké malé pohoštění v zázemí.
+Pitná voda bude zdarma. Veškeré další jídlo a pití na konferenci bude [placené](sluzby-navstevnikum/catering.md), ale vynasnažíme se připravit pro přednášející alespoň nějaké malé pohoštění v zázemí.
 
 ### Doprava
 
