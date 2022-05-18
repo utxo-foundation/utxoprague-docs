@@ -6,7 +6,7 @@ Připravujeme pro vás obsáhlý program s více než **100 hodinami přednáše
 
 ## Programové sekce
 
-Přednášky a workshopy budou rozděleny do **9 tématických programových sekcí**. Níže naleznete jejich přehled a relevantní příklady.
+Přednášky a workshopy budou rozděleny do **10 tématických programových sekcí**. Níže naleznete jejich přehled a relevantní příklady.
 
 <details>
 
