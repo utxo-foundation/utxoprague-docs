@@ -110,3 +110,7 @@ Pitná voda bude zdarma. Veškeré další jídlo a pití na konferenci bude [pl
 
 TODO
 
+### Ubytování
+
+Ubytování bohužel neposkytujeme. Budeme mít okolo 100 přednášejících a kapacitně ani finančně to není v našich silách. Děkujeme za pochopení.
+
