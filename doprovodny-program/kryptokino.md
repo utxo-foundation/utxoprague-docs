@@ -8,7 +8,7 @@ description: Pátek, 3. června 2022 18:00, Kino Světozor
 
 V rámci širšího záběru konference, chceme nabídnout i různý doprovodný obsah a jedním z nich je i promítání prvního slovensko-českého dokumentárního filmu o kryptoměnách s názvem [Libertas](https://www.csfd.cz/film/926287-libertas/) (2020). Promítání se uskuteční v **pátek 3. června 2022** večer v [kině Světozor](kryptokino.md#kino-svetozor-velky-sal). Po filmu bude následovat debata s hosty.
 
-Vstupenky bude možné zakoupit v předprodeji společně se vstupenkou na UTXO.22 (max 100 míst), nebo poté skrz běžný prodejní systém kina (duben-květen).
+Vstupenky bude možné zakoupit v předprodeji společně se vstupenkou na UTXO.22 (max 100 míst), nebo poté skrz běžný prodejní systém kina ([odkaz na nákup](https://www.kinosvetozor.cz/?cinema=3\&hall=1%2C2%2C3\&search=libertas\&projection=8589)).
 
 Tuto událost pro vás připravujeme společně s libereckou konferencí [CryptoByte](https://cryptobyte.cz/).
 
@@ -17,6 +17,8 @@ Tuto událost pro vás připravujeme společně s libereckou konferencí [Crypto
 * Následná diskuze a zakončení programu v cca 20:30.
 
 👉 [Facebook událost](https://www.facebook.com/events/1349383142245910/)
+
+:tickets: [Koupit vstupenku (kinosvetozor.cz)](https://www.kinosvetozor.cz/?cinema=3\&hall=1%2C2%2C3\&search=libertas\&projection=8589)
 
 | Kdy a kde                                | Film                                                                 | Popis                                                               |
 | ---------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------- |
