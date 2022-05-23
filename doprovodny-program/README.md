@@ -6,9 +6,9 @@
 
 ## Pátek 3. června
 
-| Čas           | Událost                            | Kde |
-| ------------- | ---------------------------------- | --- |
-| 19:00 - 22:00 | ****[**UTXO.Kino**](kryptokino.md) | TBD |
+| Čas           | Událost                                             | Kde           |
+| ------------- | --------------------------------------------------- | ------------- |
+| 18:00 - 20:30 | ****[**KryptoKino 3.6. - Libertas**](kryptokino.md) | Kino Světozor |
 
 ## Sobota 4. června
 

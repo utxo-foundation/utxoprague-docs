@@ -20,7 +20,7 @@
   * [Návrhy na přednášky](hlavni-program/navrhy-na-prednasky.md)
   * [Programová brožura](hlavni-program/programova-brozura.md)
 * [Doprovodný program](doprovodny-program/README.md)
-  * [KryptoKino 3.6.](doprovodny-program/kryptokino.md)
+  * [KryptoKino 3.6. - Libertas](doprovodny-program/kryptokino.md)
   * [UTXO.Party](doprovodny-program/utxo.party.md)
 * [Služby návštěvníkům](sluzby-navstevnikum/README.md)
   * [Chillout zóna](sluzby-navstevnikum/chillout-zona.md)
