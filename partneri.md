@@ -8,19 +8,20 @@ Hledáme každého, kdo může dát o UTXO.22 vědět svým divákům, poslucha�
 
 ## Spolupracující komunity
 
-| Název                                                                   | Popis                                                                                                          |
-| ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| [**Gwei.cz**](https://twitter.com/gweicz)                               | Ethereum/DeFi/Web3 komunita                                                                                    |
-| [**Holky v kryptu**](https://twitter.com/holkyvkryptu)                  | Komunita pro začínající a mírně pokročilé uživatele                                                            |
-| [**Bankless Czech**](https://twitter.com/banklesscz)                    | Novinkový a vzdělávací web o kryptoměnách                                                                      |
-| [**Bitcoinovej Kanál komunita (BTCKNL)**](https://discord.gg/HWG9Erm)   | Bitcoinová komunita                                                                                            |
-| [**CZ/SK NFT Community**](https://discord.gg/X4MV9Pn5P8)                | NFT komunita (RΞSISTANCΞ)                                                                                      |
-| [**KryptoVláďa komunita**](https://discord.gg/RHmhNGN)                  | DeFi/Ethereum/Polkadot/NEAR komunita                                                                           |
-| [**Polkadotters**](https://twitter.com/Polkadotters1)                   | Polkadot komunita                                                                                              |
-| [**Cardanians**](https://twitter.com/Cardanians_io)                     | Cardano komunita                                                                                               |
-| [**KryptoHerna**](https://twitter.com/hernakrypto)                      | Blockchain gaming/metaverse komunita                                                                           |
-| [**Česká kryptoměnová asociace - ČKMA**](https://twitter.com/CeskaCkma) | Spolek hájící zájmy podnikatelů v oblasti kryptoměn                                                            |
-| [**Liberální institut**](https://twitter.com/libinstcz)                 | Think-tank, jehož cílem je rozvíjet a aplikovat ideje a programy založené na principech klasického liberalismu |
+| Název                                                                   | Popis                                                                                                                                     |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Gwei.cz**](https://twitter.com/gweicz)                               | Ethereum/DeFi/Web3 komunita                                                                                                               |
+| [**Holky v kryptu**](https://twitter.com/holkyvkryptu)                  | Komunita pro začínající a mírně pokročilé uživatele                                                                                       |
+| [**Bankless Czech**](https://twitter.com/banklesscz)                    | Novinkový a vzdělávací web o kryptoměnách                                                                                                 |
+| [**Bitcoinovej Kanál komunita (BTCKNL)**](https://discord.gg/HWG9Erm)   | Bitcoinová komunita                                                                                                                       |
+| [**CZ/SK NFT Community**](https://discord.gg/X4MV9Pn5P8)                | NFT komunita (RΞSISTANCΞ)                                                                                                                 |
+| [**KryptoVláďa komunita**](https://discord.gg/RHmhNGN)                  | DeFi/Ethereum/Polkadot/NEAR komunita                                                                                                      |
+| [**Polkadotters**](https://twitter.com/Polkadotters1)                   | Polkadot komunita                                                                                                                         |
+| [**Cardanians**](https://twitter.com/Cardanians_io)                     | Cardano komunita                                                                                                                          |
+| [**KryptoHerna**](https://twitter.com/hernakrypto)                      | Blockchain gaming/metaverse komunita                                                                                                      |
+| [**Česká kryptoměnová asociace - ČKMA**](https://twitter.com/CeskaCkma) | Spolek hájící zájmy podnikatelů v oblasti kryptoměn                                                                                       |
+| [**Liberální institut**](https://twitter.com/libinstcz)                 | Think-tank, jehož cílem je rozvíjet a aplikovat ideje a programy založené na principech klasického liberalismu                            |
+| [**Students For Liberty CZ**](https://twitter.com/sflcz)                | Nezisková, apolitická studentská organizace, jejímž hlavním posláním je podpora a sjednocování studentů hlásících se k myšlenkám svobody. |
 
 ## Mediální partneři
 
