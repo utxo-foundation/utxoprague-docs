@@ -43,4 +43,6 @@ Po kliknutí na tlačítko "_Propose changes"_ se se provede fork repozitáře, 
 
 Další krok je jen vytvoření [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) žádosti - po jeho odeslání se změny pošlou organizátorům ke schválení.
 
-Hotovo.
+Vyplňte nadpis, tedy stručné shrnutí vašich změn a klikněte na "Create pull request". Hotovo.
+
+![](<../.gitbook/assets/Screenshot 2022-06-01 at 0.04.42.png>)
