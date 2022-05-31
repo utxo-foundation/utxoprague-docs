@@ -29,12 +29,18 @@ Datové soubory jsou v lidsky čitelném značkovacím formátu [YAML](https://y
 
 ![](<../.gitbook/assets/Screenshot 2022-04-21 at 20.04.39.png>)
 
-### Krok 3. - odeslání změn
+### Krok 3. - odeslání změn (fork & commit)
 
 Jakmile provedete úpravu textu souboru, je nutné vaše změny uložit. Na konci stránky naleznete formulář a tlačítko "_Propose changes_".
 
 Vyplnit stačí jen první pole, kde popíšete v pár slovech vaši změnu a musí být zvoleno "_Create a new branch for this commit and start a pull request_".
 
-Po kliknutí na tlačítko "_Propose changes"_ se vytvoří [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), což znamená že se změny pošlou organizátorům ke schválení. Hotovo.
+Po kliknutí na tlačítko "_Propose changes"_ se se provede fork repozitáře, a změny se projeví na vašem forku (commit).
 
 ![](<../.gitbook/assets/Screenshot 2022-04-21 at 20.08.02.png>)
+
+### Krok 4. - vytvoření Pull Request
+
+Další krok je jen vytvoření [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) žádosti - po jeho odeslání se změny pošlou organizátorům ke schválení.
+
+Hotovo.
