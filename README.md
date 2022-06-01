@@ -10,10 +10,10 @@ description: 4.-5. červen 2022, Praha 🇨🇿 - Otevřená kryptoměnová komu
 
 [UTXO.22](http://utxo.cz/) (/juː-tiː-ɛks-əʊ.22/) je otevřená komunitní konference zaměřená na kryptoměny a blockchain, která má ambice stát se **největší akcí svého druhu v České republice**. **** Jedná se o dvoudenní akci, která kombinuje aktuální krypto témata, aniž by se zaměřovala na jeden konkrétní blockchain.
 
-Díky rozsáhlému programu, který obsahuje více než **100 hodin přednášek a workshopů**, můžeme nabídnout obsah jak široké veřejnosti, tak pokročilým uživatelům.
+Díky rozsáhlému programu, který obsahuje více než **120 hodin přednášek a workshopů**, můžeme nabídnout obsah jak široké veřejnosti, tak pokročilým uživatelům.
 
 {% hint style="success" %}
-V současnosti máme potvrzených [100+ přednášejících](https://utxo.cz/), mezi ty nejvýznamnější patří, např. **Dominik Stroukal**, **Juraj Bednár**, **Petr Mára** nebo **Urza**.
+V současnosti máme potvrzených [120+ přednášejících](https://utxo.cz/), mezi ty nejvýznamnější patří, např. **Dominik Stroukal**, **Juraj Bednár**, **Petr Mára** nebo **Urza**.
 {% endhint %}
 
 Naším cílem je představit a vzdělávat širokou krypto-veřejnost v oblasti otevřených blockchainů, jejich základních principů, jako je **decentralizace, neutralita, otevřenost, spolupráce** a souvisejících témat. Ukázat výhody, představit případy použití a zároveň prohloubit důvěru v jejich používání s důrazem na bezpečnost.
