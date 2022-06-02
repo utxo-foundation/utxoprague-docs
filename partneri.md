@@ -40,4 +40,5 @@ Hledáme každého, kdo může dát o UTXO.22 vědět svým divákům, poslucha�
 | [**Vojta Žižka**](https://twitter.com/VojtaZizka)                                         | Podcast a videa ze světa financí, investic a kryptoměn. |
 | [**Crypto portal**](https://twitter.com/CryptoPortalArt)                                  | Prague's NFT Gallery                                    |
 | [**Zaujalo ma**](https://twitter.com/ZaujaloMa)                                           | Youtube kanál                                           |
+| [**Hobby TV**](https://tvhobby.cz/)                                                       |                                                         |
 
