@@ -1,5 +1,7 @@
 ---
 description: 4.-5. červen 2022, Praha 🇨🇿 - Otevřená kryptoměnová komunitní konference
+cover: ../../.gitbook/assets/Screenshot 2023-01-08 at 23.48.33.png
+coverY: 124
 ---
 
 # UTXO.22
