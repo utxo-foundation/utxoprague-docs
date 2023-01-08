@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Co je to UTXO?](README.md)
+* [Filozofie konference](filozofie-konference.md)
 
 ## Události
 
 * [UTXO.23](udalosti/23.md)
 * [UTXO.22](udalosti/utxo.22/README.md)
-  * [Filozofie konference](udalosti/utxo.22/filozofie-konference.md)
   * [Roadmap](roadmap.md)
   * [Místo konání](misto-konani/README.md)
     * [Přehled sálů](misto-konani/prehled-salu/README.md)

@@ -1,6 +1,6 @@
 # Kurátoři programových sekcí
 
-Naše [filozofie](../udalosti/utxo.22/filozofie-konference.md) říká, že organizační team nechce určovat jací přednášející budou pozvání a jací ne, nebo jaký obsah na konferenci bude a jaký nebude. Proto na další ročník připravujeme systém programových kurátorů (letos to bohužel nestihneme), což budou zástupci jednotlivých kryptoměnových komunit, nebo respektovaní jednotlivci.
+Naše [filozofie](../filozofie-konference.md) říká, že organizační team nechce určovat jací přednášející budou pozvání a jací ne, nebo jaký obsah na konferenci bude a jaký nebude. Proto na další ročník připravujeme systém programových kurátorů (letos to bohužel nestihneme), což budou zástupci jednotlivých kryptoměnových komunit, nebo respektovaní jednotlivci.
 
 Každá programová sekce by měla mít minimálně 3 kurátory (5 max).
 

@@ -34,6 +34,6 @@
 
 ### Červen 2022
 
-* [ ] **4.-5. červen - konání konference**
+* [x] **4.-5. červen - konání konference**
 * [ ] POAP badge za účast
-* [ ] Zveřejnění záznamů na našem YT kanálu
+* [x] Zveřejnění záznamů na našem YT kanálu
