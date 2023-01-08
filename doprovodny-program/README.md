@@ -12,7 +12,7 @@
 
 ## Sobota 4. června
 
-První den [hlavního programu](../hlavni-program/) v [Gabriel Loci](../misto-konani/).
+První den [hlavního programu](../hlavni-program.md) v [Gabriel Loci](../misto-konani/).
 
 | Čas           | Událost                             | Kde          |
 | ------------- | ----------------------------------- | ------------ |
@@ -20,7 +20,7 @@ První den [hlavního programu](../hlavni-program/) v [Gabriel Loci](../misto-ko
 
 ## Neděle 5. června
 
-Druhý den [hlavního programu](../hlavni-program/) v [Gabriel Loci](../misto-konani/).
+Druhý den [hlavního programu](../hlavni-program.md) v [Gabriel Loci](../misto-konani/).
 
 ### 21:00 - ? | Afterparty - místo TBA
 

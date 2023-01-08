@@ -2,7 +2,7 @@
 
 Připravujeme pro vás obsáhlý program s více než **100 hodinami přednášek a workshopů.** Chceme nabídnout obsah jak široké veřejnosti a úplným začátečníkům, tak pokročilým uživatelům. Kombinujeme aktuální krypto témata, aniž bychom se zaměřovali na jeden konkrétní blockchain.
 
-> Naším cílem je představit a vzdělávat širokou veřejnost v oblasti otevřených blockchainů, jejich základních principů, jako je **decentralizace, neutralita, otevřenost, spolupráce** a souvisejících témat. Ukázat výhody, představit případy použití a zároveň prohloubit důvěru v jejich používání s důrazem na bezpečnost. ([Hlavní stránka](../readme/))
+> Naším cílem je představit a vzdělávat širokou veřejnost v oblasti otevřených blockchainů, jejich základních principů, jako je **decentralizace, neutralita, otevřenost, spolupráce** a souvisejících témat. Ukázat výhody, představit případy použití a zároveň prohloubit důvěru v jejich používání s důrazem na bezpečnost. ([Hlavní stránka](broken-reference))
 
 ## Programové sekce
 
@@ -114,7 +114,7 @@ Přednášky a workshopy budou rozděleny do **10 tématických programových se
 
 ## Časová osa
 
-V následující tabulce naleznete obecnou představu, jak by mohl vypadat harmonogram celé akce v [Gabriel Loci](../misto-konani/).
+V následující tabulce naleznete obecnou představu, jak by mohl vypadat harmonogram celé akce v [Gabriel Loci](misto-konani/).
 
 {% embed url="https://docs.google.com/spreadsheets/d/1MCsYNXwSZgO0aOGDnN0zpRA4UceZbVYKVXzNTX-tnjQ/edit?usp=sharing" %}
 

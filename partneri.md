@@ -17,7 +17,7 @@ Hledáme každého, kdo může dát o UTXO.22 vědět svým divákům, poslucha�
 | [**CZ/SK NFT Community**](https://discord.gg/X4MV9Pn5P8)                | NFT komunita (RΞSISTANCΞ)                                                                                                                 |
 | [**KryptoVláďa komunita**](https://discord.gg/RHmhNGN)                  | DeFi/Ethereum/Polkadot/NEAR komunita                                                                                                      |
 | [**Polkadotters**](https://twitter.com/Polkadotters1)                   | Polkadot komunita                                                                                                                         |
-| [**Cardanians**](https://twitter.com/Cardanians_io)                     | Cardano komunita                                                                                                                          |
+| [**Cardanians**](https://twitter.com/Cardanians\_io)                    | Cardano komunita                                                                                                                          |
 | [**KryptoHerna**](https://twitter.com/hernakrypto)                      | Blockchain gaming/metaverse komunita                                                                                                      |
 | [**Česká kryptoměnová asociace - ČKMA**](https://twitter.com/CeskaCkma) | Spolek hájící zájmy podnikatelů v oblasti kryptoměn                                                                                       |
 | [**Liberální institut**](https://twitter.com/libinstcz)                 | Think-tank, jehož cílem je rozvíjet a aplikovat ideje a programy založené na principech klasického liberalismu                            |
@@ -33,7 +33,7 @@ Hledáme každého, kdo může dát o UTXO.22 vědět svým divákům, poslucha�
 | [**KryptoDoupě**](https://www.kryptodoupe.cz/)                                            |                                                         |
 | [**Investree**](https://investree.cz/)                                                    | Vzdělávání okolo finanční svobody (Tomáš Zdražil)       |
 | [**KryptoPlatby CZ/SK**](https://linktr.ee/kryptoplatby)                                  |                                                         |
-| [**Trader 2.0**](https://twitter.com/Trader_20_)                                          |                                                         |
+| [**Trader 2.0**](https://twitter.com/Trader\_20\_)                                        |                                                         |
 | [**Svět Androida**](https://www.svetandroida.cz/)                                         |                                                         |
 | [**KryptoDeník**](https://www.instagram.com/kryptodenik/)                                 | Nejdůležitější novinky ze světa kryptoměn               |
 | [**Investocka**](https://www.investocka.cz/)                                              | Videoblog o investicích                                 |
@@ -41,4 +41,3 @@ Hledáme každého, kdo může dát o UTXO.22 vědět svým divákům, poslucha�
 | [**Crypto portal**](https://twitter.com/CryptoPortalArt)                                  | Prague's NFT Gallery                                    |
 | [**Zaujalo ma**](https://twitter.com/ZaujaloMa)                                           | Youtube kanál                                           |
 | [**Hobby TV**](https://tvhobby.cz/)                                                       |                                                         |
-
