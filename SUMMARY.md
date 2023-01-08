@@ -55,3 +55,7 @@
   * [Partneři](partneri.md)
   * [Sponzoři](sponzori.md)
   * [Související události](souvisejici-udalosti/souvisejici-udalosti.md)
+
+## Související
+
+* [Prague Blockchain Week](https://prgblockweek.com/)
