@@ -12,5 +12,5 @@ Zaměřujeme se na kryptoměny a související témata, jako je decentralizace n
 
 **Do přednášek a workshopů nijak obsahově nezasahujeme** - přednášející mají svůj přidělený čas a můžou ho využít jak chtějí.
 
-**Otevřenost je pro nás klíčová** - jsme fanoušci open-source filozofie a snažíme se být maximálně transparentní, ať už v procesech nebo v poskytovaných informacích (viz. například [náš repozitář na GitHubu](https://github.com/utxo-foundation)).
+**Otevřenost je pro nás klíčová** - jsme fanoušci open-source filozofie a snažíme se být maximálně transparentní, ať už v procesech nebo v poskytovaných informacích (viz. například [náše repozitář na GitHubu](https://github.com/utxo-foundation)).
 

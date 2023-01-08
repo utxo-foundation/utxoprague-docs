@@ -2,6 +2,10 @@
 
 _UTXO_ je **otevřená komunitní konference** zaměřená na **kryptoměny a blockchain**, která se koná každoročně na začátku června v Praze.
 
+{% content-ref url="filozofie-konference.md" %}
+[filozofie-konference.md](filozofie-konference.md)
+{% endcontent-ref %}
+
 ## Seznam ročníků
 
 * [UTXO.23](udalosti/23.md) (2023)
