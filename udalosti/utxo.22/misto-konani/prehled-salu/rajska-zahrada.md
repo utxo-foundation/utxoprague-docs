@@ -6,5 +6,5 @@
 * Počet vstupů: 6
 * Web: [https://www.gabrielloci.com/pronajmy/rajska-zahrada/](https://www.gabrielloci.com/pronajmy/rajska-zahrada/)
 
-![](../../.gitbook/assets/gabriel-loci-rajska-zahrada.jpeg)
+![](../../../../.gitbook/assets/gabriel-loci-rajska-zahrada.jpeg)
 

@@ -28,9 +28,9 @@
 ### Květen 2022
 
 * [x] Třetí vlna vstupenek
-* [ ] Finální časový rozpis přednášek
-* [ ] Webová prezentace - interaktivní program (V3)
-* [ ] Uzavření programu
+* [x] Finální časový rozpis přednášek
+* [x] Webová prezentace - interaktivní program (V3)
+* [x] Uzavření programu
 
 ### Červen 2022
 

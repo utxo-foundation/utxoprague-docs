@@ -10,12 +10,12 @@ Děkujeme že jste se rozhodli přednášet na konferenci UTXO.22!
 
 Na této stránce naleznete základní instrukce a informace, které se vám můžou hodit:
 
-* [Jak komunikovat s organizátory](pro-prednasejici.md#komunikace-s-organizatory)
-* [Jak je to se vstupenkami pro přednášející a jejich doprovod](pro-prednasejici.md#vstupenky-pro-vas-a-doprovod)
-* [Jaký je aktuální program a jak můžete upravit anotaci svojí přednášky](pro-prednasejici.md#program)
-* [Jaký bude průběh přednášky a workshopu](pro-prednasejici.md#prubeh-prednasky-workshopu)
-* [Jaké bude vybavení sálů](pro-prednasejici.md#vybaveni-salu)
-* [Další praktické informace o jídlu a pití nebo dopravě](pro-prednasejici.md#prakticke-informace)
+* [Jak komunikovat s organizátory](./#komunikace-s-organizatory)
+* [Jak je to se vstupenkami pro přednášející a jejich doprovod](./#vstupenky-pro-vas-a-doprovod)
+* [Jaký je aktuální program a jak můžete upravit anotaci svojí přednášky](./#program)
+* [Jaký bude průběh přednášky a workshopu](./#prubeh-prednasky-workshopu)
+* [Jaké bude vybavení sálů](./#vybaveni-salu)
+* [Další praktické informace o jídlu a pití nebo dopravě](./#prakticke-informace)
 
 ## Komunikace s organizátory
 
@@ -56,7 +56,7 @@ Pro hlubší debatu a konkrétní working groups, se připojte na náš [Discord
 
 **Jako přednášející máte samozřejmě vstupenku zdarma.** Každý přednášející má také nárok na jednu další vstupenku zdarma pro doprovod.
 
-Odkazy na převzetí vstupenek vám zašle váš [koordinátor](pro-prednasejici.md#koordinator) jakmile potvrdíte svoji účast.
+Odkazy na převzetí vstupenek vám zašle váš [koordinátor](./#koordinator) jakmile potvrdíte svoji účast.
 
 ## Program
 
@@ -64,7 +64,7 @@ Veškerý nahlášený obsah naleznete na našem webu v sekci [Program](https://
 
 Standartní čas pro přednášku je 45-55 minut včetně diskuze (hodinový blok).
 
-Pokud chcete přidat novou přednášku, konzultujte to prosím se svým [koordinátorem](pro-prednasejici.md#koordinator).
+Pokud chcete přidat novou přednášku, konzultujte to prosím se svým [koordinátorem](./#koordinator).
 
 ### Anotace vašich přednášek nebo workshopů
 
@@ -72,7 +72,7 @@ Prosíme všechny přednášející, kteří mají potvrzenou událost, aby dopl
 
 Budeme mít (záměrně) velkoou konkurenci obsahu - souběžně pojede 6 sálů (zatím to vypadá na 4 přednáškové a 2 workshopové), takže je nutné návštěvníkům dát jasné důvody, proč by měli přijít právě na vaši přednášku nebo workshop :-)
 
-Detaily svojí přednášky můžete upravovat: a) sami přes náš [GitHub repozitář](https://github.com/utxo-foundation/utxo/tree/master/spec/22) ([jednoduchý návod](pro-prednasejici/navod-na-upravu-zdrojovych-dat.md)), b) nebo tak že kontaktujete vašeho konferenčního koordinátora.
+Detaily svojí přednášky můžete upravovat: a) sami přes náš [GitHub repozitář](https://github.com/utxo-foundation/utxo/tree/master/spec/22) ([jednoduchý návod](navod-na-upravu-zdrojovych-dat.md)), b) nebo tak že kontaktujete vašeho konferenčního koordinátora.
 
 #### Jak by měl vypadat popis?
 
@@ -88,9 +88,9 @@ Program plánujeme uzavřít zhruba 1-2 týdny před konferencí, a ve stejnou d
 
 ## Vybavení sálů
 
-Ve všech přednáškových a workshopových sálech bude k dispozici projektor. Očekáváme, že si každý přednášející přinese svůj vlastní notebook, který přes HDMI konektor na projektor napojí ([s vyjímkou Bleskových přednášek](pro-prednasejici.md#bleskove-prednasky)). Budou k dispozici různé redukce a prezentér.
+Ve všech přednáškových a workshopových sálech bude k dispozici projektor. Očekáváme, že si každý přednášející přinese svůj vlastní notebook, který přes HDMI konektor na projektor napojí ([s vyjímkou Bleskových přednášek](./#bleskove-prednasky)). Budou k dispozici různé redukce a prezentér.
 
-Hlavní 3 přednáškové sály budou nahrávané a [žive streamované](utxo.tv-livestream.md), takže bude nutné využít mikrofon.
+Hlavní 3 přednáškové sály budou nahrávané a [žive streamované](../utxo.tv-livestream.md), takže bude nutné využít mikrofon.
 
 ### Bleskové přednášky (Lightning talks)
 
@@ -104,7 +104,7 @@ TODO
 
 ### Jídlo a pití
 
-Pitná voda bude zdarma. Veškeré další jídlo a pití na konferenci bude [placené](sluzby-navstevnikum/catering.md), ale vynasnažíme se připravit pro přednášející alespoň nějaké malé pohoštění v zázemí.
+Pitná voda bude zdarma. Veškeré další jídlo a pití na konferenci bude [placené](../sluzby-navstevnikum/catering.md), ale vynasnažíme se připravit pro přednášející alespoň nějaké malé pohoštění v zázemí.
 
 ### Doprava
 
