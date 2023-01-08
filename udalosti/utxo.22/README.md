@@ -22,19 +22,19 @@ V neposlední řadě je program cíleně naplánován tak, aby navazoval na dal�
 
 ## Koncept konference
 
-[Hlavní program](hlavni-program/) se uskuteční o víkendu **4. a 5. června 2022** v unikátním komplexu bývalého kláštera v centru Prahy ([Gabriel Loci](misto-konani/)). **Optimální kapacita bude 1000 hostů** (maximum 1200) a zároveň plánujeme nabídnout živý přenos přednášek online ([UTXO.TV](utxo.tv-livestream.md)), což by mělo znásobit její dopad.
+[Hlavní program](../../hlavni-program.md) se uskuteční o víkendu **4. a 5. června 2022** v unikátním komplexu bývalého kláštera v centru Prahy ([Gabriel Loci](../../misto-konani/)). **Optimální kapacita bude 1000 hostů** (maximum 1200) a zároveň plánujeme nabídnout živý přenos přednášek online ([UTXO.TV](../../utxo.tv-livestream.md)), což by mělo znásobit její dopad.
 
-K dispozici bude [hlavní přednáškový sál](misto-konani/prehled-salu/rajska-zahrada.md) s kapacitou 350 osob, dva středně velké přednáškové sály s celkovou kapacitou 320 osob a 4 menší sály pro workshopy s celkovou kapacitou 200 osob. Obsah v nich bude probíhat současně.&#x20;
+K dispozici bude [hlavní přednáškový sál](../../misto-konani/prehled-salu/rajska-zahrada.md) s kapacitou 350 osob, dva středně velké přednáškové sály s celkovou kapacitou 320 osob a 4 menší sály pro workshopy s celkovou kapacitou 200 osob. Obsah v nich bude probíhat současně.&#x20;
 
 V budově nabídneme také několik dalších prostor pro výstavu a charitativní aukci uměleckých děl NFT, prostory s výukovými materiály a praktickými ukázkami, bitcoinové bankomaty a samozřejmě občerstvení a prostory pro networking a odpočinek.
 
-Venkovní část budovy poskytne přibližně 150 míst k sezení a širší prostor pro networking s možností využití několika food trucků. Večer po prvním dni konference bude následovat společenský večer se zábavným programem a charitativní aukcí, na kterou plynule naváže [hudební a taneční párty](doprovodny-program/utxo.party.md) v několika sálech a různými žánry.
+Venkovní část budovy poskytne přibližně 150 míst k sezení a širší prostor pro networking s možností využití několika food trucků. Večer po prvním dni konference bude následovat společenský večer se zábavným programem a charitativní aukcí, na kterou plynule naváže [hudební a taneční párty](../../doprovodny-program/utxo.party.md) v několika sálech a různými žánry.
 
-Vstupné nebude zdarma, ale chceme ho držet [velmi nízko](navstevnici/vstupenky.md#distribucni-faze). Na celou dvoudenní konferenci by vstupenka měla stát okolo $25 (cca 560 Kč).
+Vstupné nebude zdarma, ale chceme ho držet [velmi nízko](../../navstevnici/vstupenky.md#distribucni-faze). Na celou dvoudenní konferenci by vstupenka měla stát okolo $25 (cca 560 Kč).
 
 Konference plánována jako čistě nezisková událost, která bude financovaná především sponzorskými dary. V současné době probíhá proces založení [nezávislého neziskového subjektu](broken-reference), který bude konferenci zaštiťovat.
 
-Kromě hlavní konference proběhne pod naší záštitou, nebo v režii partnerských organizací několik menších akcí. V naší režii například promítání filmů s krypto tematikou, různé workshopy, krypto hospodské kvízy a podobně (viz. [Doprovodný program](doprovodny-program/)).
+Kromě hlavní konference proběhne pod naší záštitou, nebo v režii partnerských organizací několik menších akcí. V naší režii například promítání filmů s krypto tematikou, různé workshopy, krypto hospodské kvízy a podobně (viz. [Doprovodný program](../../doprovodny-program/)).
 
 ## Kdo jsme?
 
@@ -50,11 +50,11 @@ V letošním roce jsme mimo jiné uspořádali největší venkovní [Krypto mee
 
 Je pro nás důležité, aby každý měl možnost říci svoje připomínky nebo nápady. Vytvořili jsme pro to vlastní [**Discord server**](https://discord.gg/5k9dEtVhnv) a veřejnou [**Telegram skupinu**](https://t.me/utxoprague)**.** Budeme rádi pokud se zapojíte se do naší komunity.
 
-Veškeré informace o konferenci se snažíme transparentně publikovat v rámci [Dokumentace](https://app.gitbook.com/o/-MX51JfmlnAQkYbTRI4J/s/ksSw74pkYApxPGDhzkzg/). Její součástí budou postupně všechny klíčové informace - například lidé, kteří se podílejí na organizaci ([Organizační team](organizacni-team/)), seznam subdodavatelů, nebo detailní rozpočet. Dokumentace je dostupná jako open-source na [GitHubu](https://github.com/gweicz/utxo22-docs), kde ji může kdokoliv pomoci doplnit, nebo opravit.
+Veškeré informace o konferenci se snažíme transparentně publikovat v rámci [Dokumentace](https://app.gitbook.com/o/-MX51JfmlnAQkYbTRI4J/s/ksSw74pkYApxPGDhzkzg/). Její součástí budou postupně všechny klíčové informace - například lidé, kteří se podílejí na organizaci ([Organizační team](../../organizacni-team/)), seznam subdodavatelů, nebo detailní rozpočet. Dokumentace je dostupná jako open-source na [GitHubu](https://github.com/gweicz/utxo22-docs), kde ji může kdokoliv pomoci doplnit, nebo opravit.
 
 ## Současný stav
 
-Máme rezervované místo konání a potvrzené první [sponzory](sponzori.md) a [přednášející](broken-reference). Hotové základní [stránky konference](propagace/webove-stranky.md). Připravujeme pro vás informace o všech přednášejících i se [soupisem jejich přednášek](https://utxo.cz/program). První vlna vstupenek byla vypuštěna 13.dubna, [další 2 vlny jsou na cestě](https://twitter.com/utxoprague/status/1513603646767910917?s=20\&t=ZgF4Xevy4EgrnFN2enwDMw). Další zásadní milníky, které nás čekají, naleznete na stránce [Roadmap](roadmap.md).
+Máme rezervované místo konání a potvrzené první [sponzory](../../sponzori.md) a [přednášející](broken-reference). Hotové základní [stránky konference](../../propagace/webove-stranky.md). Připravujeme pro vás informace o všech přednášejících i se [soupisem jejich přednášek](https://utxo.cz/program). První vlna vstupenek byla vypuštěna 13.dubna, [další 2 vlny jsou na cestě](https://twitter.com/utxoprague/status/1513603646767910917?s=20\&t=ZgF4Xevy4EgrnFN2enwDMw). Další zásadní milníky, které nás čekají, naleznete na stránce [Roadmap](../../roadmap.md).
 
 ## Kde nás najdete
 

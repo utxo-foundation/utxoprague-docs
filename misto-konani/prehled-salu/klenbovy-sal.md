@@ -6,4 +6,4 @@
 * Počet vstupů: 4
 * Web: [https://www.gabrielloci.com/pronajmy/klenbovy-sal/](https://www.gabrielloci.com/pronajmy/klenbovy-sal/)
 
-![](<../../../../.gitbook/assets/gabriel-loci-klenbovy-sal (1).jpeg>)
+![](<../../.gitbook/assets/gabriel-loci-klenbovy-sal (1).jpeg>)

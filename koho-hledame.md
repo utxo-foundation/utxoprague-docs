@@ -1,6 +1,6 @@
 # Koho hledáme
 
-Hledáme schopné a kreativní lidi do [organizačního teamu](./), kteří nám pomůžou konferenci udělat tou nejlepší kryptoměnovou akcí v ČR :)
+Hledáme schopné a kreativní lidi do [organizačního teamu](organizacni-team/), kteří nám pomůžou konferenci udělat tou nejlepší kryptoměnovou akcí v ČR :)
 
 ## Volné pozice
 

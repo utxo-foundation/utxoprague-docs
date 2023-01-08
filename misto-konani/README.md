@@ -9,7 +9,7 @@ Jedná se o jedinečný komplex, jež byl postaven v novorománském stylu, a st
 * Adresa: **Holečkova 106/10, 150 00 Praha 5-Smíchov** ([Google Maps](https://goo.gl/maps/QWhJaGuZGsJS2S749))
 * Webové stránky: [gabrielloci.com](https://www.gabrielloci.com/)
 
-![](../../../.gitbook/assets/gabriel\_loci-meatspace-\_xz.jpeg) ![](../../../.gitbook/assets/gabriel-loci-outside.jpeg)
+![](../.gitbook/assets/gabriel\_loci-meatspace-\_xz.jpeg) ![](../.gitbook/assets/gabriel-loci-outside.jpeg)
 
 ## Dostupné prostory
 
@@ -27,7 +27,7 @@ Jedná se o jedinečný komplex, jež byl postaven v novorománském stylu, a st
 
 ## Návrh využití prostor
 
-![přízemí](../../../.gitbook/assets/plan\_prizemi.jpg)
+![přízemí](../.gitbook/assets/plan\_prizemi.jpg)
 
-![ 1. patro](../../../.gitbook/assets/plan\_prvni\_patro.jpg)
+![ 1. patro](../.gitbook/assets/plan\_prvni\_patro.jpg)
 
