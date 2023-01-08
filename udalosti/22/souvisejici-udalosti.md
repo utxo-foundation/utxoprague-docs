@@ -12,7 +12,7 @@ Přehled všech větších krypto události v ČR/SK.
 | 16.-17.5.     | Praha, Cubex                | ?      | [Gateway Conference ](https://gateway.events/)(Cosmos)                                                            |
 | 21.5.         | Praha, Paralelní Polis      | ?      | [Pizzaday](https://www.pizzaday.cz/)                                                                              |
 | 28.5.         | Praha, CEVRO                | ?      | [Konference Svobodného Přístavu](https://konference.urza.cz/)                                                     |
-| 3.6.          | Praha, Kino Světozor        | 356    | ****[**KryptoKino 3.6.**](../doprovodny-program/kryptokino.md) **🤝**                                             |
+| 3.6.          | Praha, Kino Světozor        | 356    | ****[**KryptoKino 3.6.**](doprovodny-program/kryptokino.md) **🤝**                                                |
 | **4.-5.6.**   | **Praha, Gabriel Loci**     | 1000   | **UTXO.22** (tato konference)                                                                                     |
 | 7.6.          | **Praha, Jatka78**          | ?      | [**DotSama Prague**](https://dotsama-prague.xyz/)****                                                             |
 | **10.-12.6.** | **Praha, Paralelní Polis**  | ?      | ****[**ETHPrague 2022**](https://twitter.com/EthPrague) **🤝**                                                    |

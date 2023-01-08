@@ -22,7 +22,7 @@ UTXO token je ERC-20 token, reprezentující "základní podíl" návštěvníka
 
 Základní emise UTXO tokenů, kterou účastníci dostanou na začátku konference.
 
-![](<../.gitbook/assets/navrh-distribuce-utxo (1).png>)
+![](<../../../.gitbook/assets/navrh-distribuce-utxo (1).png>)
 
 | Skupina          | Celková částka | Dostupná částka |
 | ---------------- | -------------- | --------------- |

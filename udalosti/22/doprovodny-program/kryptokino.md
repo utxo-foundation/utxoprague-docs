@@ -4,7 +4,7 @@ description: Pátek, 3. června 2022 18:00, Kino Světozor
 
 # KryptoKino 3.6. - Libertas
 
-![](../.gitbook/assets/kryptokino.jpeg)
+![](../../../.gitbook/assets/kryptokino.jpeg)
 
 V rámci širšího záběru konference, chceme nabídnout i různý doprovodný obsah a jedním z nich je i promítání prvního slovensko-českého dokumentárního filmu o kryptoměnách s názvem [Libertas](https://www.csfd.cz/film/926287-libertas/) (2020). Promítání se uskuteční v **pátek 3. června 2022** večer v [kině Světozor](kryptokino.md#kino-svetozor-velky-sal). Po filmu bude následovat debata s hosty.
 
@@ -29,7 +29,7 @@ Tuto událost pro vás připravujeme společně s libereckou konferencí [Crypto
 * Web: [https://www.kinosvetozor.cz/](https://www.kinosvetozor.cz/)
 * Kapacita: 356 míst / představení
 
-![](<../.gitbook/assets/kino-svetozor02 (1).jpeg>)
+![](<../../../.gitbook/assets/kino-svetozor02 (1).jpeg>)
 
 ## Organizátoři
 

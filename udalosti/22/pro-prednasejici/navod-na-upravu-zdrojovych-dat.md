@@ -27,7 +27,7 @@ Poté se vám otevře editor a vy můžete upravit, to co potřebujete.
 
 Datové soubory jsou v lidsky čitelném značkovacím formátu [YAML](https://yaml.org/) ([návod v češtině](https://zdrojak.cz/clanky/yaml-serializacni-format-pro-ukladani-dat/)). V rámci rozšířených údajů (např. `speakers.bio`, `speakers.desc` nebo `events.description`) může být text dále formátován jako [Markdown](https://www.markdownguide.org/).
 
-![](<../.gitbook/assets/Screenshot 2022-04-21 at 20.04.39.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-04-21 at 20.04.39.png>)
 
 ### Krok 3. - odeslání změn (fork & commit)
 
@@ -37,7 +37,7 @@ Vyplnit stačí jen první pole, kde popíšete v pár slovech vaši změnu a mu
 
 Po kliknutí na tlačítko "_Propose changes"_ se se provede fork repozitáře, a změny se projeví na vašem forku (commit).
 
-![](<../.gitbook/assets/Screenshot 2022-04-21 at 20.08.02.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-04-21 at 20.08.02.png>)
 
 ### Krok 4. - vytvoření Pull Request
 
@@ -45,4 +45,4 @@ Další krok je jen vytvoření [Pull Request](https://docs.github.com/en/pull-r
 
 Vyplňte nadpis, tedy stručné shrnutí vašich změn a klikněte na "Create pull request". Hotovo.
 
-![](<../.gitbook/assets/Screenshot 2022-06-01 at 0.04.42.png>)
+![](<../../../.gitbook/assets/Screenshot 2022-06-01 at 0.04.42.png>)

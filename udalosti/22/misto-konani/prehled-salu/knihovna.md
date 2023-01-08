@@ -6,4 +6,4 @@
 * Počet vstupů: 1
 * Web: [https://www.gabrielloci.com/pronajmy/knihovna/](https://www.gabrielloci.com/pronajmy/knihovna/)
 
-![](../../.gitbook/assets/gabriel-loci-knihovna.jpeg)
+![](../../../../.gitbook/assets/gabriel-loci-knihovna.jpeg)
