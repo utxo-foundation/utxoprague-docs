@@ -6,7 +6,7 @@ coverY: 124
 
 # UTXO.22
 
-UTXO.22 (/juː-tiː-ɛks-əʊ.22/) je otevřená komunitní konference zaměřená na kryptoměny a blockchain, která má ambice stát se **největší akcí svého druhu v České republice**. **** Jedná se o dvoudenní akci, která kombinuje aktuální krypto témata, aniž by se zaměřovala na jeden konkrétní blockchain.
+[UTXO.22](https://22.utxo.cz/) (/juː-tiː-ɛks-əʊ.22/) je otevřená komunitní konference zaměřená na kryptoměny a blockchain, která má ambice stát se **největší akcí svého druhu v České republice**. **** Jedná se o dvoudenní akci, která kombinuje aktuální krypto témata, aniž by se zaměřovala na jeden konkrétní blockchain.
 
 Díky rozsáhlému programu, který obsahuje více než **120 hodin přednášek a workshopů**, můžeme nabídnout obsah jak široké veřejnosti, tak pokročilým uživatelům.
 
@@ -60,7 +60,7 @@ Máme rezervované místo konání a potvrzené první [sponzory](../../sponzori
 
 ## Kde nás najdete
 
-* Web: [utxo.cz](https://utxo.cz/)
+* 2022 Web: [22.utxo.cz](https://22.utxo.cz/)
 * Newsletter: [utxoprague.substack.com](https://utxoprague.substack.com/)
 * Twitter: [@utxoprague](https://twitter.com/utxoprague)
 * Discord: [discord.gg/5k9dEtVhnv](https://discord.gg/5k9dEtVhnv)
